@@ -1048,7 +1048,7 @@ Bake for 20 minutes, until they turn golden brown. handheld
 name = "Potato and Kale Rolls with Raita"
  for four
 These are a great meal to make when you have leftover roti and raita. The filling comes together in minutes and could be anything, but potatoes and greens are tasty and filling.
-8 roti (p. 138)
+ingredients = """8 roti (p. 138)
 2 large or 4 medium potatoes, chopped
 1 bunch kale or spinach, chopped with stems removed
 1 tbsp ghee or butter
@@ -1059,12 +1059,10 @@ These are a great meal to make when you have leftover roti and raita. The fillin
 1 tsp turmeric powder
 1 tsp coriander powder
 1 tsp cayenne powder
-		raita (p. 164)
-		fresh cilantro
+raita (p. 164)
+fresh cilantro"""
 Put a skillet on medium heat and add the ghee or butter. (Ghee, which is traditional in
 Indian cooking, is just butter with the milk solids removed, and it can withstand higher temperatures than butter without burning.)
-$ 5.2 5 t o t a l
-$ 0.66 / r o l l
 Once the butter is hot, add the cumin seeds and let them sizzle for 5 seconds before adding the diced onion. Let the onion cook for 2 minutes, stirring occasionally.
 In a small bowl, mix the garlic, ginger, turmeric, coriander, cayenne powder, salt, and
 1 tablespoon of water.
@@ -1082,17 +1080,17 @@ Dinner
 My favorite meal of the day. For me, eating dinner indicates that the hard work is done: it’s time for family, relaxing, and the more optional endeavors. A great dinner is an opportunity to show love to those you are cooking for and to yourself.
 88
 Zucchini and summer squash are so abundant in the summer months. This simple pasta is like a lighter, brighter fettuccine alfredo. It also comes together in no time—the veggies will be ready by the time your pasta is cooked. You’ll love it, I promise.
-1⁄2 lb fettuccine
+ingredients = """1⁄2 lb fettuccine
 1⁄4 cup cream
 4 tbsp butter
 1⁄2 cup Romano or
 Parmesan, grated
 4 cloves garlic, finely chopped
-		salt and pepper
+salt and pepper
 1⁄2 tsp chili flakes
-		fresh basil, finely
-2 small zucchini, finely diced chopped (optional)
-1 lemon, zested
+fresh basil, finely chopped (optional)
+2 small zucchini, finely diced
+1 lemon, zested"""
 Bring a pot of water to boil over high heat. Salt the water liberally. This is how pasta gets salted, so don’t be shy! Most won’t end up in the pasta.
 Cook the pasta according to the package directions. I prefer my pasta with some bite, so
 I drain the pasta just before it’s finished so it doesn’t get mushy when I add it to the vegetable pan to cook slightly more.
@@ -1105,15 +1103,15 @@ Drain the cooked fettuccine and add it to the zucchini pan along with the rest o
 name = "Pasta with Eggplant and Tomato"
  for two
 This is similar to a traditional pasta alla norma, but without anchovies and ricotta salata. I like to use a tubular pasta for this dish, but you can use anything, even spaghetti. The eggplant and tomatoes come together into a sauce that is thick and jammy and savory.
-1⁄2 lb pasta (rigatoni or similar)
+ingredients = """1⁄2 lb pasta (rigatoni or similar)
 2 tbsp olive oil
 1 large eggplant, cubed
 4 cloves garlic, finely chopped
 1⁄2 tsp chili flakes
 2 cups canned tomatoes, finely diced
 1⁄4 cup Romano or Parmesan, freshly grated
-		salt and pepper
-		fresh basil, finely chopped (optional)
+salt and pepper
+fresh basil, finely chopped (optional)"""
 Put a pot of water on high heat and add a good shake of salt. Bring it to a boil and cook the pasta according to the package instructions.
 While the water is coming to a boil, splash the olive oil into a wide pan on medium-high heat. Let it get hot. Add the eggplant cubes and sprinkle them with salt, then cook for about 5 minutes. If the eggplant starts to look too dry, add a bit of water.
 $5 t o ta l
@@ -1127,29 +1125,28 @@ Serve it in bowls sprinkled with more Romano and basil. dinner dinner
 name = "Chana Masala"
  for two
 This Indian chickpea dish is a staple in my home. If you don’t have cooked chickpeas around, you can use canned, but it will cost about $1 more.
-1⁄2 tbsp ghee or 1⁄2 tbsp butter
-1 tsp smoked paprika plus a splash of olive oil
+ingredients = """1⁄2 tbsp ghee or 1⁄2 tbsp butter plus a splash of olive oil
+1 tsp smoked paprika
 1⁄2 tsp salt
 1 tsp cumin seeds
 1 cup canned tomatoes, puréed
 1⁄2 cup onion, diced
-21⁄2 cups cooked chickpeas,
+2 1⁄2 cups cooked chickpeas,
 1 tsp garlic, finely chopped drained
 1 tsp ginger root, grated
 1⁄2 cup water
 1⁄2 jalapeño, finely diced
-3 tsp coriander powder garnish
+3 tsp coriander powder
 1 tsp turmeric
-		fresh cilantro
 1⁄4 tsp cayenne powder
-		yogurt
 1⁄2 tsp garam masala powder
+
+garnish:
+fresh cilantro
+yogurt"""
 Measure out all the spices except the cumin seeds and put them in a small bowl.
 Let the ghee (clarified butter) melt in a small saucepan over medium-low heat. (Ghee is the traditional Indian choice, but you can substitute butter and a splash of olive oil if you can’t find ghee.) Once the ghee begins to sizzle, add the cumin seeds and stir for about 5 seconds.
 Add the onion and sauté for 2 minutes. Add the garlic and cook for 1 minute. Add the ginger and jalapeño and cook for 1 more minute. Add the spices and then the puréed tomatoes. Mix, then put a lid on the pan and let everything cook down for 5 to 10 minutes.
-$3 t o ta l
-$1. 5 0 / s e r v i n g dinner
-92
 Once the tomato has reduced and the ghee starts to separate from the sauce, add the chickpeas and water.
 Mix, then bring it to a boil before reducing to a simmer.
 Cook for 10 minutes, then squish a few chickpeas with a spoon to thicken the sauce. Garnish with yogurt and cilantro. For a full meal, serve over rice or with roti. dinner
@@ -1160,14 +1157,14 @@ name = "Black-Eyed Peas and Collards"
 $5 t o ta l
 $1.2 5 / s e r v i n g for four
 This is similar to the southern classic Hoppin’ John. If you have them, you can add more vegetables to the base along with the onion—celery, carrot, bell pepper, and some canned tomato would all be great in this. If you want to skip the bacon, just add smoked paprika to replace the smoky flavor.
-1 cup dried black-eyed peas
+ingredients = """1 cup dried black-eyed peas
 1 tbsp butter
 1 large onion, finely chopped
 3 cloves garlic, finely chopped
 3 strips bacon, cut into small pieces
 1 bay leaf
 1 large bunch collards
-		salt and pepper
+salt and pepper"""
 Soak the black-eyed peas overnight in 4 cups of water.
 Melt the butter in a large saucepan on medium heat. Add the onion, garlic, bacon, and bay leaf. Cover the pan with a lid and leave it for 2 minutes. Stir occasionally and cook until the onions are translucent and the bacon is starting to be crispy. Drain the peas and pour them into the saucepan. Cover them with water and turn the heat down to medium-low. Cook for 30 minutes to 2 hours.
 The cooking time will depend on how old the peas are, which is difficult to predict. The peas are done when you can easily squish them on the countertop with the back of a spoon. Check on them every half hour or so, and if water boils off, add more to cover them.
@@ -1183,14 +1180,12 @@ Serve this over rice or any other grain, or with some toast or flatbread. dinner
 [[recipes]]
 name = "Vegetable Jambalaya"
  for six
-$ 3 .9 0 t o t a l
-$ 0 . 65 / s e r v i n g
 I don’t make jambalaya exactly the way they do down south, but this vegetable- heavy version is faster and just as good—a great, throw-everything-in- the-pot kind of meal. It’s spicy, savory and deeply satisfying. The leftovers are great for making burritos or warmed up with a fried egg on top.
 Start with the oil in a large high-sided saucepan over medium-high heat. Add the onion, pepper, and celery, then cook for about 5 minutes, until they become translucent but not brown.
 Add the rest of the ingredients except for the rice and broth. Let everything cook for about 1 minute to let some of the tomato juice release.
 Add the rice and slowly pour in the broth. Reduce the heat to medium and let the dish cook until the rice absorbs all the liquid. It should take about 20 to
 25 minutes.
-2 tbsp vegetable oil
+ingredients = """2 tbsp vegetable oil
 1 medium onion, chopped
 1 green bell pepper, chopped
 3 stalks celery, chopped
@@ -1207,17 +1202,19 @@ Add the rice and slowly pour in the broth. Reduce the heat to medium and let the
 1 tsp pepper
 1 tsp Worcestershire sauce or soy sauce
 3⁄4 cup long grain rice
-3 cups vegetable broth or chicken stock additions
-		slices of fried sausage
-		shrimp
-		leftover meat, tofu, or beans
+3 cups vegetable broth or chicken stock
+
+additions:
+slices of fried sausage
+shrimp
+leftover meat, tofu, or beans"""
 If you’re using any of the additions, throw them in at about the 15-minute mark to let them warm up. dinner dinner
 96 97
 
 [[recipes]]
 name = "Filipino Chicken Adobo"
  for eight
-3⁄4 cup rice vinegar or white vinegar
+ingredients = """3⁄4 cup rice vinegar or white vinegar
 1⁄4 cup soy sauce
 2 cloves garlic, minced
 1⁄2 tsp black pepper
@@ -1228,16 +1225,17 @@ name = "Filipino Chicken Adobo"
 2 medium potatoes, chopped
 4 medium carrots, sliced
 2 cups white rice
-		salt
-2 tsp cornstarch additions
+salt
+2 tsp cornstarch
+
+additions:
 4 jalapeños
-		ginger root, grated va r i at i o n s
-11⁄2 lb pork shoulder or butt, cubed, instead of chicken
+ginger root, grated
+
+variations:
+1 1⁄2 lb pork shoulder or butt, cubed, instead of chicken
 1 can coconut milk instead of water
-		chicken schmaltz instead of vegetable oil
-This ultra-adaptable recipe comes to us care of Tony Pangilinan, who grew up on food stamps after his family immigrated from the Philippines “with nothing but four suitcases and a lot of dreams.” After several decades of struggling to achieve those dreams, Tony can now help support family members who remain in poverty in the Philippines. Despite their hard circumstances, he notes that his relatives “still feel blessed.”
-$10 . 4 0 t o t a l
-$1. 3 0 / s e r v i n g
+chicken schmaltz instead of vegetable oil"""
 Filipino adobo—very different from Spanish adobo—is basically anything cooked in vinegar, soy sauce, and garlic. Although this version is chicken, you can use any meat or vegetables you like.
 It’s a brilliant dish that turns basic staples into deliciousness.
 Because it’s vinegar-based, it also keeps well in the fridge!
@@ -1247,20 +1245,18 @@ Pour the oil into a large pot on medium heat. Once the oil is hot, add enough ch
 After all the chicken is browned, put it back in the pot along with the marinade, water, potatoes, and carrots. Turn the heat up until the liquid comes to a boil, then reduce to low heat and simmer for 45 minutes, or until the meat near the bone is no longer pink and the carrots and potatoes are cooked through.
 About 20 minutes before the adobo is ready, pour the rice into a medium pot with 4 cups of water. Add two pinches of salt.
 Bring to a boil over medium heat with the lid off. Turn the heat down and cover with a lid that is slightly askew to let the steam escape. Cook about 20 minutes, until the water is all gone. dinner
-98
+
 Remove the bay leaves from the adobo. In a small bowl, mix the cornstarch with a tablespoon of water, then stir it into the sauce. Let the sauce boil and thicken until the chicken and vegetables are well glazed. Serve over the rice. dinner
-99$3 t o ta l
-$1. 5 0 / s e r v i n g
 
 [[recipes]]
 name = "My Dad’s Baked Beans"
  for two
 , or four as a side
 My dad loves beans in basically any form. This is his formula for the quickest, easiest way to get beans on his plate without missing out on great flavor. Dad’s beans rely on a can of baked beans as the base, while my version uses dried beans you might have left over from another meal. Mine requires a little more cooking and chopping to create the sauce, but comes out even less expensive because of the dried beans. They both taste great, so go with what works best for you: super quick and cheap, or quick and cheaper.
-2 cans (27 oz) baked beans
+ingredients = """2 cans (27 oz) baked beans
 2 tbsp mustard
 2 tbsp molasses or brown sugar
-2 tsp chipotle en adobo, or any chili sauce
+2 tsp chipotle en adobo, or any chili sauce"""
 If you’re using the chipotle en adobo, chop it finely to be sure the spice will be evenly distributed.
 Mix all the ingredients into a pot and heat on the stove until the beans are warmed through. Give it a stir and serve. Or do it all in the microwave—works just as well!
 Serve with rice, or just in a bowl. For an English-style breakfast, try spreading the beans over toast. Or throw them into a burrito, or scramble them with eggs, or stir-fry with onions and bell pepper.
@@ -1269,44 +1265,44 @@ Serve with rice, or just in a bowl. For an English-style breakfast, try spreadin
 name = "And Mine"
  for two
 , or four as a side
+ingredients = """
 3 cups dried pinto, red, or black beans, cooked
 1⁄2 cup canned tomatoes, puréed or chopped, with juice
 1⁄4 onion, finely chopped
 2 tbsp mustard
 2 tbsp molasses or brown sugar
-2 tsp chipotle en adobo, or any chili sauce va r i at i o n s
-		spicy mustard
-		no chipotle toppings
-		salsa
-		scallions
-		fresh cilantro
-		avocado
-		tomato
-		crumbled bacon
-		chunks of ham
+2 tsp chipotle en adobo, or any chili sauce
+
+variations:
+spicy mustard
+no chipotle
+
+toppings:
+salsa
+scallions
+fresh cilantro
+avocado
+tomato
+crumbled bacon
+chunks of ham"""
 Cook everything in a pot on medium heat for approximately 5 minutes, or until the juices thicken. That’s it! dinner dinner
-10 0 101
 
 [[recipes]]
 name = "Half-Veggie Burgers"
  for eight
 When a reader named Quinn suggested a recipe that used both lentils and meat, I started thinking about how veggie burgers and beef burgers each have their own strengths. Why not combine the two ideas to create a burger with meaty flavor but the lean protein and low cost of lentils? And so I offer you the half-veggie burger. May it rest a little lighter in your belly.
-3 cups lentils or beans, cooked
+ingredients = """3 cups lentils or beans, cooked
 1 cup bell pepper or other vegetable, finely chopped
 1 lb ground beef or other ground meat
 1 egg (optional)
-		salt and pepper
-8 buns
+salt and pepper
+8 buns"""
 You can use almost any vegetable to make these burger patties, except lettuce and other greens. If you pick a hard vegetable like potato, squash, or eggplant, you’ll need to cook it first.
 Roughly mash the lentils. Make sure the vegetables are either small to begin with (like corn or peas) or finely chopped so that they cook evenly. I went for a bell pepper this time.
 Mix the lentils, veggies, and meat with your hands in a large bowl. If you’re going to barbecue, add an egg to keep them from crumbling. Season with salt and pepper. Form into 8 patties.
 Grill the patties either on the barbecue or a pan on the stovetop over medium-high heat. Sear until dark brown on one side, then flip ’em and do the same on the other side. If you want cheeseburgers, lay cheese on the patties after flipping them once.
 Serve on toasted buns with your favorite condiments and fresh vegetables. Burgers are a great place to be adventurous! dinner
-10 2
 If you won’t eat all the burgers at once, wrap the raw patties in plastic. Refrigerate for a few days or freeze for up to 2 weeks.
-$ 7.2 0 t o t a l
-$ 0 .9 0 / s e r v i n g dinner
-10 3
 
 [[recipes]]
 name = "Beef Stroganoff"
@@ -1314,8 +1310,8 @@ name = "Beef Stroganoff"
 $16 . 5 0 t o t a l
 $ 2 . 75 / s e r v i n g
 Beef stroganoff is one of my husband’s favorites, so I make it as a treat for him—and one of my early readers, Dave, says his mother made it for him growing up. It’s a classic winter meal from Eastern Europe that warms up a cold house and fills the air with rich aroma. You can use any cut of beef; just adjust the cooking time based on the toughness. Dave’s mom made it with red pepper instead of carrot, so feel free to do the same if you can get red peppers at a good price.
-1 lb beef chuck or other cut
-		salt and pepper
+ingredients = """1 lb beef chuck or other cut
+salt and pepper
 2 tbsp butter
 2 onions, chopped
 2 large carrots, chopped
@@ -1326,11 +1322,12 @@ Beef stroganoff is one of my husband’s favorites, so I make it as a treat for 
 1 lb mushrooms, chopped
 1 lb egg noodles
 1⁄2 cup sour cream
-3 tbsp mustard additions
+3 tbsp mustard
+
+additions:
 1⁄2 cup red wine
-		potatoes
-		fresh dill dinner
-10 4
+potatoes
+fresh dill dinner"""
 Chop the raw beef into bite-sized pieces and season generously with salt and pepper.
 Melt half the butter in a large saucepan on medium heat. Toss in enough beef to cover the bottom of the pan. You may need to cook the meat in two batches, depending on the size of your pan. Brown the meat on all sides, then set it aside on a plate.
 Add the onions and carrots to the pan and cook until the onions become translucent. Sprinkle with the flour and paprika, then cover with water. Drop the meat back in the pot. Cover the pot with a lid, but leave it askew so the steam can escape. Cook on medium-low heat for 2 hours. This process will make the beef tender and turn the water into beef stock.
@@ -1357,7 +1354,7 @@ Cut the tofu into four slices, then turn each slice into eight squares. Or just 
 Add the tofu, carrots, and the white parts of the scallions to the broth. Cook about 10 minutes more, until the carrots are tender.
 Add the noodles and keep boiling until they soften, usually just a few minutes, although it depends on the type of noodles.
 for four
-1 tbsp ginger root, finely grated
+ingredients = """1 tbsp ginger root, finely grated
 4 cloves garlic, finely grated
 8 cups water
 1⁄2 lb mushrooms, chopped
@@ -1368,41 +1365,41 @@ for four
 16 oz firm tofu
 4 medium carrots, chopped
 8 oz dried spaghetti, soba, or any Asian noodles
-		bean sprouts (optional) additions
-		chicken, pork, or beef
-		peanuts, chopped
-		cabbage, chopped
-		kimchi
-		chili peppers
-		fresh cilantro
-		daikon radish, sliced
+bean sprouts (optional)
+
+additions:
+chicken, pork, or beef
+peanuts, chopped
+cabbage, chopped
+kimchi
+chili peppers
+fresh cilantro
+daikon radish, sliced"""
 Taste the broth. If it isn’t salty enough, splash in more soy sauce. Adjust the sesame oil and chili paste to your taste as well.
 Ladle the soup into bowls. For a little crunch, top with bean sprouts and the green bits of the scallions.
-$ 7.2 0 t o t a l
-$1. 8 0 / s e r v i n g dinner
-10 6
 If you have leftovers, you’ll find you like this soup even more the next day. Overnight, the flavors will infuse into the tofu, as well as combining with each other. You might want to store the noodles separately, though, because otherwise they’ll get soggy. dinner
-107
 
 [[recipes]]
 name = "Deconstructed Cabbage Rolls"
 for six
 Heat the oven to 350 °F.
 So here’s my adaptation of one of Carolie’s favorite casseroles, itself a play on cabbage rolls, a traditional Eastern European dish that is delicious but labor- intensive. This version is a good way to use up leftover rice or grains and lentils, including leftover rainbow rice (p. 144).
-1 tbsp butter
+ingredients = """1 tbsp butter
 1 fresh sausage, casing removed
 1 onion, chopped
 4 cloves garlic, finely chopped
 1 small or 1⁄2 large cabbage, cored and chopped
 3 cups cooked rice (p. 144)
 4 cups cooked lentils
-31⁄2 cups canned tomatoes, puréed, or tomato sauce (p. 142)
-		salt and pepper additions
-		breadcrumbs (p. 146) on top
-		olives
-		peas or corn
-		cheese
-		any spice combination (p. 166)
+3 1⁄2 cups canned tomatoes, puréed, or tomato sauce (p. 142)
+salt and pepper
+
+additions:
+breadcrumbs (p. 146) on top
+olives
+peas or corn
+cheese
+any spice combination (p. 166)"""
 Melt the butter in a large pan over medium heat. Slice the casing off the sausage and crumble the raw meat into the pan. I used fresh chorizo because it’s easy to find in my neighborhood and I love the spicy, smoky flavor, but you should use whatever your favorite is. A sweet Italian sausage would taste great too. Sauté the meat until it’s no longer pink, then move it to a large bowl.
 Sauté the onion and garlic in the same pan, with the sausage drippings. Once the onion turns translucent, add the cabbage and sauté for 5 to 7 minutes, until tender enough to jab easily with a fork. Season generously with salt and pepper.
 While the cabbage cooks, mix the rice and lentils into the sausage bowl. Add salt, pepper, and any other spices you’d like.
@@ -1420,24 +1417,21 @@ $1. 5 0 / s e r v i n g dinner
 name = "Savory Summer Cobbler"
 Put the butter for the topping in the freezer for 30 minutes. Set the oven to 425 °F.
 Lightly oil an 8” x 10” baking dish (or any baking dish that will accommodate the mixture) and pile in the vegetables, garlic, scallions, lemon zest, and basil. Pour the olive oil, salt, and pepper over top and mix it up with your hands. Bake the vegetables for 25 minutes while you prepare the biscuit topping.
-$8 t o ta l
-$2 / s e r v i n g for four
+for four
 For the topping, measure out the flour, cornmeal, baking powder, salt, pepper, paprika, and cheese into a bowl. Mix it up!
 Celebrate summer’s most ubiquitous vegetables, tomato and zucchini, with a crunchy
 Southern biscuit topping.
-3-4 medium zucchini or summer squash, chopped into bite-sized pieces
+ingredients = """3-4 medium zucchini or summer squash, chopped into bite-sized pieces
 3-4 large tomatoes, canned or fresh, chopped into bite-sized pieces
 3 cloves garlic, finely chopped
 4 scallions, finely chopped
 1 lemon, zested
 1⁄4 cup fresh basil (optional)
 1 tbsp olive oil
-		salt and pepper topping
-Once the butter is frozen, use a box grater to flake the butter into the flour mixture. Gently massage the butter into the flour with your fingers until it’s crumbly but still clumpy. Add the milk and quickly bring the dough together. Don’t knead the dough: lumpiness is fine and results in flaky topping. Put it in the fridge until the vegetables come out of the oven.
-Once the vegetable mixture has cooked for 25 minutes, quickly top it with small clumps of biscuit dough. The vegetables should still be visible in some areas.
-Bake for 20 to 25 minutes or until the vegetables are bubbly and the topping is lightly browned. Top with some more cheddar and some chopped herbs, then enjoy!
-For a variation, swap the zucchini for eggplant. Chop the eggplant into bite-sized pieces, salt them, and set them aside for 30 minutes before continuing with the recipe as you would with the zucchini.
-11⁄2 cups all-purpose or whole-wheat flour
+salt and pepper
+
+topping:
+1 1⁄2 cups all-purpose or whole-wheat flour
 1⁄2 cup cornmeal
 1 tbsp baking powder
 1⁄2 tsp salt
@@ -1445,32 +1439,35 @@ For a variation, swap the zucchini for eggplant. Chop the eggplant into bite-siz
 1 tsp smoked paprika
 1⁄2 cup sharp cheddar, grated
 1⁄2 cup butter
-1 cup milk dinner dinner
-110 111
+1 cup milk"""
+Once the butter is frozen, use a box grater to flake the butter into the flour mixture. Gently massage the butter into the flour with your fingers until it’s crumbly but still clumpy. Add the milk and quickly bring the dough together. Don’t knead the dough: lumpiness is fine and results in flaky topping. Put it in the fridge until the vegetables come out of the oven.
+Once the vegetable mixture has cooked for 25 minutes, quickly top it with small clumps of biscuit dough. The vegetables should still be visible in some areas.
+Bake for 20 to 25 minutes or until the vegetables are bubbly and the topping is lightly browned. Top with some more cheddar and some chopped herbs, then enjoy!
+For a variation, swap the zucchini for eggplant. Chop the eggplant into bite-sized pieces, salt them, and set them aside for 30 minutes before continuing with the recipe as you would with the zucchini.
 
 [[recipes]]
 name = "Cauliflower Cheese"
  for four
-$6.60 t o ta l
-$1. 65 / s e r v i n g
 This is a classic side dish in Great
 Britain: creamy, cheesy sauce over cauliflower, baked in the oven until the edges get crunchy and bubbly. It’s like a healthier and more flavorful version of macaroni and cheese. Alternatively, try this with broccoli or cooked winter squash—everyone will love it.
-1 head cauliflower, cut into bite-sized florets
+ingredients = """1 head cauliflower, cut into bite-sized florets
 2 tsp salt
 1 tbsp butter
 3 cloves garlic, finely chopped
 1⁄2 tsp chili flakes
 1 bay leaf
 1 tbsp all-purpose flour
-11⁄2 cups milk
+1 1⁄2 cups milk
 6 oz sharp cheddar, grated
-		salt and pepper additions
-		breadcrumbs (p. 146)
+salt and pepper
+
+additions:
+breadcrumbs (p. 146)
 1 tbsp Dijon mustard
 4 scallions, finely chopped
 1 lemon, zested
 1 tsp smoked paprika
-1⁄2 tsp thyme
+1⁄2 tsp thyme"""
 Set the oven to 400 °F.
 Bring a large pot of water to boil over high heat. Add the salt and the cauliflower, then leave it for 4 minutes.
 Meanwhile, butter a baking dish large enough to comfortably accommodate all the cauliflower. I usually use a pie dish. Drain the water from the cauliflower and pour it into the baking dish.
@@ -1487,19 +1484,17 @@ name = "Vegetable Quiche, Hold the Crust"
  for four
 Much as I love this quiche hot, I like it even better cold out of the fridge the next day. It makes a great fast breakfast or lunch. The quiche in the picture uses broccoli, but you can make it with pretty much any kind of vegetable.
 Some of my favorites are roasted green chilies and cheddar, winter squash with goat cheese, zucchini and tomato, or spinach and olive.
-1 tbsp butter
+ingredients = """1 tbsp butter
 1 large onion, sliced into half moons
 3-4 cups chopped vegetables
 8 eggs
 1 cup milk
 1 cup cheddar or other cheese, grated
 1 tsp salt
-1⁄2 tsp black pepper
+1⁄2 tsp black pepper"""
 Set the oven to 400 °F.
 There are two ways to make this quiche. If you have a cast-iron or other oven-proof skillet, you can make the quiche right in the skillet. This cuts down on dishes.
 Otherwise, start with a regular skillet and later transfer everything to a pie plate to bake.
-$6 t o ta l
-$1. 5 0 / s e r v i n g
 Melt the butter in a skillet over medium heat. Add your onion slices and sprinkle a bit of salt and pepper over them. Cook the onions until they are golden brown and starting to caramelize. If your pan is oven-proof, simply remove it from the heat and spread the onions evenly across the bottom. Otherwise, butter a pie plate and scoop the onions into it, creating an even layer on the bottom. The onions add a crust-like texture and a bit of crunch.
 A note on vegetables: For things like broccoli, cauliflower or winter squash, I suggest steaming or cooking them before adding them to the quiche to ensure they’ll be fully cooked. For tomatoes, zucchini, spinach or any other quick-cooking vegetable, just use them fresh.
 Spread the vegetables evenly over top of the onions. The dish or pan should look fairly full.
@@ -1507,18 +1502,18 @@ In a bowl, use a fork to lightly beat the eggs with the milk, cheese, salt, and 
 Pour the custard over the vegetables and onions and enjoy watching it fill in all the free spaces.
 Bake the quiche in the oven for 1 hour. Once the surface is lightly brown all the way across, it’s fully cooked.
 Let the quiche cool for about 20 minutes, then slice into wedges and serve with a side salad. dinner dinner
-114 115$12 t o t a l
-$3 / s e rv i n g
 
 [[recipes]]
 name = "Shrimp and Grits"
  for four
 The cost of shrimp has jumped sharply since I wrote this recipe, so save this one until you can find a deal—under about $8 per pound. This is far from an authentic Southern version of this dish, but it is absolutely delicious.
 Southerners will demand you use white stone-ground corn for this, and I won’t quibble, but feel free to use yellow if it doesn’t offend you. grits
-1 cup grits
+ingredients = """1 cup grits
 41⁄2 cups vegetable or chicken stock
 1⁄2 cup sharp cheddar, grated
-3 scallions, finely chopped topping
+3 scallions, finely chopped
+
+topping:
 1 lb shrimp, peeled and deveined
 1 tbsp butter or vegetable oil
 1 medium onion, chopped
@@ -1526,21 +1521,20 @@ Southerners will demand you use white stone-ground corn for this, and I won’t 
 2 sticks celery, chopped
 2 cloves garlic, finely chopped
 1 green chili, finely diced (optional)
-1 tomato, chopped
+1 tomato, chopped"""
 Bring the stock to a boil in a medium-sized pot, then turn the heat down to low and slowly pour in the cornmeal while stirring briskly with a wooden spoon.
 Stirring while pouring is crucial to keep the grits creamy and smooth—no lumps! Once the grits become smooth and thick, place a lid on the pot with the spoon still in it so that steam can escape.
 Let the grits cook while you prepare the rest of the meal, checking in occasionally to give them a stir. The total cooking time should be about 25 to 30 minutes.
 Meanwhile, prepare the shrimp and vegetables. Add the butter or oil to a large pan on medium heat and let it get hot. Add the onion, pepper, and celery. Sauté until the onion is just translucent, about 2 minutes. Add the garlic, as well as the green chili if you like things spicy.
 Let everything cook for another minute. Add the tomato and cook for 3 or 4 minutes, until the tomato releases its juice and the vegetables resemble a thick and chunky sauce. Add a dribble of water to keep everything loose and saucy, then toss in the shrimp. Cook, stirring occasionally, until the shrimp are pink all over. Add salt and pepper to taste.
 Once the grits are ready, take them off the heat and add the cheese and most of the scallions, then stir. Ladle the grits into bowls and top with the shrimp, vegetables, and a few more scallions. dinner dinner
-116 117
 
 [[recipes]]
 name = "Spicy, Crunchy, Creamy Polenta"
 Bring the water and salt to a boil in a medium-sized pot, then turn the heat down to low and slowly pour in the polenta while stirring briskly with a wooden spoon.
 Stirring while pouring is crucial to keep the polenta creamy and smooth—no lumps! Once the cornmeal becomes smooth and thick, place a lid on the pot with the spoon still in it so that steam can escape. for two Let the polenta cook while you prepare the rest of the meal, checking in occasionally to give it a stir. The total cooking time should be about 25 to 30 minutes, but if you’re in a rush, you can eat it after 15.
 Polenta plus vegetable plus egg equals satisfying and delicious. You can also add a can of corn to the polenta for deep, rich, corny flavor. Or go a little different by adding frozen peas, scallions, olives, or (my favorite) green chilies to the polenta. Or skip the Romano and add 1⁄4 cup of grated cheddar to the polenta. Meanwhile, chop the spinach, garlic, and anchovy if you’re using it. Set them aside. Add a bit of olive oil or butter to a pan on medium heat. Let the pan heat up until it sizzles when you flick it with water. Add the garlic, anchovy, and chili flakes. Let them cook until you can smell them, about 1 minute. Add the spinach and toss it around with a spoon or tongs, or just swirl the pan to coat the spinach with the garlic mixture. Let everything cook for 3 to 5 minutes, until the spinach is wilted. Remove the pan from the heat and move its contents to a bowl to wait for the polenta and eggs.
-1⁄2 cup polenta or cornmeal
+ingredients = """1⁄2 cup polenta or cornmeal
 2 cups water
 1⁄2 tsp salt
 1 tbsp olive oil
@@ -1549,26 +1543,22 @@ Polenta plus vegetable plus egg equals satisfying and delicious. You can also ad
 1 anchovy, finely chopped (optional)
 1⁄2 tsp chili flakes (or fresh chili)
 2 eggs
-		Romano or Parmesan, freshly grated
-		salt and pepper
-$3.50 t o ta l
-$1. 75 / s e r v i n g
+Romano or Parmesan, freshly grated
+salt and pepper"""
 When the polenta is about 2 minutes from done, start with the eggs. Wipe the pan quickly with a cloth, then put it back on medium heat. Splash a bit more olive oil in the pan and wait for it to get hot. Crack the two eggs into the pan and cover with a lid. This will steam them, making sunny-side-up eggs with fully cooked whites.
 Scoop the polenta into a pair of bowls. Add some
 Romano and lots of salt and pepper. Layer about half the vegetables over the polenta.
 Once the whites of the eggs are cooked, remove them from the pan with a spatula and lay them over the polenta and vegetables. Top with the rest of the vegetables and further sprinklings of cheese. dinner dinner
-118 119$ 8 - $15 t o t a l
-$1. 5 0 - $ 2 . 75 / s e r v i n g
 
 [[recipes]]
 name = "Roast Chicken"
  for six
 A whole chicken is usually less expensive than buying single pieces like breasts or thighs—plus you can make stock later from the bones and any meat too difficult to get off. The leftovers can be used in sandwiches, tacos, over a salad, or tossed with sauce and mixed into pasta. This is a base recipe: add spices to the butter or sprinkle over the surface of the chicken to change up the flavor in any way you like.
-1 whole chicken
+ingredients = """1 whole chicken
 1 tbsp butter
 2 cloves garlic
 1 lemon
-		salt and pepper
+salt and pepper"""
 Heat the oven to 400 °F.
 Remove the giblets and neck from the chicken. Keep them for stock later. Rub the entire bird with butter, then sprinkle it with salt and pepper.
 Smash the garlic cloves with the side of your knife and slice the lemon in half. Stuff the garlic and lemon into the chicken’s body cavity.
@@ -1581,6 +1571,38 @@ After you’ve carved away all the meat, make chicken stock from the carcass. Si
 
 [[recipes]]
 name = "Roasted Vegetables"
+ingredients = """vegetables
+olive oil or butter
+salt and pepper
+
+roots:
+potatoes
+sweet potatoes
+beets
+turnips
+onions
+parsnips
+carrots
+sunchokes
+kohlrabi
+fennel
+
+non-roots:
+bell peppers
+winter squash
+broccoli
+Brussels sprouts
+cauliflower
+asparagus
+eggplant extras
+
+extras:
+whole garlic cloves (unpeeled)
+lemon slices or lemon zest
+anything you would pair with roast chicken
+tough herbs like sage, oregano, thyme
+bay leaves
+any dry spice combination (p. 166)"""
 Set the oven to 400 °F.
 Clean and chop your vegetables. Generally, I prefer to leave the skin on for the following reasons: skin tastes nice and gets crispy; there’s a lot of nutrition in the skin; peeling is slow! Just be sure to wash the vegetables thoroughly.
 It’s up to you how you want to chop your vegetables.
@@ -1589,31 +1611,19 @@ Dump your vegetables into a roasting pan. Drizzle everything with olive oil or m
 
 When the weather turns cool, I want only to eat warm, flavorful food.
 Roasting is easy, it warms up the kitchen, and it makes the house smell like the holidays. If you’re uncertain how to prepare a new vegetable, you usually can’t go wrong with roasting— most things end up sweeter, with nice crunchy bits. If you roast a bunch of vegetables at the beginning of the week, you can eat them throughout the week in various ways: with eggs at breakfast, folded into an omelette, as a side dish, in a taco or sandwich, on toast, or with any grain.
-Pop the pan in the oven for 1 hour or longer, but check on the vegetables after 45 minutes. Test them by poking them with a knife. If it meets no resistance, they’re
-		vegetables finished; if not, let them cook longer. Don’t worry: it’s
-		olive oil or butter not much of a problem if you overcook them. Unlike
-		salt and pepper vegetables overcooked through boiling or steaming, overcooked roasted vegetables may dry out a bit, but roots still retain their shape and flavor.
-After you pull the vegetables out of the oven, push them around with a spatula to free them from the pan.
-Remove any garlic cloves and smash them into a fine paste (removing the skins at this point), then put the garlic back in the pan and mix together.
-		potatoes, sweet potatoes, beets, turnips, onions, parsnips, carrots, sunchokes, kohlrabi, fennel non - roots
-		bell peppers, winter squash, broccoli, Brussels sprouts, cauliflower, asparagus, eggplant extras
+Pop the pan in the oven for 1 hour or longer, but check on the vegetables after 45 minutes. Test them by poking them with a knife. If it meets no resistance, they’re finished; if not, let them cook longer. Don’t worry: it’s not much of a problem if you overcook them. Unlike vegetables overcooked through boiling or steaming, overcooked roasted vegetables may dry out a bit, but still retain their shape and flavor.
+After you pull the vegetables out of the oven, push them around with a spatula to free them from the pan. Remove any garlic cloves and smash them into a fine paste (removing the skins at this point), then put the garlic back in the pan and mix together.
 Squeeze the juice out of any lemons and discard the woody bits of any cooked herbs. Add a little more butter, a bit of favorite sauce, a little soft cheese or mayonnaise, and serve. dinner
-12 2
-Turn the page for another great idea for roasted veggies.
-		whole garlic cloves (unpeeled), lemon slices or lemon zest, anything you would pair with roast chicken, tough herbs like sage, oregano, thyme, bay leaves, any dry spice combination (p. 166)
-123 dinner
-123$3 t o ta l
-$ 0 . 75 / s e r v i n g
 
 [[recipes]]
 name = "Roasted Potatoes with Chilies"
  for four
 It doesn’t get much simpler or more satisfying than this. You can use any pepper you like—from large, dark poblanos, to Hungarian wax chilies, to bell peppers.
-4 medium potatoes, chopped into bite-sized pieces
+ingredients = """4 medium potatoes, chopped into bite-sized pieces
 4 medium chilies, chopped into bite-sized pieces
 2 cloves garlic, unpeeled
 1 tbsp butter, melted
-		salt and pepper
+salt and pepper"""
 In a large roasting pan, tumble together the potatoes, peppers, and garlic. When you chop the peppers, be sure to get rid of the seeds and white placenta inside.
 Pour the butter over top and sprinkle liberally with salt and pepper. Potatoes need quite a bit of salt! Use your hands to mix everything up.
 Roast for 1 hour, or until you can spear the potatoes easily with a fork and everything is a little crispy.
@@ -1629,48 +1639,40 @@ name = "Spicy Broiled Tilapia with Lime"
  for two
 This meal comes together so quickly it’s astonishing.
 Broiled fish is crispy on the outside and flaky and moist on the inside. If you quickly sauté some vegetables while the fish cooks, dinner will be on the table in minutes.
-2 fillets tilapia or other white fish
+ingredients = """2 fillets tilapia or other white fish
 1 tsp salt
 1⁄2 tsp pepper
 1 tsp cayenne pepper
-Big Batch
-It’s simple economics: usually making a large amount of something is cheaper and more efficient than making lots of different small dishes. You can blow a whole batch all on a big celebration or portion these dishes out and freeze them for later use. You’ll be extremely grateful to your past self when you pull delicious home-made food out of the freezer on a busy Monday evening!
 1 tsp cumin powder
 1⁄2 tsp garlic powder
 1⁄2 tsp oregano
-1⁄2 lime, juiced
+1⁄2 lime, juiced"""
 Turn your oven’s broiler to high.
 Mix the spices together in a small bowl. Sprinkle them over both sides of the fish and massage gently with your fingers to cover thoroughly in the spices.
 Lay the fish on a baking pan lined with aluminum foil.
-Broil for 4 to 7 minutes. The fish will cook very quickly, so after 4 minutes, check to see if they’re done by gently inserting a butter knife into the thickest part. If it goes through easily and the fish flakes apart, you’re done. If the knife meets resistance and the fish stays together, put the fillets back under the broiler for another few minutes. Once you’ve done this once or twice, you’ll be able to tell when your fish is done at a glance. dinner
-12 6
+Broil for 4 to 7 minutes. The fish will cook very quickly, so after 4 minutes, check to see if they’re done by gently inserting a butter knife into the thickest part. If it goes through easily and the fish flakes apart, you’re done. If the knife meets resistance and the fish stays together, put the fillets back under the broiler for another few minutes. Once you’ve done this once or twice, you’ll be able to tell when your fish is done at a glance.
 When the fish is done, squeeze a lime over it. Serve with rice or a favorite side dish like spicy green beans (p. 59).
-127
 
 [[recipes]]
 name = "Spicy Pulled Pork"
-Pulled pork is a celebration, worthy of a special day. It’s incredibly flavorful, rich, spicy, and remarkably versatile. Although it seems expensive, it’s quite a bargain when you look at the price per serving. As with most celebratory meals, this one takes quite a long time to prepare. Most of the time, however, is just spent waiting for it to cook “low and slow.” for ten
-5 lb pork shoulder dry rub cup brown sugar
+ingredients = """5 lb pork shoulder
+
+dry rub:
+1/3 cup brown sugar
 2 tbsp coffee, ground
 2 tbsp kosher salt
 4 tsp smoked paprika
-1 /
-3
-3 tsp
-2 tsp
-1 tsp
-1 tsp
-1 tsp
-1 tsp sweet paprika cumin powder coriander powder clove powder garlic powder black pepper
+1 tsp sweet paprika
+2 tsp cumin powder
+1 tsp coriander powder
+1 tsp clove powder
+1 tsp garlic powder
+1 tsp black pepper"""
 Mix the rub ingredients together. Apply liberally to the pork shoulder, pressing it gently into the meat until you’ve covered every side.
 Set any leftover rub aside for later. Place the pork shoulder in a large pot with a tight lid or a
 Dutch oven. Cover with a towel or lid and leave in the fridge for a few hours or overnight.
 Pour enough water into the pot to cover the bottom. This will keep the juices from burning.
 Put the lid on and place the pot in a 200 °F oven for 10 to 12 hours. I find it’s easier if I cook the pork overnight and pull it out in the morning, but you can put it in early in the morning and have it ready for dinner as well.
-$14 t o t a l
-$1. 4 0 / s e r v i n g
-128
-128 bat c h e s
 The supposed rule is that cooking takes 1.5 to
 2 hours per pound of pork, but I find it usually takes a little longer than that. You are waiting for the internal temperature to reach 200 °F.
 The meat is edible at 160 °F, but at higher temperatures the tough connective tissues break down to create the flavor and texture that make pulled pork a delicious and unique treat.
@@ -1685,21 +1687,14 @@ Don’t forget some veggies on the side to round out the meal—a simple green s
 
 [[recipes]]
 name = "Classic Deviled Eggs"
-- makes twenty four half eggs
-Deviled eggs are my favorite party food and the perfect recipe to dedicate to my friend
-Camilla. At parties, I often eat too much random junk food and end up feeling gross.
-These eggs are a great antidote: festive and delicious without being empty calories. Although they’re a little fussy, they aren’t actually difficult to make. I’ll start you off with these few ideas, but you can add whatever flavors suit your fancy.
-Hard-boiled eggs are easier to peel if the eggs aren’t quite fresh, so try making these when you have eggs that have been sitting around for a week or two.
-12 eggs
-		salt and pepper
+ingredients = """12 eggs
+salt and pepper
 2 scallions, finely chopped (optional)
-		paprika (optional)
-Place a layer of eggs at the bottom of a pot that is large enough to fit them with a bit of wiggle room. If you can’t fit all your eggs, don’t stack them—they might crack. Split them into batches instead.
-$ 0 .15 / h a l f e g g classic
+paprika (optional)
 2 tbsp mustard
 2 tbsp mayonnaise
 2 tbsp water, pickle juice, or lemon juice
-Cover the eggs with cold water. Bring the pot to a boil over medium heat without a lid. As soon as the water is boiling, turn off the heat and cover the pot with a tight lid. Set a timer for 10 minutes.
+
 variations:
 any spice combination (p. 166)
 any vegetable, finely chopped
@@ -1707,44 +1702,65 @@ green chili and cheese
 feta and fresh dill
 bacon
 avocado
-olives bat c h e s
-
-
-[[recipes]]
-name = "Chili and Lime Deviled Eggs"
-2 tbsp mayonnaise
-2 tbsp lime juice
-1 jalapeno, finely chopped
+olives"""
+Place a layer of eggs at the bottom of a pot that is large enough to fit them with a bit of wiggle room. If you can’t fit all your eggs, don’t stack them—they might crack. Split them into batches instead.
+Cover the eggs with cold water. Bring the pot to a boil over medium heat without a lid. As soon as the water is boiling, turn off the heat and cover the pot with a tight lid. Set a timer for 10 minutes.
 When the timer goes off, gently pour out the hot water and cover the eggs with very cold water. The cold water stops the cooking process so that you don’t end up with that slightly icky blue-green skin around your yolk.
 
 [[recipes]]
+name = "Chili and Lime Deviled Eggs"
+ingredients = """12 eggs
+salt and pepper
+2 scallions, finely chopped (optional)
+paprika (optional)
+2 tbsp mayonnaise
+2 tbsp lime juice
+1 jalapeno, finely chopped"""
+
+[[recipes]]
 name = "Curried Deviled Eggs"
+ingredients = """12 eggs
+salt and pepper
+2 scallions, finely chopped (optional)
+paprika (optional)
 2 tbsp mayonnaise
 2 tbsp water
-4 tsp curry powder or 1 tsp each of turmeric, cayenne, coriander, and cumin
+4 tsp curry powder or 1 tsp each of turmeric, cayenne, coriander, and cumin"""
 Peel the eggs. Everyone has their own technique, but
 I like to gently roll each egg across the counter to crack the shell. Roll the egg around until it looks like a cracked desert landscape, then peel it starting from the bottom. Once peeled, rinse the egg and set it aside.
 Repeat until you have peeled all the eggs.
 
 [[recipes]]
 name = "Ramen-Inspired Deviled Eggs"
+ingredients = """12 eggs
+salt and pepper
+2 scallions, finely chopped (optional)
+paprika (optional)
 2 tbsp mayonnaise
 2 tbsp soy sauce
 1 tbsp cup rice vinegar
-		chili sauce
+chili sauce"""
 Slice each egg in half lengthwise. Pop the yolks out and put them in a medium bowl. Don’t worry if you leave a little yolk behind. Set the whites aside on a plate.
 
 [[recipes]]
 name = "Tomato Deviled Eggs"
+ingredients = """12 eggs
+salt and pepper
+2 scallions, finely chopped (optional)
+paprika (optional)
 2 tbsp mayonnaise
-1⁄4 cup fresh or canned tomato, finely chopped, or tomato sauce (p. 142)
+1⁄4 cup fresh or canned tomato, finely chopped, or tomato sauce (p. 142)"""
 Sprinkle the yolks with salt and pepper, then add other ingredients of your choice to the bowl. Mash with a fork and mix until it becomes a relatively smooth paste.
 
 [[recipes]]
 name = "Chorizo Deviled Eggs"
+ingredients = """12 eggs
+salt and pepper
+2 scallions, finely chopped (optional)
+paprika (optional)
 2 tbsp mayonnaise
 2 tbsp fresh chorizo, cooked
-1 tsp paprika
+1 tsp paprika"""
 Arrange the whites on a plate and spoon the yolk mixture back into each hole. Pile the filling high!
 Alternatively, scoop the filling into a plastic sandwich bag. Cut off the corner of the sandwich bag and squeeze the yolk mixture into the whites. va r i at i o n s
 Sprinkle with the scallions and some paprika for color.
@@ -1762,27 +1778,34 @@ In a large bowl, mix the flour and salt. Pour in the yogurt, eggs, and a tablesp
 $ 0 .2 0 / p e r o g y
 This is a huge recipe that will feed you for days. It takes time and effort, but the results are worth it. The most fun approach is to invite a couple of friends over for a perogy- making party. Everyone takes home a bag or two for the freezer, and it’s a great time!
 Put the chopped potatoes in a pot and cover with water, then add a bit of salt. Cover with a lid and bring to a boil over medium-high heat before removing the lid. Let the potatoes cook until tender, about 20 minutes. Test them with a fork: if it goes through easily, they’re done.
-Drain the potatoes and add shredded cheese, salt, pepper, and any additions you might enjoy. I like strong aged cheese because you don’t have to use as much. I usually use several additions, and you should play around with some of your favorite things—there aren’t many flavors that don’t work in potatoes! Next, mash the potatoes with an electric mixer or just two forks. Once the filling is ready, gather some friends because shaping takes some time! dough
-41⁄2 cups all-purpose flour
+Drain the potatoes and add shredded cheese, salt, pepper, and any additions you might enjoy. I like strong aged cheese because you don’t have to use as much. I usually use several additions, and you should play around with some of your favorite things—there aren’t many flavors that don’t work in potatoes! Next, mash the potatoes with an electric mixer or just two forks. Once the filling is ready, gather some friends because shaping takes some time!
+ingredients = """dough:
+4 1⁄2 cups all-purpose flour
 2 tsp salt
 2 cups yogurt or sour cream
 2 eggs
-1 tbsp water, as needed filling
+1 tbsp water, as needed
+
+filling:
 5 Russet potatoes, roughly cubed
-11⁄2 cups sharp cheddar, shredded
-		salt and pepper
-Flour your countertop liberally. Split the dough in half. Keep one half covered, but place the other half on the floured surface. Use a rolling pin to flatten the dough, about 1⁄4” thick. Punch out as many 3” to 4” dough circles as possible, using a round cookie cutter or a drinking glass.
-Squish the scraps into the remaining covered half of the dough.
-Drop about a tablespoon of filling in the center of one circle of dough.
-Fold the dough over the filling and press the edges to create a dumpling.
-The stickiness should ensure a tight seal. Lay the dumpling on a floured surface and use a fork to squish the edges together. Repeat until you run out of circles, then repeat everything with the remaining dough. additions
+1 1⁄2 cups sharp cheddar, shredded
+salt and pepper
+
+additions:
 2 tbsp scallions, chopped
 4 cloves roasted garlic, minced
 2 tbsp Dijon mustard
 1 tsp cayenne pepper
-1 tsp paprika to serve
-		sour cream
-		scallions, chopped
+1 tsp paprika
+
+to serve:
+sour cream
+scallions, chopped"""
+Flour your countertop liberally. Split the dough in half. Keep one half covered, but place the other half on the floured surface. Use a rolling pin to flatten the dough, about 1⁄4” thick. Punch out as many 3” to 4” dough circles as possible, using a round cookie cutter or a drinking glass.
+Squish the scraps into the remaining covered half of the dough.
+Drop about a tablespoon of filling in the center of one circle of dough.
+Fold the dough over the filling and press the edges to create a dumpling.
+The stickiness should ensure a tight seal. Lay the dumpling on a floured surface and use a fork to squish the edges together. Repeat until you run out of circles, then repeat everything with the remaining dough.
 132
 132 bat c h e s
 Once you have all your perogies formed, boil a pot of water and add about 12 perogies. Let them cook until they rise to the top, about
