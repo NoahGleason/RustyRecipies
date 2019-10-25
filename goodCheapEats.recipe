@@ -1828,25 +1828,33 @@ Once the dough has rested, split it into four chunks. Dust your countertop with 
 Cut the log into 15 equal slices, then use your hands to form one of the slices into a flat disc. With a rolling pin, flatten the disc into an almost paper-thin circle about the size of a drink coaster.
 Place a heaping tablespoon of filling in the center of the dough. Lift all the edges to meet in the middle, then pinch it closed like a little parcel. If the dough won’t stick to itself, wet your fingertips and dab the edges.
 Repeat until you run out of either filling or dough. This is a great time to ask for help from family or friends—one person rolling while others fill and cook.
-Now, a tough decision: do you want to steam, fry, or boil your dumplings? dough
+Now, a tough decision: do you want to steam, fry, or boil your dumplings?
+ingredients = """dough:
 4 cups flour
-		salt
+salt
 2 eggs
-1 cup water veggie filling bat c h e s
-13 4 pork filling
+1 cup water
+
+pork filling:
 1 lb ground pork or sausage, cooked or raw
 3 cups collards, chard, spinach, or scallions, finely chopped
 2 tbsp soy sauce
 1 tsp toasted sesame oil
 2 scallions, chopped
 2 eggs
+
+veggie filling:
 3 cups broccoli, finely chopped
 2 cups carrot, grated
 8 oz firm tofu, crumbled
-2 tbsp soy sauce additions
-1 tsp toasted sesame oil 		ginger root, grated
-2 scallions, chopped 		garlic
+2 tbsp soy sauce
+1 tsp toasted sesame oil
+2 scallions, chopped
 2 eggs
+
+additions:
+ginger root, grated
+garlic"""
 Dumplings makes sixty
 My friend Raffaella comes from a huge family and fondly recalls making dumplings with her sisters growing up. (Her brothers just ate them.) Dumplings are a great way to use up veggies that don’t look fresh anymore. Minced inside a dumpling, they come back to life! I’ve provided a couple of ideas here, but as with so many recipes, the filling is up to you. If you mess up and it comes out bland, just dip the dumpling in soy sauce or chili sauce and you’ll still be happy.
 To steam them, spread a small amount of oil around a large pan. Fill the pan with dumplings—as many as you can fit without them sticking to each other.
@@ -1859,19 +1867,15 @@ When they rise to the top, they’re ready to eat, usually in 1 or 2 minutes. ba
 
 [[recipes]]
 name = "Flour Tortillas"
-- makes twenty four small
-$1. 70 t o t a l
-$ 0 . 07 / t o r t i l l a
 These are the building blocks of great meals. Freshly made flatbreads are amazingly cheap to produce and taste fabulous. They can take a bit of time to make at first, but you’ll get faster with practice and the flavor is absolutely worth it. Large batches of grains and beans can be cooked at the beginning of the week, then used in different meals each day, saving both time and money.
 Staples are where the possibilities begin!
 Homemade tortillas are a bit of work, but they’re totally worth it. With practice, you’ll get quicker and enjoy the process as much as the results.
-11⁄4 cups all-purpose flour
-11⁄4 cups whole-wheat flour
-21⁄2 tsp baking powder
+ingredients = """1 1⁄4 cups all-purpose flour
+1 1⁄4 cups whole-wheat flour
+2 1⁄2 tsp baking powder
 1 tsp salt
-1 /
-3 cup clarified butter or lard
-1 cup hot water
+1/3 cup clarified butter or lard
+1 cup hot water"""
 In a large bowl, whisk the dry ingredients. Add clarified butter or lard.
 Lard is more traditional, but I prefer clarified butter. Even regular butter is fine. Using your fingers, squish the butter against the flour until the mixture looks like moist crumbs. Add the hot water—not boiling, just hot—and form into dough with your hands. Leave the dough in the bowl for an hour, covered by plastic wrap or a moist towel.
 Roll the dough into 24 small balls. Keep them covered with the towel.
@@ -1886,17 +1890,14 @@ If you’re serving the tortillas soon, place them in a warm oven to keep them p
 name = "Roti"
  makes sixteen
 These are a staple flatbread in many parts of India. They’re quick to make and very tasty when fresh. Enjoy them with a curried filling, dip them in soups or stews, or fill them with eggs at breakfast.
-2 cups whole-wheat flour
+ingredients = """2 cups whole-wheat flour
 1 tsp salt
-1 cup water
+1 cup water"""
 In a small bowl, mix together all the ingredients using one clean hand. It should form a fairly moist dough. Knead until smooth and form into a ball. Cover with a damp towel or paper towel and set aside for 10 minutes to an hour.
 Divide the dough into 16 small balls.
 Sprinkle a countertop with flour and place one piece of dough in the middle. Cover the ball with flour on all sides so that it doesn’t stick to the surface, then gently roll it out with a rolling pin (or a bottle if you’re in a pinch) until it’s thin and flat, about
 1 / 8 ” thick. As you roll the dough, be sure to unstick it from your counter and flip it over. To make it round, roll straight in front of you, then turn the dough 90 degrees and roll out again.
 Place a non-stick skillet on medium heat. Once the pan is hot, add the roti and cook until the dough lifts away from the pan around the edges and small bubbles form. Flip the bread over and cook the other side. Usually it goes very quickly. You want to see light-brown bubbles all over the dough. Don’t let it get too dark, though, as this will make the roti too crunchy to use for rolls. Repeat this process until you’re finished with the dough.
-$ 0.50 t o ta l
-$ 0.03 / r o t i s ta p l e s
-138
 Once you have practiced, you can roll out one roti while another cooks in the pan to make the process quicker.
 Keep them under a towel on the counter or in a warm oven until ready to serve.
 
@@ -1904,11 +1905,12 @@ Keep them under a towel on the counter or in a warm oven until ready to serve.
 name = "Pizza Dough"
  makes four individual pizzas
 There are two ways to make pizza dough: the fast way and the slow way. They’re the same amount of work, just with different waits. The slow method is convenient for a weekday if you make it before bed the night before, pop it in the fridge, then pull it out to rise before dinner.
-3 cups all-purpose or bread flour
-11⁄2 tsp salt
+ingredients = """3 cups all-purpose or bread flour
+1 1⁄2 tsp salt
 1⁄2 to 1 tsp instant yeast
 1 tbsp olive oil
-11⁄4 cup water fa s t m e t h o d slow method
+1 1⁄4 cup water"""
+ fa s t m e t h o d slow method
 Measure out the flour, salt and a teaspoon of yeast into a big bowl. Mix the oil into the flour with your hands, crumbling it until the texture is a bit sandy, then add the room-temperature water. Keep mixing with your hands until it comes together. If you’re organized enough to make the slow dough, I recommend taking the extra time: it’s the best.
 Knead the dough on a lightly floured countertop for 5 to 7 minutes, until it becomes a smooth elastic ball. The dough will be smooth but quite wet.
 Add a small amount of oil to a bowl. Place your dough ball in the bowl and cover with plastic wrap. Let it rise for 11⁄2 to 3 hours, depending on the warmth of your kitchen. It’s done rising when it has doubled in size. Then it’ll be ready to shape into your favorite pizza!
@@ -1917,17 +1919,13 @@ Rather than room temperature, the water should be very cold.
 After you place the dough ball in a bowl and cover it, put it into the fridge overnight.
 Letting the yeast work overnight creates a better flavor; it also makes the dough more elastic and easier to work with.
 The next day, 2 to 3 hours before you want to bake your pizzas, remove the dough from the fridge to return to room temperature.
-$ 0.80 t o ta l
-$ 0 .2 0 / c r u s t s ta p l e s
-139$ 0 . 35 t o t a l
-$ 0 . 35 / s e r v i n g
 
 [[recipes]]
 name = "Fresh Pasta"
  for one large entree
-3⁄4 cup all-purpose flour or bread flour
+ingredients = """3⁄4 cup all-purpose flour or bread flour
 1 egg
-		olive oil or vegetable oil
+olive oil or vegetable oil"""
 When a reader, Jeanne, asked for a good pasta dish, I decided to show her how to create it from scratch. Sure, making pasta by hand requires elbow grease and a good rolling pin, but you’ll be surprised at how simple, cheap, and tasty it is. If an Italian grandmother can do it, so can you! Because fresh pasta is so wonderful, the sauce doesn’t need to be complicated. I love this with tomato sauce (p. 142) and a little cheese.
 Multiply this recipe by the number of people you are serving, maybe a bit less. The stated quantities are a useful ratio, but produce big portions.
 Put the flour in a bowl. Make a crater in the center of the flour and crack the egg into it. Mix with your hands. The egg takes a while to release all its moisture, so don’t panic if things are dry at first. If, after mixing for about a minute, the dough still seems excessively dry, add a teaspoon of water. Keep mixing until you develop a stiff dough that is quite dry. The dryness makes it easier to roll out and keeps the noodles from sticking together when you cook them.
@@ -1944,53 +1942,65 @@ You can keep uncooked pasta for up to 2 days in the fridge. s ta p l e s
 
 [[recipes]]
 name = "Best Tomato Sauce"
- makes three and a half cups
-There are many ways to make tomato sauce. I don’t find that the more complex recipes taste any better; this one is boldly tomatoey and works on just about anything. It also takes
-5 minutes to make. Can’t beat that.
-1 tbsp olive oil
+ingredients = """1 tbsp olive oil
 3 cloves garlic, finely chopped
 1⁄2 tsp chili flakes
 28 oz can tomatoes, crushed or diced
 1⁄2 lemon, zested (optional)
-		salt and pepper
+salt and pepper"""
 Add the olive oil to a saucepan on medium heat. Sauté the garlic for 1 minute, until it smells great and becomes translucent. Add the chili flakes and cook for 30 seconds. Add the can of tomatoes, mix, and cook until warmed through. Add a little lemon zest, then salt and pepper to taste. Since canned tomatoes are often already salted, you may not need to add any.
 If you want a thicker sauce that will stick to pasta better, cook for 10 to 20 minutes to evaporate more of the liquid. Use immediately or keep in a jar in the fridge for later use.
 $3.50 t o ta l
 
 [[recipes]]
 name = "Chorizo and White Bean Ragu"
- makes three cups
-When my friend Chris told me he loves a good ragu, I worked to develop a version that is as hearty as a meaty tomato sauce without the expense and heaviness of a traditional ragu. A batch of this is probably enough for four people, served with grated Romano or Parmesan over pasta (p. 141), polenta, or grits.
-1 tbsp butter or vegetable oil
-11⁄2 cups canned or fresh tomatoes,
-1 onion, chopped puréed
+ingredients = """1 tbsp butter or vegetable oil
+1 1⁄2 cups canned or fresh tomatoes, puréed
+1 onion, chopped
 3 cloves garlic, finely chopped
-11⁄2 cups butter beans,
-1 tbsp jalapeño, finely chopped navy beans, or
-(optional) cannelini beans
-1⁄2 lb fresh chorizo,
-		salt and pepper casing removed
+1 1⁄2 cups butter beans, navy beans, or cannelini beans
+1 tbsp jalapeño, finely chopped (optional)
+1⁄2 lb fresh chorizo, casing removed
+salt and pepper"""
 Melt the butter in a pan over medium heat and swirl it to coat the pan. Add the chopped onion and cook until it turns translucent. Toss in the garlic, jalapeño, and fresh chorizo (or any other kind of fresh sausage), then sauté for about a minute. Add the tomatoes and beans, then simmer until the sauce is thick and the sausage is cooked, about 5 minutes on medium heat.
 Taste and add salt and pepper as needed.
-$1 / c u p
-142
-142 s ta p l e s
-$ 3 . 75 t o t a l
-$1.2 5 / c u p
 Because this sauce contains meat, it won’t keep especially long in the fridge, but you can freeze it for later use if you don’t plan to eat it all within a few days. s ta p l e s
-14 3$1. 5 0 t o t a l
-$ 0 . 75 / s e r v i n g
 
 [[recipes]]
-name = "Rainbow Rice"
+name = "Red Rice"
 Here are three quick ways to make plain rice a little more exciting. An early reader, Charles, said he loves rice with vegetables, but these treatments work for grains other than rice as well—everything from quinoa to barley to farro. Vegetables are a great way to liven up the usual rice and beans.
-1 cup rice
+ingredients = """1 cup rice
 2 cups water
-		salt
-1 cup canned tomatoes, puréed
-1 cup canned winter squash, pumpkin, or sweet potato, puréed
-1 cup frozen spinach, beet greens, chard, or fresh parsley s ta p l e s
-14 4
+salt
+1 cup canned tomatoes, puréed"""
+To make normal rice, pour 2 cups of water into a pot with 1 cup of uncooked rice and two pinches of salt. That’ll be enough for two generous portions, or three or four smaller servings. With the lid off, bring to a low boil over medium heat, then turn the heat down to low and put the lid on slightly askew, so that the steam can escape. Cook for about 20 minutes, until the water is all gone.
+: Stir the tomatoes with 11⁄2 cups of water, then pour it into a pot with
+1 cup of uncooked rice and two pinches of salt. Cook as above. red rice o r a n g e r i c e : Stir the squash, pumpkin, or sweet potato with 11⁄2 cups of water, then pour it into a pot with 1 cup of uncooked rice and two pinches of salt.
+(You can also use frozen, boiled, or sautéed squash.) Cook as above.
+: Chop up the spinach as much as you like. The more finely chopped, the more it will disperse into the rice. Cook normal rice, as above, for about
+15 minutes, until most of the water is gone but not quite all. Mix the spinach into the rice. Cook with the lid off for the last 5 minutes. Adding the spinach at the end keeps it lush and bright, rather than the sad color of overcooked spinach. green rice method
+
+[[recipes]]
+name = "Orange Rice"
+Here are three quick ways to make plain rice a little more exciting. An early reader, Charles, said he loves rice with vegetables, but these treatments work for grains other than rice as well—everything from quinoa to barley to farro. Vegetables are a great way to liven up the usual rice and beans.
+ingredients = """1 cup rice
+2 cups water
+salt
+1 cup canned winter squash, pumpkin, or sweet potato, puréed"""
+To make normal rice, pour 2 cups of water into a pot with 1 cup of uncooked rice and two pinches of salt. That’ll be enough for two generous portions, or three or four smaller servings. With the lid off, bring to a low boil over medium heat, then turn the heat down to low and put the lid on slightly askew, so that the steam can escape. Cook for about 20 minutes, until the water is all gone.
+: Stir the tomatoes with 11⁄2 cups of water, then pour it into a pot with
+1 cup of uncooked rice and two pinches of salt. Cook as above. red rice o r a n g e r i c e : Stir the squash, pumpkin, or sweet potato with 11⁄2 cups of water, then pour it into a pot with 1 cup of uncooked rice and two pinches of salt.
+(You can also use frozen, boiled, or sautéed squash.) Cook as above.
+: Chop up the spinach as much as you like. The more finely chopped, the more it will disperse into the rice. Cook normal rice, as above, for about
+15 minutes, until most of the water is gone but not quite all. Mix the spinach into the rice. Cook with the lid off for the last 5 minutes. Adding the spinach at the end keeps it lush and bright, rather than the sad color of overcooked spinach. green rice method
+
+[[recipes]]
+name = "Green Rice"
+Here are three quick ways to make plain rice a little more exciting. An early reader, Charles, said he loves rice with vegetables, but these treatments work for grains other than rice as well—everything from quinoa to barley to farro. Vegetables are a great way to liven up the usual rice and beans.
+ingredients = """1 cup rice
+2 cups water
+salt
+1 cup frozen spinach, beet greens, chard, or fresh parsley"""
 To make normal rice, pour 2 cups of water into a pot with 1 cup of uncooked rice and two pinches of salt. That’ll be enough for two generous portions, or three or four smaller servings. With the lid off, bring to a low boil over medium heat, then turn the heat down to low and put the lid on slightly askew, so that the steam can escape. Cook for about 20 minutes, until the water is all gone.
 : Stir the tomatoes with 11⁄2 cups of water, then pour it into a pot with
 1 cup of uncooked rice and two pinches of salt. Cook as above. red rice o r a n g e r i c e : Stir the squash, pumpkin, or sweet potato with 11⁄2 cups of water, then pour it into a pot with 1 cup of uncooked rice and two pinches of salt.
@@ -2006,23 +2016,25 @@ Proceed with the next step.
 Cover the drained beans with fresh water in a large pot. Bring to a boil on medium heat, then turn down the heat so that the beans boil gently.
 Put a lid on the pot, but leave it askew so the water doesn’t boil over.
 Check on the beans every half hour or so, making sure to keep them covered with water if it boils away.
-Beans take vastly different lengths of time to become tender. The older and bigger they are, the longer they take to cook. Very old, very large beans can take as long as four hours. additions while cooking
-		a bay leaf
-		a bouquet garni of favourite tough herbs
-		dried herbs and spices
-		onion
-		garlic
-		chilies
-		ginger root
+Beans take vastly different lengths of time to become tender. The older and bigger they are, the longer they take to cook. Very old, very large beans can take as long as four hours.
+ingredients = """dried beans
+
+additions:
+a bay leaf
+a bouquet garni of favourite tough herbs
+dried herbs and spices
+onion
+garlic
+chilies
+ginger root"""
 If you are making refried beans or beans for a soup or stew, don’t worry about overcooking them; it’s fine if they’re mushy. If you want to maintain their shape and integrity, however, monitor them closely once they’re getting close to done.
 Once the beans are tender, you can drain them or leave them wet, depending on what you’re using them for. Add salt to taste—they will need a fair bit! s ta p l e s
-145method
 
 [[recipes]]
 name = "Croutons or Breadcrumbs"
-		bread
-		butter or vegetable oil as needed
-		salt and pepper
+ingredients = """bread
+butter or vegetable oil as needed
+salt and pepper"""
 I am constantly haunted by the hard, several-day-old bread that I have neglected. Luckily there are plenty of delicious solutions that avoid the trash can. Croutons and breadcrumbs will keep for ages in a sealed container on the counter, and when you have them around you’ll find yourself using them everywhere and finding excuses to make a salad.
 This is a method more than a recipe since you’ll have a random amount of bread. If making croutons, start by cutting the bread into cubes. If making breadcrumbs, mince the loaf with a knife, or just tear it apart, or throw small chunks of bread into a food processor. If the bread is too hard to cut, wrap it in a kitchen towel, sprinkle some water on the towel, and microwave for 20 to 30 seconds. This will restore just enough moisture to let you cut the bread easily.
 Choose a sufficiently large pan for the quantity of bread cubes or crumbs—or work in batches if you have a lot—and place it on the stovetop on medium heat. Add enough butter or vegetable oil to coat the bottom of the pan. I prefer the flavor of butter, but use whatever you have.
@@ -2038,20 +2050,27 @@ Later, use them in salads or anything you want to add crunch to. s ta p l e s
 name = "Agua Fresca"
  serves four to six
 Refreshing and hydrating, these beautiful drinks are great at a party, and they can help you use up any fruit that you won’t be able to eat before it goes off. This is certainly not the master recipe, just a good starting point. va r i at i o n s
-2 cups fruit, chopped
-		blueberry and lemon
+ingredients = """2 cups fruit, chopped
 4 cups water
-		cucumber and lemon
-		mango and lime additions
-		melon
+
+additions:
 1 tsp vanilla
-		squeeze of lemon 		orange or lime juice
-		papaya
-		sugar
-		peach and vanilla
-		mint leaves
-		pineapple
-		other herb leaves 		strawberry and mint
+squeeze of lemon or lime juice
+sugar
+mint leaves
+other herb leaves
+
+variations:
+blueberry and lemon
+cucumber and lemon
+mango and lime
+melon
+orange
+papaya
+sugar
+peach and vanilla
+pineapple
+strawberry and mint"""
 For a very lightly flavored agua fresca, just mix the water and fruit together. Done! Obviously, if you want more fruit flavor, then use less water; if you want less flavor, then use more water.
 I usually run my agua fresca through the blender, however. If you want the drink to be clear, strain the pulpy leftovers of the fruit after blending. If you’re using blueberries or oranges or other fruit with a skin, you’ll almost certainly want to strain it.
 Drinks
@@ -2065,47 +2084,41 @@ Serve over ice. Try some of the variations I’ve suggested or whatever fruits y
 [[recipes]]
 name = "Drinkable Yogurt"
 If you like the grocery store’s yogurt drinks, try making these at home for less! You don’t even need to blend them—just add the juice and yogurt to a jar, then shake.
-1⁄2 cup plain yogurt
-1⁄2 cup fruit juice
+ingredients = """1⁄2 cup plain yogurt
+1⁄2 cup fruit juice"""
 
 [[recipes]]
 name = "Melon Smoothie"
 When you buy a melon, dice and freeze whatever you don’t eat.
 Pull it out and blend it with a bit of water or juice to thin it out. It’s like a better slushy!
-1 cup frozen melon
+ingredients = """1 cup frozen melon
 1⁄2 cup water or juice
-1 tsp vanilla
+1 tsp vanilla"""
 
 [[recipes]]
 name = "Berry Smoothie"
 Blend until smooth, then adjust with more berries or milk to your taste.
-1⁄2 cup yogurt
+ingredients = """1⁄2 cup yogurt
 1 cup frozen berries
-milk or juice to thin as needed
+milk or juice to thin as needed"""
 
 [[recipes]]
 name = "Mango Lassi"
 Blend the mango and yogurt together. If it’s too thick to drink with a straw, add some milk to thin it out. A ripe and juicy mango combined with thin yogurt is often all you need. Be warned: if you make this for children, they will request it over and over.
-1 mango, diced
+ingredients = """1 mango, diced
 1 cup yogurt
-		milk to thin as needed
-150
-150 drinks
-151
-151 drinks
+milk to thin as needed"""
 
 [[recipes]]
 name = "Caramelized Bananas"
 for two
 These bananas—cooked in just a bit of caramel—are crispy and gooey on the outside and almost like a soft pudding inside. Sweet, messy, and irresistible.
-2 bananas, peeled and split in half
+ingredients = """2 bananas, peeled and split in half
 1 tbsp butter
-2 tbsp brown sugar
+2 tbsp brown sugar"""
 Melt the butter in a non-stick or cast- iron pan on medium-high heat. Add the sugar and let it melt into the butter for about 2 minutes. Place the bananas face down in the butter-sugar mixture, then cook for 2 minutes or until they become brown and sticky. Carefully flip them over and do the same to the other side.
 Serve them whole or split them into quarters. Drizzle any caramel left in the pan over the bananas. Serve with ice cream or on their own.
 Desserts
-$ 0 . 70 t o t a l
-$ 0 . 35 / s e r v i n g
 Whether it’s been a rough day, it’s time to celebrate, or just because it’s
 Wednesday, these sweets are totally worth it.
 152 desserts
@@ -2119,17 +2132,16 @@ $ 0 .2 5 / c o o k i e
 A just-chewy-enough, just-crispy-enough, just-gooey-enough cookie that’s perfect for a special treat.
 Heat the oven to 350 °F.
 Spread the coconut into a thin, even layer on a cookie sheet. Place it in the oven for 5 to 8 minutes, until it’s light brown, toasty, and aromatic.
-Melt the butter in a heavy-bottomed saucepan over low heat. Once it’s melted, leave it to cool in the pan for a few minutes. cup shaved, unsweetened coconut, toasted
-11⁄2 cups chocolate chips
+Melt the butter in a heavy-bottomed saucepan over low heat. Once it’s melted, leave it to cool in the pan for a few minutes.
+ingredients = """2/3 cup shaved, unsweetened coconut, toasted
+1 1⁄2 cups chocolate chips
 1⁄2 lb unsalted butter (2 sticks)
 2 cups all-purpose flour
 1 tsp salt
 1 tsp baking soda
-11⁄2 cups dark brown sugar
+1 1⁄2 cups dark brown sugar
 2 eggs
-2 tsp vanilla
-2 /
-3
+2 tsp vanilla"""
 In a medium-sized bowl, stir together the flour, salt, and baking soda.
 In another bowl, beat the brown sugar and melted butter together for about 2 minutes, until they’re smooth. Add the eggs and vanilla and beat for about 5 minutes, until the mixture lightens in color. Mix the flour mixture with the brown sugar mixture, a third at a time, until it forms a dark brown, homogeneous mass. Add the chocolate chips and coconut and stir until just combined.
 Place the dough in the fridge for 20 minutes.
@@ -2150,17 +2162,16 @@ Turn your oven to 350 °F.
 Using the paper wrapping from the butter, lightly butter an 8” x 11” glass baking dish or 9” springform pan. Any shape will do so long as it is large enough.
 This cake doubles in size when it bakes.
 In a large bowl, mix the peach slices, lemon juice, and cinnamon together with your hands, making sure the peaches are well coated in cinnamon.
-6 peaches, pitted and cut into 8 slices each
+ingredients = """6 peaches, pitted and cut into 8 slices each
 1 tsp cinnamon
 1⁄2 lemon, juiced
 2 cups all-purpose flour
 2 tsp baking powder
 1⁄2 lb unsalted butter (2 sticks), at room temperature
-1 1 / 3 cups brown sugar
-1 /
-8 tsp salt
+1 1/3 cups brown sugar
+1/8 tsp salt
 2 large eggs
-1 tsp vanilla
+1 tsp vanilla"""
 In a medium bowl, stir the flour with the baking powder, getting rid of any lumps.
 In another large bowl, beat the butter, brown sugar, and salt, either with a wooden spoon or an electric mixer. Stop when the mixture is fluffy and has slightly lightened in color. Add the vanilla, then the eggs one at a time, fully mixing in the first before adding the second.
 If using an electric mixer, switch to a wooden spoon and add the flour mixture into the butter mixture, gently incorporating it until it’s smooth. The batter will be quite thick.
@@ -2172,91 +2183,73 @@ Bake for 1 hour or until a knife inserted into the center comes out clean. desse
 [[recipes]]
 name = "Avocado Milkshake"
 John, the reader who introduced me to the silky magic of this milkshake, lives in California, where avocados are often less than a dollar. If you can find a similar deal, whip up a batch of these! If your avocado isn’t quite ripe, a bit more lime juice will bring out the flavor. for two
-
-[[recipes]]
-name = "Fast Melon Sorbet"
- for four
-1 avocado
+ingredients = """1 avocado
 2 cups milk
 1 tsp vanilla
 1 tbsp lime juice
 1 pinch salt
-2 tbsp sugar
+2 tbsp sugar"""
 Toss all the ingredients in a blender and whizz them up! Let it go for a while because the avocados need to break down and blend with the milk. Once the liquid is Kermit the Frog green, it’s ready. Taste it and add more sugar or lime juice as needed.
 These shakes are even better if you use “coconut milk beverage,” almond milk, or rice milk instead of regular milk. Each adds a little of its own flavor to the drink.
-2 cups frozen melon
+
+
+[[recipes]]
+name = "Fast Melon Sorbet"
+ for four
+ingredients = """2 cups frozen melon
 1⁄2 cup plain yogurt
 1⁄4 cup sugar
-1 tsp vanilla or lime juice
-(optional)
+1 tsp vanilla or lime juice (optional)"""
 When you see lovely watermelons, honeydews, and cantaloupes on sale, buy them up. Eat half, then cube and freeze the other half. When you want a quick dessert or smoothie, pull out a bag of frozen melon and whip this up.
-$2.40 t o ta l
-$ 0.60 / s e r v i n g desserts
-158
-Add all the ingredients to a food processor or blender until just smooth.
-Don’t blend too much, or the sorbet will become oversoft. Serve immediately or stick it into the freezer to enjoy later.
-$2.30 t o ta l
-$1.15 / s e r v i n g desserts
-159
+Add all the ingredients to a food processor or blender until just smooth. Don’t blend too much, or the sorbet will become oversoft. Serve immediately or stick it into the freezer to enjoy later.
 
 [[recipes]]
 name = "Peanut Sauce"
-$3 t o ta l
-$3 / c u p makes one cup
-1 jalapeño or other chili, finely chopped
-(or 2 tbsp chili paste)
+ingredients = """1 jalapeño or other chili, finely chopped (or 2 tbsp chili paste)
 3 cloves garlic
 1 shallot (or equivalent of any onion)
-		cooking oil
+cooking oil
 1 tsp turmeric (optional)
 1⁄2 to 1 cup coconut milk
 1⁄2 cup sugarless peanut butter
 1 tbsp soy sauce
 1 tbsp brown sugar (optional)
-1⁄2 tsp sesame oil
+1⁄2 tsp sesame oil"""
 Finely chop the pepper, garlic, and shallot, or use a food processor to make them into a paste. (If you’re using chili paste instead of a fresh pepper, hold off on it for now.)
-16 0
 Flavor Splash some oil in a saucepan on medium heat. Once it’s warm, add the chili, garlic, and shallot and sauté until everything’s translucent. Add the turmeric, coconut milk, and chili paste if applicable.
 If you have a great sauce or a few spices in your kitchen, you’ll never have to tolerate bland food. Most of these recipes require surprisingly little effort and time, pack a ton of flavor, and can be stored for use in any dish you choose. Let it come to a boil, then turn the heat down. Add the peanut butter and soy sauce and stir to combine. Once it’s all combined, taste it and add whatever you think it needs—but think about the salt and spice in particular.
-161
-161 f l avo r
 
 [[recipes]]
 name = "Spice Oil"
- makes one cup
-$3.50 t o ta l $ 2 .2 5 t o t a l
-$3.50 / c u p $ 0 . 75 / c u p
 Use this spice oil on salads, in cold noodle dishes, or on roasted or sautéed vegetables. If you have trouble finding the spices, you can get all of them at most Asian grocery stores.
-1 clove garlic
+ingredients = """1 clove garlic
 1 cup olive or vegetable oil
 2 tbsp chili flakes or dried red chilies
 1 tsp Sichuan or regular peppercorns
 1 star anise
 1⁄2 tsp cumin seeds
-1⁄4 tsp salt
+1⁄4 tsp salt"""
 Use the side of a knife to crush the garlic clove until it cracks open. Add all of the ingredients to a small pot.
-Warm the mixture over low heat for about 10 minutes, until it starts to bubble gently and you can hear a bit of a sizzle, then turn off the heat.
-You want to heat it just enough to let the spices infuse into the oil, without getting so hot that the spices start to cook or fry.
-Remove the pot from the stovetop and put it in the fridge with a lid. Let the spices infuse for
-4 to 8 hours.
+Warm the mixture over low heat for about 10 minutes, until it starts to bubble gently and you can hear a bit of a sizzle, then turn off the heat. You want to heat it just enough to let the spices infuse into the oil, without getting so hot that the spices start to cook or fry.
+Remove the pot from the stovetop and put it in the fridge with a lid. Let the spices infuse for 4 to 8 hours.
 Taste the oil. If it isn’t strongly spicy, let it infuse for a few more hours. Once it’s ready, strain through a sieve to remove the spices.
-Store in a jar in the fridge for up to a week. f l avo r
-162
+Store in a jar in the fridge for up to a week.
 
 [[recipes]]
 name = "Salsa"
- makes three cups
 Summertime salsas combine a load of fresh tomatoes with smaller amounts of choice vegetables and fruit. In the winter, cook canned tomatoes for a few minutes first.
-2 cups tomatoes, chopped
+ingredients = """2 cups tomatoes, chopped
 1⁄2 medium onion, finely diced
 1 jalapeño pepper, finely diced
 1 lime, juiced
 1⁄4 cup fresh cilantro, finely chopped
-		salt and pepper additions
-		mango, peach, plum, or pineapple
-		beans
-		corn
-		garlic
+salt and pepper
+
+additions:
+mango, peach, plum, or pineapple
+beans
+corn
+garlic"""
 Apart from its usual use on tortilla chips and tacos, this salsa is a wonderful topping for fish or chicken, as a sauce for cold noodles, or as a finishing touch on a savory breakfast.
 If you like raw onion, go right ahead. Otherwise, take the edge off by sautéing the onion with a bit of water in a pan over medium heat. The onion is ready once the water has boiled off.
 If you aren’t a fan of cilantro, substitute another herb: mint, savory, or lemon balm work well.
@@ -2264,44 +2257,37 @@ Mix the onion, tomato, and the rest of the ingredients in a bowl.
 Be sure to add enough salt and pepper!
 Taste the salsa. You’re looking for a balance of spicy from the peppers, sweet from the tomatoes, and bright and fresh from the herbs and lime juice. If something’s out of balance, add the appropriate ingredient to bring it back into balance.
 Store in an air-tight container in the fridge. Fresh salsa won’t last as long as store-bought salsa because it doesn’t have any preservatives, but it’s so tasty that I’m sure you’ll finish it fast! f l avo r
-16 3$2.50 t o ta l
-$3.50 t o ta l
-$1.2 5 / c u p
-$1. 75 / c u p ideas
 
 [[recipes]]
 name = "Raita"
- makes two cups
-1 cup cucumber, chopped
+ingredients = """1 cup cucumber, chopped
 1⁄2 cup tomato, chopped
 1⁄4 cup red onion, chopped
 1 cup yogurt
 1 tsp cumin powder
 1⁄2 tsp cayenne powder
 2 tbsp fresh cilantro, chopped
-		salt and pepper additions
+salt and pepper
+
+additions:
 1 tbsp ginger, grated
 2 tbsp mint
 1⁄4 cup chickpeas
-		cooked spinach f 16 l a v 4 or
-16 4
-Raita is a traditional Indian sauce served with all kinds of things. It’s simple and surprisingly tasty. Spoon it onto chana masala (p. 93), the potato and kale rolls (p. 84), or anything spicy to cool things down.
+cooked spinach"""
 This recipe is extremely loose. Basically, just stir some of your favorite chopped vegetables into yogurt and add salt and pepper. Use this as a stepping stone to develop your own.
 After you stir all the ingredients together, store the raita in a covered container in the fridge until you’re ready to use it.
 
 [[recipes]]
 name = "Tzatziki"
- makes two cups
 If you’re in a hurry, you don’t have to strain this at all: you can just mix the ingredients together. However, removing the water from the cucumber and yogurt intensifies the flavor.
 Your patience will be rewarded by a thick sauce that gives you a new perspective on cucumbers.
-2 cups yogurt
+ingredients = """2 cups yogurt
 1 large cucumber, grated
 1 tsp salt
 2 tbsp fresh dill, chopped
 2 scallions, finely chopped
-		salt and pepper
+salt and pepper"""
 Grate the cucumber and place it in a sieve over a large bowl. Salt the cucumber and mix it around. Leave it for 30 minutes to 2 hours, occasionally pressing the cucumber gently into the sieve to get the liquid out. The salt will help leach the water out of the cucumber.
-Line another sieve (or the same one, cleaned) with paper towel or cheesecloth and pour the yogurt into it. You can leave it for as little as
-1 hour on the counter or overnight in the fridge. The longer you leave it, the thicker it will get. This is how Greek yogurt is made!
+Line another sieve (or the same one, cleaned) with paper towel or cheesecloth and pour the yogurt into it. You can leave it for as little as 1 hour on the counter or overnight in the fridge. The longer you leave it, the thicker it will get. This is how Greek yogurt is made!
 Mix the strained cucumber with the yogurt and the other ingredients, then taste. Adjust the salt and pepper and add any more dill or onion.
 Enjoy on sandwiches, as a dip, with pita or tortilla chips, or over meatballs, kebabs or anything spicy.
