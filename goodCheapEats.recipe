@@ -45,17 +45,14 @@ salt and pepper
 butter for the pan
 1 shallot or 1⁄2 small red onion, finely diced
 1⁄4 cup grated cheese"""
-Crack the eggs in a bowl. Add the dill, salt, pepper, and beat with a fork.
+text = """Crack the eggs in a bowl. Add the dill, salt, pepper, and beat with a fork.
 Put a big saucepan on medium-high heat. Melt a small blob of butter in the pan. Once the butter is sizzling, add the onion and sauté for about two minutes, until it’s translucent and smells great.
 Add the egg to the hot pan and swirl it around to coat the surface evenly. If the center of the omelette cooks more quickly than the edge, use a spatula to pull any raw egg into the middle. Then stop touching it.
 After about 30 seconds, toss the cheese on top along with any other raw or cooked vegetable you feel like adding. Once none of the egg remains translucent, fold the omelette in half with your spatula, then lift it out of the pan. You don’t want any brown on your eggs.
-If I’m serving two people, I usually cut one large omelette in half rather than making two omelettes. However, when you feel like being fancy, you can make a pair of two-egg omelettes simply by using half the ingredients for each. For extra fanciness, roll up the omelette instead of folding it—that’s how the French do it, traditionally. The result will be quite thin and tender. b r e a k fa s t
-17
+If I’m serving two people, I usually cut one large omelette in half rather than making two omelettes. However, when you feel like being fancy, you can make a pair of two-egg omelettes simply by using half the ingredients for each. For extra fanciness, roll up the omelette instead of folding it—that’s how the French do it, traditionally. The result will be quite thin and tender."""
 
 [[recipes]]
 name = "Banana Pancakes"
- m a k e s t e n to fo u r t e e n pa n c a k e s
-With the creamy texture and delicious flavor of bananas, these pancakes are stunningly good. You will be seriously popular if you feed these to your family or friends. Another plus: this is a great way to get rid of mushy bananas (that doesn’t involve making banana bread).
 ingredients = """2 cups all-purpose flour
 1⁄4 cup brown sugar
 2 tsp baking powder
@@ -67,29 +64,14 @@ ingredients = """2 cups all-purpose flour
 1 tsp vanilla
 2 bananas, sliced
 butter for cooking"""
-In a medium bowl, add the flour, brown sugar, baking powder, soda and salt. Mix thoroughly with a spoon.
+text = """In a medium bowl, add the flour, brown sugar, baking powder, soda and salt. Mix thoroughly with a spoon.
 In another bowl, add the mashed bananas (or just mash them in the bowl), eggs, milk, and vanilla, then mix. Add the dry mixture from the other bowl into the second bowl. Gently stir it with a spoon until everything just comes together. Tender pancakes come from not over-mixing the batter. If there are still a few pockets of flour, don’t worry about it. Let the mixture sit for 10 to 15 minutes.
-$2.80 t o ta l
-$ 0 . 70 / s e r v i n g
-Place a non-stick or cast-iron pan on medium heat.
-Once it’s hot, melt a small amount of butter, about
-1⁄2 teaspoon, then ladle some pancake batter into the center of the pan. You can make your pancakes as large or small as you like. A normal amount is about 1 / 4 to
-1 / 3 cup of batter. If it’s your first time making pancakes, make them smaller: they’ll be easier to flip.
+Place a non-stick or cast-iron pan on medium heat. Once it’s hot, melt a small amount of butter, about 1/2 teaspoon, then ladle some pancake batter into the center of the pan. You can make your pancakes as large or small as you like. A normal amount is about 1 / 4 to 1/3 cup of batter. If it’s your first time making pancakes, make them smaller: they’ll be easier to flip.
 As soon as the batter is in the pan, place 3 to 4 banana slices atop of the uncooked side of the pancake. Once the edges of the pancake start to dry up and you can see the middle start to bubble, flip the pancake over. Cook until it is browned on both sides. Stack the finished pancake on a plate in a warm oven and repeat the above process until you run out of batter.
-Serve hot, with butter and syrup. b r e a k fa s t b r e a k fa s t
-18 19
+Serve hot, with butter and syrup."""
 
 [[recipes]]
 name = "Chocolate Zucchini Muffins"
-- makes twenty four small muffins
-When my friend Michael challenged me to create a recipe that used dark chocolate, I got a little worried: dark chocolate is expensive!
-But then I remembered that cocoa powder is deeply, darkly chocolaty, without the expense. I thought of the chocolate zucchini cake my mother made when I was growing up and knew I had something.
-This is a great breakfast treat that uses staples you should generally have on hand like flour, oats, and yogurt.
-The yogurt and zucchini make these muffins super moist and yummy, but still a reasonably nutritious (if slightly sugary) choice for breakfast.
-Make these in mid-summer, during the height of zucchini season, when larger zucchini are really cheap. Big zucchini are generally a bit woodier, but they’re still great for baking.
-$4.80 t o ta l
-$ 0 .2 0 / m u f f i n b r e a k fa s t
-20
 ingredients = """2 cups grated zucchini
 1 1⁄2 cups all-purpose flour
 1 1⁄2 cups oats
@@ -101,22 +83,17 @@ ingredients = """2 cups grated zucchini
 4 eggs
 1 cup plain yogurt
 1⁄2 cup dark chocolate chips (optional)"""
-Preheat the oven to 350 °F.
-Cut off the round end of the zucchini
-(which is a little tough), but keep the stem to use as a handhold. Shred the zucchini with a box grater, stopping when you get to the stem.
+text = """Preheat the oven to 350 °F.
+Cut off the round end of the zucchini (which is a little tough), but keep the stem to use as a handhold. Shred the zucchini with a box grater, stopping when you get to the stem.
 Butter or oil 24 muffin tins, or just line them with muffin cups.
 Measure the dry ingredients (flour, oats, cocoa powder, sugar, cinnamon, baking soda, and salt) into a medium bowl.
 Mix the zucchini, eggs, and yogurt in a larger bowl. Add the dry ingredients, then mix until everything is just combined. Add the chocolate chips if you’re using them, then stir once.
 With a spoon, dollop the batter into the muffin tins until each cup is about 3⁄4 full and bake for 20 minutes.
 Pull the muffins out and poke with a toothpick or knife. If it comes out wet, bake the muffins for 5 more minutes.
-Let the muffins cool in their tins for 20 to 30 minutes, then eat them warm! b r e a k fa s t
-21
+Let the muffins cool in their tins for 20 to 30 minutes, then eat them warm!"""
 
 [[recipes]]
 name = "Whole-Wheat Jalapeño Cheddar Scones"
-$ 4.50 t o ta l
-$ 0 . 75 / s c o n e makes six
-These are delicious for breakfast or with a plate of beans, a pile of vegetables, or alongside a chili or stew. Spicy, cheesy, flaky—these are best eaten straight out of the oven.
 ingredients = """1⁄2 cup butter
 2 1⁄2 cups whole-wheat flour
 1 tbsp baking powder
@@ -127,28 +104,25 @@ ingredients = """1⁄2 cup butter
 1⁄2 cup milk eg g wa s h
 1 egg
 salt and pepper"""
-Place the butter in the freezer for 30 minutes.
+text = """Place the butter in the freezer for 30 minutes.
 Turn the oven to 400 °F. Line a baking sheet with parchment paper, or lightly grease the pan if you don’t have the paper.
 In a large bowl, combine the flour, baking powder, and salt.
 Prepare your jalapeño and cheese. Cutting the cheese into cubes rather than grating it means you’ll have pockets of gooey cheese that contrast nicely with the scone. If you want the spice of the jalapeño, leave the seeds and membrane; if you like it milder, remove them and chop up only the pepper itself.
 Remove the butter from the freezer and grate it directly into the flour mixture. (Use a cheese grater—it’s the best way to break up butter without melting it.) Using your hands, gently squish the butter into the flour until everything is incorporated but not smooth. The chunks of butter will create flaky scones. Add the jalapeño, cheese, eggs, and milk to the bowl, then use your hands to gently mix everything until it just comes together. It will probably be a little shaggy, but that’s just fine.
-Sprinkle flour on a clean countertop and dump the dough onto it. Gently shape the dough into a disc about
-11⁄2” thick. Cut the dough into six triangles, like a pizza, and move them to the cookie sheet.
+Sprinkle flour on a clean countertop and dump the dough onto it. Gently shape the dough into a disc about 1 1⁄2” thick. Cut the dough into six triangles, like a pizza, and move them to the cookie sheet.
 In a small bowl, gently beat the egg for the egg wash.
-Brush it over the scones, then sprinkle salt and pepper over each one. Bake for 25 minutes or until the scones are golden brown. b r e a k fa s t b r e a k fa s t
-22 23$3.60 t o ta l
-$ 0.30 / b a r
+Brush it over the scones, then sprinkle salt and pepper over each one. Bake for 25 minutes or until the scones are golden brown."""
 
 [[recipes]]
 name = "Peanut Butter and Jelly Granola Bars"
-m a k e s t w e lv e
-Heat the oven to 350 °F.
+text = """Heat the oven to 350 °F.
 Butter or oil an 8” x 11” baking pan. If you have a different size pan, that’s fine—it’ll just change how thick the bars are.
 Pour the oats into a large bowl. You can use quick oats if they’re all you have, but I prefer the bite and chew of rolled oats. For a different texture, you can also substitute a cup of oats with a cup of Rice Krispies, but the bars are great either way.
 Add the peanut butter, half the jelly, the water, and the salt to a small pan. Stir over low heat until it’s smooth.
-Tired of endless PB+J sandwiches? Give these bars a try instead! I designed them for my friend Alex, who is allergic to gluten and is the best long-distance runner I know. I wanted to create a simple but nutritious breakfast that he could grab on his way out for a run.
-They are a little more crumbly than a store-bought granola bar, however.
-As a bonus, these are made entirely from ingredients that you can find in any corner store or food pantry. Any kind of jam or jelly will do; I used blueberry, but grape or strawberry or any other flavor would be tasty.
+Mix the peanut butter and jelly concoction into the oats until all the oats are coated and you have a sticky mass. Dump the mixture into the oiled pan and press it into an even layer. Spread the remaining jelly over the top.
+Pop the pan into the oven for 25 minutes, until it’s toasty and brown around the edges. Mmm. Crunchy.
+Leave the bars in the pan until they cool completely, about an hour, then slice into 12 bars."""
+
 ingredients = """3 cups rolled oats (or 2 cups oats and 1 cup Rice Krispies)
 1⁄2 cup peanut butter
 1⁄2 cup jelly or jam
@@ -161,17 +135,9 @@ nuts
 coconut
 dried fruit
 honey"""
-Mix the peanut butter and jelly concoction into the oats until all the oats are coated and you have a sticky mass.
-Dump the mixture into the oiled pan and press it into an even layer. Spread the remaining jelly over the top.
-Pop the pan into the oven for 25 minutes, until it’s toasty and brown around the edges. Mmm. Crunchy.
-Leave the bars in the pan until they cool completely, about an hour, then slice into 12 bars. b r e a k fa s t b r e a k fa s t
-24 25
 
 [[recipes]]
 name = "Egg Sandwich with Mushroom Hash"
-$3.60 t o ta l
-$1. 8 0 / s a n d w i c h for two
-Egg sandwiches are a mainstay of every corner deli in NYC, and for good reason: they’re cheap and easy, fast and delicious. I knew I had to include one when Charlene, one of my early supporters, asked for a recipe with eggs and mushrooms. (I’m thankful she did! Because I don’t really like mushrooms, they’re scarce in this book, even though plenty of people love them.) Like most sandwiches, this recipe is really flexible. In particular, you can change the hash to use whatever you have around. Sad leftovers can take on new life when turned into a hash and matched with the rich fattiness of a morning egg.
 ingredients = """2 tsp butter
 1 small potato, diced
 1⁄2 lb mushrooms, sliced
@@ -190,20 +156,17 @@ potato and onion
 potato and pea
 collards and bacon
 zucchini
-chorizo and green chili""" b r e a k fa s t
-26
-Melt half the butter in a pan on medium heat, then throw in the potato and cook for 5 minutes, stirring minimally. Season with salt and pepper. Add the mushrooms and garlic, as well as a splash of water if the potatoes are getting stuck to the pan. Cook for another 5 minutes, until the mushrooms are brown and have shrunk down.
+chorizo and green chili"""
+text = """Melt half the butter in a pan on medium heat, then throw in the potato and cook for 5 minutes, stirring minimally. Season with salt and pepper. Add the mushrooms and garlic, as well as a splash of water if the potatoes are getting stuck to the pan. Cook for another 5 minutes, until the mushrooms are brown and have shrunk down.
 Test the potato by piercing one piece with a fork. If it goes through easily, you’re done. If not, cook for a few more minutes. (The smaller the potatoes are chopped, the quicker they’ll cook.) Taste and adjust the seasoning to your preferences.
 Melt the other teaspoon of butter in another pan on medium heat. Crack the eggs into the pan and dust with salt and pepper again. Salt and pepper are critical to these ingredients, so don’t worry about overdoing it.
 If you like your eggs sunny-side up, place a lid over the pan to ensure the whites will cook through without making the yolks hard. Once the whites are no longer translucent, take them off the heat.
 If you like eggs over-easy (my favorite), wait until the yolks are cooked but still look runny, then flip each egg with a spatula and let the other side cook for about 15 seconds. That’ll get your whites fully cooked, but keep the yolks runny—the best. If you prefer hard yolks (please no!), then cook for a little longer.
-Toast the bread or bun, then assemble it into a sandwich, using any condiments you like. Way better than what you’ll find at the corner deli. b r e a k fa s t
-27
-
+Toast the bread or bun, then assemble it into a sandwich, using any condiments you like. Way better than what you’ll find at the corner deli."""
 
 [[recipes]]
 name = "Coconut and Lime Oatmeal"
-Add the coconut and sugar to the oatmeal, water, and salt. Cook as normal. Turn off the heat and squeeze the juice of half a lime over the top.
+text = """Add the coconut and sugar to the oatmeal, water, and salt. Cook as normal. Turn off the heat and squeeze the juice of half a lime over the top."""
 ingredients = """1⁄4 cup coconut, shredded
 2 tbsp sugar
 1⁄2 lime, juiced"""
@@ -213,26 +176,17 @@ name = "Oatmeal"
 ingredients = """1 cup rolled oats
 2 cups water
 1⁄4 tsp salt"""
-In a small pot, add the oats, water and salt. Place it on medium-high heat, just until the water comes to a boil.
-Immediately turn the heat to low and place a lid on the pot.
-Cook for 5 minutes, until the oats are soft and tender and most of the water has cooked off. You can add more water if you like your oatmeal smooth and thin, or use slightly less if you want a thick oatmeal. b r e a k fa s t
-28
-This is just the basic recipe; several ideas for how to make it your own follow on the next pages. Whether it’s milky and sweet or savory and salty, I’m sure you can find a favorite way to enjoy a hot bowl of oats in the morning!
+text = """In a small pot, add the oats, water and salt. Place it on medium-high heat, just until the water comes to a boil. Immediately turn the heat to low and place a lid on the pot. Cook for 5 minutes, until the oats are soft and tender and most of the water has cooked off. You can add more water if you like your oatmeal smooth and thin, or use slightly less if you want a thick oatmeal."""
 
 [[recipes]]
 name = "Berry Oatmeal"
-Cook the oatmeal as usual, but 2 minutes before it’s ready, add some fresh or frozen berries and the sugar, then stir to combine. There’s nothing more to the recipe than that, but it’s surprising how many variations you can come up with just by trying a new type of berry or combining several varieties.
+text = """Cook the oatmeal as usual, but 2 minutes before it’s ready, add some fresh or frozen berries and the sugar, then stir to combine. There’s nothing more to the recipe than that, but it’s surprising how many variations you can come up with just by trying a new type of berry or combining several varieties."""
 ingredients = """1⁄2 cup berries, fresh or frozen
 1 tbsp sugar"""
-$1.10 t o t a l
-$ 0 . 55 / s e r v i n g b r e a k fa s t
 
 [[recipes]]
 name = "Pumpkin Oatmeal"
-29: Whisk the pumpkin, milk, and water in a pot. Add the oats, salt, sugar, and spices, but use just 11⁄4 cups water. Cook on medium-low until it bubbles. Turn to low for
-5 more minutes. Add syrup or more sugar to taste.
-$1. 5 0 t o t a l
-$ 0 . 75 / s e r v i n g
+text = """Whisk the pumpkin, milk, and water in a pot. Add the oats, salt, sugar, and spices, but use just 1 1⁄4 cups water. Cook on medium-low until it bubbles. Turn to low for 5 more minutes. Add syrup or more sugar to taste."""
 ingredients = """1⁄2 cup canned pumpkin
 3⁄4 cup milk (or almond / soy milk)
 1 1⁄4 cups water
@@ -246,42 +200,26 @@ maple syrup"""
 
 [[recipes]]
 name = "Apple Cinnamon Oatmeal"
-: Cook the oats in juice and cinnamon instead of water. Top with the apple. If you want the apple to be soft and warm, cook it along with the oats.
-$2 t o ta l
-$1 / s e r v i n g
+text = """Cook the oats in juice and cinnamon instead of water. Top with the apple. If you want the apple to be soft and warm, cook it along with the oats."""
 ingredients = """2 cups apple juice or cider
 1 tsp cinnamon
 1 apple, cored and chopped"""
 
 [[recipes]]
 name = "Baklava Oatmeal"
-: Before cooking the oatmeal as normal, add the cinnamon, orange zest and 2 tablespoons of honey. Once it’s cooked, top each bowl with another tablespoon of honey and a tablespoon of nuts.
+text = """Before cooking the oatmeal as normal, add the cinnamon, orange zest and 2 tablespoons of honey. Once it’s cooked, top each bowl with another tablespoon of honey and a tablespoon of nuts."""
 ingredients = """1 tsp cinnamon
 1 tbsp orange zest, finely grated
 4 tbsp honey
 2 tbsp almonds or pistachios, chopped"""
-$1. 5 0 t o t a l
-$ 0 . 75 / s e r v i n g
 
 [[recipes]]
 name = "Savory Oatmeal"
-: Cook the oatmeal with scallions.
-Just before it’s done, add cheese. Melt the butter in a pan on medium heat. Crack in the eggs, then cover.
-Fry until the yolks are runny but the whites are cooked, then top each bowl of oats with one fried egg!
+text = """Cook the oatmeal with scallions. Just before it’s done, add cheese. Melt the butter in a pan on medium heat. Crack in the eggs, then cover. Fry until the yolks are runny but the whites are cooked, then top each bowl of oats with one fried egg!"""
 ingredients = """2-3 scallions, finely chopped
 1⁄4 cup sharp cheddar, grated
 1 tsp butter
 2 eggs"""
-$1. 5 0 t o t a l
-$ 0 . 75 / s e r v i n g b r e a k fa s t b r e a k fa s t
-30 31ideas
-Yogurt
-Smash! jam!
-There are so many types of yogurt in the grocery store: some low in fat and high in sugar, some with cute animal pictures. Some are Greek. Some have chocolate shavings and candy. Some have names like “key lime pie.” yogurt
-Now forget about all of that. The best value for your money are the big buckets of plain yogurt. The fat content is your choice—just check that it doesn’t contain gelatin and you’re all set. Starting with plain yogurt, you can make super flavors in your own kitchen, where you know exactly what’s going into it.
-If you have kids, ask them what flavors they can imagine and go make it! It’s a lot more fun than letting the supermarket choose for you. Try something new and smash it in! Check out the ideas on the adjoining page. raspberry!
-If you want a thicker Greek-style yogurt, all you have to do is strain regular American yogurt through cheesecloth to remove the extra water.
-Yogurt’s versatility makes it a great staple to keep in the fridge. Mix it with some of the items you see on the next page or turn it into a savory sauce like raita (p. 164) or tzatziki (p. 165). honey! coconut! b r e a k fa s t b r e a k fa s t
 
 [[recipes]]
 name = "Dal"
