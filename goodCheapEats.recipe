@@ -9,7 +9,7 @@ Meanwhile, crack the eggs into a bowl and add a generous sprinkling of salt and 
 Once most of the juice has cooked out of the tomatoes, turn the heat down to low and add the eggs to the pan. Using a spatula, gently mix the eggs and tomatoes. Carefully stir the eggs to keep them from forming chunks. Turn down the heat as low as possible; the slower your eggs cook, the creamier they'll be.
 Once the eggs are done, turn off the heat and add any chopped herbs you have around. Basil is the best with tomatoes.
 If you have some around, serve over toast or a tortilla."""
-ingredients = """1⁄2 tbsp butter
+ingredients = """1/2 tbsp butter
 4 cups fresh tomatoes or 2 cups canned tomatoes, chopped
 4 eggs salt and pepper additions: fresh basil or other herbs, chopped"""
 page = 15
@@ -43,8 +43,8 @@ ingredients = """4 eggs
 2 tbsp fresh dill, finely chopped
 salt and pepper
 butter for the pan
-1 shallot or 1⁄2 small red onion, finely diced
-1⁄4 cup grated cheese"""
+1 shallot or 1/2 small red onion, finely diced
+1/4 cup grated cheese"""
 text = """Crack the eggs in a bowl. Add the dill, salt, pepper, and beat with a fork.
 Put a big saucepan on medium-high heat. Melt a small blob of butter in the pan. Once the butter is sizzling, add the onion and sauté for about two minutes, until it's translucent and smells great.
 Add the egg to the hot pan and swirl it around to coat the surface evenly. If the center of the omelette cooks more quickly than the edge, use a spatula to pull any raw egg into the middle. Then stop touching it.
@@ -54,13 +54,13 @@ If I'm serving two people, I usually cut one large omelette in half rather than 
 [[recipes]]
 name = "Banana Pancakes"
 ingredients = """2 cups all-purpose flour
-1⁄4 cup brown sugar
+1/4 cup brown sugar
 2 tsp baking powder
 1 tsp baking soda
 1 tsp salt
 2 bananas, mashed
 2 eggs
-1 1⁄2 cups milk
+1 1/2 cups milk
 1 tsp vanilla
 2 bananas, sliced
 butter for cooking"""
@@ -73,35 +73,35 @@ Serve hot, with butter and syrup."""
 [[recipes]]
 name = "Chocolate Zucchini Muffins"
 ingredients = """2 cups grated zucchini
-1 1⁄2 cups all-purpose flour
-1 1⁄2 cups oats
-1⁄2 cup cocoa powder
-1 1⁄2 cups sugar
+1 1/2 cups all-purpose flour
+1 1/2 cups oats
+1/2 cup cocoa powder
+1 1/2 cups sugar
 1 tbsp cinnamon (optional)
 2 tsp baking soda
 1 tsp salt
 4 eggs
 1 cup plain yogurt
-1⁄2 cup dark chocolate chips (optional)"""
+1/2 cup dark chocolate chips (optional)"""
 text = """Preheat the oven to 350 °F.
 Cut off the round end of the zucchini (which is a little tough), but keep the stem to use as a handhold. Shred the zucchini with a box grater, stopping when you get to the stem.
 Butter or oil 24 muffin tins, or just line them with muffin cups.
 Measure the dry ingredients (flour, oats, cocoa powder, sugar, cinnamon, baking soda, and salt) into a medium bowl.
 Mix the zucchini, eggs, and yogurt in a larger bowl. Add the dry ingredients, then mix until everything is just combined. Add the chocolate chips if you're using them, then stir once.
-With a spoon, dollop the batter into the muffin tins until each cup is about 3⁄4 full and bake for 20 minutes.
+With a spoon, dollop the batter into the muffin tins until each cup is about 3/4 full and bake for 20 minutes.
 Pull the muffins out and poke with a toothpick or knife. If it comes out wet, bake the muffins for 5 more minutes.
 Let the muffins cool in their tins for 20 to 30 minutes, then eat them warm!"""
 
 [[recipes]]
 name = "Whole-Wheat Jalapeño Cheddar Scones"
-ingredients = """1⁄2 cup butter
-2 1⁄2 cups whole-wheat flour
+ingredients = """1/2 cup butter
+2 1/2 cups whole-wheat flour
 1 tbsp baking powder
 1 tsp salt
 4 oz sharp cheddar, diced
 1 jalapeño, finely diced
 2 eggs, lightly beaten
-1⁄2 cup milk eg g wa s h
+1/2 cup milk eg g wa s h
 1 egg
 salt and pepper"""
 text = """Place the butter in the freezer for 30 minutes.
@@ -109,7 +109,7 @@ Turn the oven to 400 °F. Line a baking sheet with parchment paper, or lightly g
 In a large bowl, combine the flour, baking powder, and salt.
 Prepare your jalapeño and cheese. Cutting the cheese into cubes rather than grating it means you'll have pockets of gooey cheese that contrast nicely with the scone. If you want the spice of the jalapeño, leave the seeds and membrane; if you like it milder, remove them and chop up only the pepper itself.
 Remove the butter from the freezer and grate it directly into the flour mixture. (Use a cheese grater-it's the best way to break up butter without melting it.) Using your hands, gently squish the butter into the flour until everything is incorporated but not smooth. The chunks of butter will create flaky scones. Add the jalapeño, cheese, eggs, and milk to the bowl, then use your hands to gently mix everything until it just comes together. It will probably be a little shaggy, but that's just fine.
-Sprinkle flour on a clean countertop and dump the dough onto it. Gently shape the dough into a disc about 1 1⁄2" thick. Cut the dough into six triangles, like a pizza, and move them to the cookie sheet.
+Sprinkle flour on a clean countertop and dump the dough onto it. Gently shape the dough into a disc about 1 1/2" thick. Cut the dough into six triangles, like a pizza, and move them to the cookie sheet.
 In a small bowl, gently beat the egg for the egg wash.
 Brush it over the scones, then sprinkle salt and pepper over each one. Bake for 25 minutes or until the scones are golden brown."""
 
@@ -124,10 +124,10 @@ Pop the pan into the oven for 25 minutes, until it's toasty and brown around the
 Leave the bars in the pan until they cool completely, about an hour, then slice into 12 bars."""
 
 ingredients = """3 cups rolled oats (or 2 cups oats and 1 cup Rice Krispies)
-1⁄2 cup peanut butter
-1⁄2 cup jelly or jam
-1⁄4 cup hot water
-1⁄4 tsp salt
+1/2 cup peanut butter
+1/2 cup jelly or jam
+1/4 cup hot water
+1/4 tsp salt
 butter or vegetable oil
 
 additions:
@@ -140,7 +140,7 @@ honey"""
 name = "Egg Sandwich with Mushroom Hash"
 ingredients = """2 tsp butter
 1 small potato, diced
-1⁄2 lb mushrooms, sliced
+1/2 lb mushrooms, sliced
 2 cloves garlic, finely chopped
 2 eggs
 salt and pepper
@@ -167,35 +167,35 @@ Toast the bread or bun, then assemble it into a sandwich, using any condiments y
 [[recipes]]
 name = "Coconut and Lime Oatmeal"
 text = """Add the coconut and sugar to the oatmeal, water, and salt. Cook as normal. Turn off the heat and squeeze the juice of half a lime over the top."""
-ingredients = """1⁄4 cup coconut, shredded
+ingredients = """1/4 cup coconut, shredded
 2 tbsp sugar
-1⁄2 lime, juiced"""
+1/2 lime, juiced"""
 
 [[recipes]]
 name = "Oatmeal"
 ingredients = """1 cup rolled oats
 2 cups water
-1⁄4 tsp salt"""
+1/4 tsp salt"""
 text = """In a small pot, add the oats, water and salt. Place it on medium-high heat, just until the water comes to a boil. Immediately turn the heat to low and place a lid on the pot. Cook for 5 minutes, until the oats are soft and tender and most of the water has cooked off. You can add more water if you like your oatmeal smooth and thin, or use slightly less if you want a thick oatmeal."""
 
 [[recipes]]
 name = "Berry Oatmeal"
 text = """Cook the oatmeal as usual, but 2 minutes before it's ready, add some fresh or frozen berries and the sugar, then stir to combine. There's nothing more to the recipe than that, but it's surprising how many variations you can come up with just by trying a new type of berry or combining several varieties."""
-ingredients = """1⁄2 cup berries, fresh or frozen
+ingredients = """1/2 cup berries, fresh or frozen
 1 tbsp sugar"""
 
 [[recipes]]
 name = "Pumpkin Oatmeal"
-text = """Whisk the pumpkin, milk, and water in a pot. Add the oats, salt, sugar, and spices, but use just 1 1⁄4 cups water. Cook on medium-low until it bubbles. Turn to low for 5 more minutes. Add syrup or more sugar to taste."""
-ingredients = """1⁄2 cup canned pumpkin
-3⁄4 cup milk (or almond / soy milk)
-1 1⁄4 cups water
+text = """Whisk the pumpkin, milk, and water in a pot. Add the oats, salt, sugar, and spices, but use just 1 1/4 cups water. Cook on medium-low until it bubbles. Turn to low for 5 more minutes. Add syrup or more sugar to taste."""
+ingredients = """1/2 cup canned pumpkin
+3/4 cup milk (or almond / soy milk)
+1 1/4 cups water
 2 tbsp brown sugar
 1 tsp cinnamon
 
 optional:
-1⁄4 tsp ginger powder
-1⁄4 tsp clove powder
+1/4 tsp ginger powder
+1/4 tsp clove powder
 maple syrup"""
 
 [[recipes]]
@@ -217,7 +217,7 @@ ingredients = """1 tsp cinnamon
 name = "Savory Oatmeal"
 text = """Cook the oatmeal with scallions. Just before it's done, add cheese. Melt the butter in a pan on medium heat. Crack in the eggs, then cover. Fry until the yolks are runny but the whites are cooked, then top each bowl of oats with one fried egg!"""
 ingredients = """2-3 scallions, finely chopped
-1⁄4 cup sharp cheddar, grated
+1/4 cup sharp cheddar, grated
 1 tsp butter
 2 eggs"""
 
@@ -231,7 +231,7 @@ ingredients = """2 cups lentils
 1 tsp turmeric powder
 2 cloves garlic, finely chopped
 1 green chili, finely chopped
-1⁄2 inch ginger root, grated
+1/2 inch ginger root, grated
 salt and pepper"""
 text = """You can use any type of lentil you like. If you're using larger lentils (like chana dal, french lentils, or split mung beans), soak them for 30 minutes to start. If you're using the small orange lentils, then don't bother soaking them; they cook very quickly.
 Melt butter in a saucepan on medium heat. Add the onion and let it cook for 1 minute, then add the cumin and mustard seeds and stir them around with the onions until they sizzle. Toss in the turmeric powder, garlic, and chili and cook for 3 to 4 more minutes. Add the ginger root and stir fry quickly for about 30 seconds.
@@ -279,7 +279,7 @@ ingredients = """4 lb onions, any type
 pepper
 8 cups water
 6 slices bread
-1 1⁄2 cups cheddar, grated
+1 1/2 cups cheddar, grated
 
 additions:
 beef or chicken stock instead of water
@@ -315,7 +315,7 @@ sour cream
 scallions
 fresh cilantro"""
 text = """To prepare the squash, peel off the tough skin with a potato peeler. Cut the squash in half lengthwise with a sharp chef's knife, then scoop out the seeds and gloop. (You can save the seeds for a tasty snack later, if you like: just clean the gloop off, then toast them.)
-Next, slice off the stem and very bottom of the squash and throw them away. Take each half of the squash and place it face-down on a cutting board. Chop each into 1⁄2" slices, then turn each slice into cubes.
+Next, slice off the stem and very bottom of the squash and throw them away. Take each half of the squash and place it face-down on a cutting board. Chop each into 1/2" slices, then turn each slice into cubes.
 Put a large pot or Dutch oven on the stove on medium heat. Melt the butter and let the pot get hot. Add the onion, pepper, and garlic, then sauté for two minutes.
 Add the cubed squash and spices and stir it all together. Put a lid on the pot and let it cook for another two minutes. Add the coconut milk and water and stir.
 Bring the soup to a boil, then turn down the heat to low and let it cook for about 30 minutes, or until the squash is tender.
@@ -438,13 +438,13 @@ name = "Taco Salad"
 ingredients = """4 cups lettuce, chopped
 1 cup beans, pulled pork, or ground beef
 2 small tomatoes, chopped
-1⁄2 cup corn, canned or fresh
+1/2 cup corn, canned or fresh
 2-3 scallions, finely chopped
 1 cup tortilla chips, roughly crushed
 sharp cheddar or queso fresco, for sprinkling
 
 dressing:
-1⁄4 cup sour cream or yogurt
+1/4 cup sour cream or yogurt
 juice of one lime
 salt and pepper
 
@@ -484,7 +484,7 @@ salt and pepper
 dressing:
 1 lime, juiced
 1 tbsp olive oil
-1⁄2 tsp chili powder
+1/2 tsp chili powder
 salt and pepper
 """
 text = """Chop off both ends of the zucchini, then slice each into four long sticks. Shuck the corn. Lay the zucchini and corn on a baking tray, then rub them with oil, making sure they're well coated. Sprinkle with salt and pepper.
@@ -518,8 +518,8 @@ If you put a plate in the fridge for 10 minutes before serving the salad, it'll 
 name = "Jacket Sweet Potatoes"
 ingredients = """4 large sweet potatoes
 salt and pepper
-1⁄4 cup sour cream
-1⁄2 bunch scallions, finely chopped"""
+1/4 cup sour cream
+1/2 bunch scallions, finely chopped"""
 text = """Heat the oven to 400 °F. Scrub the sweet potatoes and stab them with a fork a few times. Lay them on a baking sheet.
 Bake for 60 to 75 minutes. Because sweet potatoes vary greatly in size, check them after an hour by stabbing with a long knife. If it goes through easily, they're ready. If not, bake longer.
 Let cool for 15 minutes. Make a long cut along the top of each potato and open them gently, beating with a fork to fluff up the soft, orange middle.
@@ -532,7 +532,7 @@ ingredients = """1 head cauliflower, cut into small pieces
 2 cloves garlic, unpeeled
 1 tbsp butter, melted
 1 tsp smoked paprika
-1⁄2 tsp cayenne pepper
+1/2 tsp cayenne pepper
 salt and pepper"""
 text = """Turn the oven to 400 °F.
 In a medium-sized roasting pan, arrange the cauliflower pieces and the unpeeled cloves of garlic. Pour the butter over the cauliflower and then sprinkle the spices over top. Use your hands to thoroughly coat the cauliflower with butter and spices.
@@ -541,7 +541,7 @@ Bake for 45 minutes to 1 hour, depending on how crispy you like the florets. Squ
 [[recipes]]
 name = "Spicy Green Beans"
 ingredients = """1 tsp vegetable oil
-1⁄2 lb green beans, ends trimmed, chopped into bite-size pieces
+1/2 lb green beans, ends trimmed, chopped into bite-size pieces
 2 cloves garlic, finely chopped
 1 tsp soy sauce
 1 tsp sambal oelek (or 2 tsp chili flakes)
@@ -551,14 +551,14 @@ additions:
 1 tsp lemon juice"""
 text = """Add the vegetable oil to a frying pan on medium heat. Once it's hot, add the green beans. Let them cook undisturbed for about 1 minute.
 Mix the garlic, soy sauce, and sambal oelek in a bowl (and the ginger and lemon juice, if using).
-The beans should have turned bright green. Add about 1⁄4 cup of water to the pan. Cook another 2 minutes, until the water is mostly gone. Pour the sauce into the pan and toss gently to coat. Cook another 2 minutes, until everything is fragrant and most of the liquid is gone. Poke the beans with a fork: if it goes through easily, they're done. They should take about 5 minutes.
+The beans should have turned bright green. Add about 1/4 cup of water to the pan. Cook another 2 minutes, until the water is mostly gone. Pour the sauce into the pan and toss gently to coat. Cook another 2 minutes, until everything is fragrant and most of the liquid is gone. Poke the beans with a fork: if it goes through easily, they're done. They should take about 5 minutes.
 Taste and add more chili sauce or soy sauce if you want the beans hotter or saltier."""
 
 [[recipes]]
 name = "Mexican Street Corn"
 ingredients = """4 cobs corn
 4 tbsp mayonnaise
-1⁄2 cup cotija, queso blanco, feta, Romano or Parmesan, grated
+1/2 cup cotija, queso blanco, feta, Romano or Parmesan, grated
 chili powder
 1 lime, sliced into wedges"""
 text = """Turn your oven's broiler up to high.
@@ -571,23 +571,23 @@ Lastly, squeeze lime juice all over and serve hot!"""
 [[recipes]]
 name = "Green Chili and Cheddar Quesadillas"
 ingredients = """4 tortillas (p. 137)
-1⁄2 cup sharp cheddar, grated
-1⁄2 cup green chilies, canned or fresh, chopped
+1/2 cup sharp cheddar, grated
+1/2 cup green chilies, canned or fresh, chopped
 1 tbsp fresh cilantro, chopped"""
-text = """Spread 1⁄4 cup of green chilies evenly over one tortilla. Sprinkle 1⁄4 cup of cheese over the chilies, then top with half the cilantro. Place another tortilla on top of each prepared tortilla to form a quesadilla. Repeat!
+text = """Spread 1/4 cup of green chilies evenly over one tortilla. Sprinkle 1/4 cup of cheese over the chilies, then top with half the cilantro. Place another tortilla on top of each prepared tortilla to form a quesadilla. Repeat!
 Place a large, non-stick pan on medium heat. Once it's hot, add a quesadilla and toast for about 1 minute. Flip it over and brown the second side, then do the same for the other quesadilla. Slice into triangles and enjoy with some fresh salsa (p. 163) and sour cream."""
 
 [[recipes]]
 name = "Cornmeal Crusted Veggies"
-ingredients = """1⁄2 lb green beans, stems cut off
-1⁄2 cup all-purpose flour
+ingredients = """1/2 lb green beans, stems cut off
+1/2 cup all-purpose flour
 2 eggs
-1⁄4 cup milk
+1/4 cup milk
 1 cup cornmeal
 1 tsp salt
 1 tsp black pepper
 1 tsp paprika
-1⁄2 tsp garlic powder
+1/2 tsp garlic powder
 
 alternatives:
 zucchini
@@ -631,9 +631,9 @@ gravy:
 1 shallot or 3 scallions, finely chopped
 3 cloves garlic, finely chopped
 2 tbsp all-purpose flour
-11⁄2 cups vegetable broth
+11/2 cups vegetable broth
 1 tsp soy sauce
-1⁄2 tsp cayenne pepper
+1/2 tsp cayenne pepper
 salt and pepper
 6 leaves fresh sage, finely chopped (optional)"""
 text = """Proper poutine uses cheese curds, and if you can find them do use those, but fresh mozzarella works for me. It has the same spongy quality, just maybe with a little less squeak. This recipe does comes out a little more expensive than you would think because of the fresh mozzarella. If you use less or skip the cheese entirely, you can cut the price in half.
@@ -651,7 +651,7 @@ ingredients = """4 slices bread
 2 tbsp butter
 salt and pepper
 fried egg (optional)"""
-text = """Melt 1⁄2 tablespoon of butter in a small pan on medium heat.
+text = """Melt 1/2 tablespoon of butter in a small pan on medium heat.
 Place the two slices of bread in the pan and let them cook for about 2 minutes, then lift them with a spatula to check whether they're golden brown underneath. When they are, flip 'em over.
 Add the rest of the butter to the pan to make sure the second side of the toast becomes just as golden as the first. Sprinkle the top of the bread with salt and pepper. Once the second side is golden, set the bread on a plate to await its topping.
 For the toppings, you can go raw or, as I most often do, sauté veggies or beans with flavors like garlic and chilies, olives and and dill, ginger and turmeric, or any other classic combination (p. 166)."""
@@ -694,7 +694,7 @@ pepper"""
 
 [[recipes]]
 name = "Salty Broccoli Toast"
-text = """Warm up the oil in a pan on medium heat. Add the garlic and chili flakes and cook for 2 minutes, until they smell great but are not yet brown. Add the anchovy and cook for another minute. Add the broccoli and about 1⁄4 cup of water. Cover the pan, steam for 3 minutes, then toss and cook for 2 minutes, until the broccoli is tender and the water is gone. Spoon onto toast; top with cheese, salt, and pepper!"""
+text = """Warm up the oil in a pan on medium heat. Add the garlic and chili flakes and cook for 2 minutes, until they smell great but are not yet brown. Add the anchovy and cook for another minute. Add the broccoli and about 1/4 cup of water. Cover the pan, steam for 3 minutes, then toss and cook for 2 minutes, until the broccoli is tender and the water is gone. Spoon onto toast; top with cheese, salt, and pepper!"""
 ingredients = """1 tsp olive oil
 3 cloves garlic, finely chopped
 1 tsp chili flakes
@@ -741,41 +741,31 @@ Move the popcorn to a bowl and pour butter, salt, and other spices or toppings o
 name = "Cauliflower Tacos"
 ingredients = """roasted cauliflower (p. 58)
 6 tortillas
-1⁄2 cup cheese, grated
-1⁄2 cup salsa (p. 163) or sauce of choice"""
+1/2 cup cheese, grated
+1/2 cup salsa (p. 163) or sauce of choice"""
 text = """Warm up the tortillas in the microwave for 20 to 30 seconds, or put them in a warm oven covered with a towel while you prepare everything else.
 Place two to three tortillas on each plate and fill with a generous serving of cauliflower.
 Sprinkle the grated cheese over top and drizzle with salsa or sauce of your choice. Enjoy!"""
 
 [[recipes]]
 name = "Potato Leek Pizza"
-Turn the oven to 500 °F.
+text = """Turn the oven to 500 °F.
 Put a large pan on medium heat and add 1 tablespoon of olive oil. Once the oil is hot, add the potato slices evenly to the pan, making sure each slice is touching the bottom. (If you slice them thin enough, they'll turn out almost like little chips.) makes four pizzas
-Obviously you should just make all kinds of pizza. Seriously, do it.
-Make it a Thursday- night tradition and an excuse to use up leftovers. This pizza, for one, is a fun variation that confounds expectations-proof that, indeed, anything is good on pizza!
+Let them cook until they start to crinkle around the edges and turn brown. Flip them over and brown the other side, then move them to a bowl. Sprinkle with salt and pepper, then toss with your hands (after they cool down!) to make sure they're evenly coated.
+Heat up another tablespoon of oil in the same pan, then toss in the leek slices, stirring occasionally until they're soft, about 5 minutes. Toss them with the potato slices and add a bit more salt and pepper.
+Clear a space on the counter and sprinkle with flour. Divide your dough into 4 equal pieces. One at a time, stretch the doughs into crusts. You can use a rolling pin or just slowly use your fingers and hands. I like to make mine really thin and big, but it's up to you how thick to make it.
+Once the crust is the desired shape and thickness, dust the back of a cookie sheet with flour or cornmeal to keep the crust from sticking, then place it the dough on the sheet.
+Now layer it with 1/4 of the potato and leek mixture and 1/4 of the shredded mozzarella. Bake for 5 to 8 minutes. If it's your first time, simply keep an eye on the oven to see when the pizza's done. The crust should be light brown and the cheese melted.
+Repeat the process until you've baked all your pizzas. If your oven is big enough, you can of course do more than one pizza at a time."""
 ingredients = """pizza dough (p. 139)
 2 tbsp olive oil
 1 Russet potato or 3 small potatoes, sliced into thin circles
 3 leeks, sliced into circles
 salt and pepper
 1 lb fresh mozzarella, shredded"""
-Let them cook until they start to crinkle around the edges and turn brown. Flip them over and brown the other side, then move them to a bowl. Sprinkle with salt and pepper, then toss with your hands (after they cool down!) to make sure they're evenly coated.
-Heat up another tablespoon of oil in the same pan, then toss in the leek slices, stirring occasionally until they're soft, about 5 minutes.
-Toss them with the potato slices and add a bit more salt and pepper.
-Clear a space on the counter and sprinkle with flour. Divide your dough into 4 equal pieces.
-One at a time, stretch the doughs into crusts.
-You can use a rolling pin or just slowly use your fingers and hands. I like to make mine really thin and big, but it's up to you how thick to make it.
-Once the crust is the desired shape and thickness, dust the back of a cookie sheet with flour or cornmeal to keep the crust from sticking, then place it the dough on the sheet.
-Now layer it with 1⁄4 of the potato and leek mixture and 1⁄4 of the shredded mozzarella.
-Bake for 5 to 8 minutes. If it's your first time, simply keep an eye on the oven to see when the pizza's done. The crust should be light brown and the cheese melted. handheld
-78
-Repeat the process until you've baked all your pizzas. If your oven is big enough, you can of course do more than one pizza at a time. handheld
-79
 
 [[recipes]]
 name = "Broccoli Rabe and Mozzarella Calzones"
-Calzones are pizza in a slightly different form-a form that lets you get stuff in more filling without weighing down the crust. Broccoli rabe is great, but you can use any bitter green, or even broccoli or cauliflower.
-You'll love these crusty pockets full of oozy goodness!
 ingredients = """pizza dough (p. 139)
 1 tbsp olive oil
 1 large bunch broccoli rabe, chopped
@@ -784,60 +774,49 @@ ingredients = """pizza dough (p. 139)
 2 anchovies, finely chopped (optional)
 salt and pepper
 2 cups grated mozzarella cheese"""
-Turn the oven to 500 °F (or as hot as your oven gets). Sprinkle a small amount of flour or cornmeal over a baking sheet and set aside.
+text = """Turn the oven to 500 °F (or as hot as your oven gets). Sprinkle a small amount of flour or cornmeal over a baking sheet and set aside.
 Place a large pan on medium heat and add the olive oil. Once the oil is hot, add the tough stem ends of the broccoli rabe and cook for 2 minutes. Next, add the rest of the broccoli rabe, including the leafy parts, along with the garlic, chili flakes, and anchovies. Give the ingredients a stir and let it cook for about 5 minutes, stirring occasionally. Add salt and pepper to taste. The broccoli rabe is done when the stems are tender. Set the filling aside.
-Divide the pizza dough into 4 equal pieces.
-Sprinkle flour over the countertop and place one of the four pieces of dough on it. Using your hands or a rolling pin, roll out the dough as you would for pizza (p. 79).
-Roll the dough out quite thin. Pile 1⁄4 of your broccoli rabe mixture and 1⁄2 cup of mozzarella onto one side of the circle, leaving a lip around the edge.
-Gather up the half of the dough that isn't weighed down with filling and fold it over top.
+Divide the pizza dough into 4 equal pieces. Sprinkle flour over the countertop and place one of the four pieces of dough on it. Using your hands or a rolling pin, roll out the dough as you would for pizza (p. 79).
+Roll the dough out quite thin. Pile 1/4 of your broccoli rabe mixture and 1/2 cup of mozzarella onto one side of the circle, leaving a lip around the edge. Gather up the half of the dough that isn't weighed down with filling and fold it over top.
 Pinch the edges of the dough together to create a half-moon shape. Place it carefully on the prepared baking sheet and repeat until you have four calzones. handheld
-Bake for 6 to 8 minutes or until the calzones are golden-brown on the outside. Be careful when you bite into them-they'll be hot! handheld
+Bake for 6 to 8 minutes or until the calzones are golden-brown on the outside. Be careful when you bite into them-they'll be hot!"""
 
 [[recipes]]
 name = "Broccoli, Egg, and Cheddar Empanadas"
-m a k e s t w e lv e
-In case you can't tell by now, I am partial to tasty dough stuffed with something even tastier. Every culture has its own version, so when you think about it that way, having empanadas, dumplings, perogies, and calzones in one book isn't that crazy-right? My friend Barb felt the same way, so I created this recipe for her.
 ingredients = """2 cups all-purpose or whole-wheat flour
-1⁄2 cup cornmeal
-1⁄2 tsp salt
-1⁄4 cup butter
+1/2 cup cornmeal
+1/2 tsp salt
+1/4 cup butter
 1 egg
-1⁄2 cup cold water
+1/2 cup cold water
 
 filling:
 4 cups broccoli with stems, chopped
 1 cup water
 9 eggs
 2 cloves garlic, finely chopped
-1⁄2 tsp chili flakes
+1/2 tsp chili flakes
 salt and pepper
 1 cup sharp cheddar, grated"""
-
-Mix the flour, cornmeal, and salt in a large bowl. The cornmeal isn't traditional in empanadas-I just like the extra crunch it gives. You can substitute more flour for the cornmeal if you like.
+text = """Mix the flour, cornmeal, and salt in a large bowl. The cornmeal isn't traditional in empanadas-I just like the extra crunch it gives. You can substitute more flour for the cornmeal if you like.
 Place the butter in the freezer for 10 minutes, then grate it directly into the flour mixture. Wash and dry your hands, then use them to gently squish the butter into the flour until it looks like bread crumbs.
 Make a crater in the flour mixture. Crack the egg into it along with the water. Mix with your hands until it comes together into a smooth ball. If you're using whole-wheat flour and the dough seems dry, add another tablespoon of water. Cover with plastic wrap or a moist towel.
-Put the broccoli and water in a pan over medium heat. Cover it with a lid.
-Cook for 5 to 7 minutes, until the water is gone and the broccoli is tender.
+Put the broccoli and water in a pan over medium heat. Cover it with a lid. Cook for 5 to 7 minutes, until the water is gone and the broccoli is tender.
 Meanwhile, crack 8 of the eggs into a bowl, saving the last one for an egg wash later. Mix the eggs with the garlic, chili flakes, salt, and pepper.
 Once the broccoli is tender, pour the eggs into the pan. Stir until just scrambled, about 2 minutes. Turn off the heat, add the cheese, and stir.
 Heat the oven to 400 °F. Lightly oil or butter two baking sheets.
-Divide the dough into 12 equal pieces and roll each into a ball. Dust your counter lightly with flour, then use a rolling pin to flatten each ball into a thin circle, a little bigger than a DVD. Place some filling on one side of the circle, then fold over the other side to form a half moon.
-Pinch the edges and place the empanada on a baking sheet. Repeat!
-If you own a pastry brush, an egg wash will make the empanadas shinier. Since it doesn't affect the taste, only how the empanadas look, this step is very optional. In a small bowl, beat an egg with a fork.
-Brush the tops of the empanadas with the egg wash.
-Bake for 20 minutes, until they turn golden brown. handheld
-83
+Divide the dough into 12 equal pieces and roll each into a ball. Dust your counter lightly with flour, then use a rolling pin to flatten each ball into a thin circle, a little bigger than a DVD. Place some filling on one side of the circle, then fold over the other side to form a half moon. Pinch the edges and place the empanada on a baking sheet. Repeat!
+If you own a pastry brush, an egg wash will make the empanadas shinier. Since it doesn't affect the taste, only how the empanadas look, this step is very optional. In a small bowl, beat an egg with a fork. Brush the tops of the empanadas with the egg wash.
+Bake for 20 minutes, until they turn golden brown."""
 
 [[recipes]]
 name = "Potato and Kale Rolls with Raita"
- for four
-These are a great meal to make when you have leftover roti and raita. The filling comes together in minutes and could be anything, but potatoes and greens are tasty and filling.
 ingredients = """8 roti (p. 138)
 2 large or 4 medium potatoes, chopped
 1 bunch kale or spinach, chopped with stems removed
 1 tbsp ghee or butter
 1 tsp cumin seeds
-1⁄2 cup onion, finely chopped
+1/2 cup onion, finely chopped
 3 cloves garlic, finely chopped
 1 tbsp ginger, finely grated
 1 tsp turmeric powder
@@ -845,17 +824,14 @@ ingredients = """8 roti (p. 138)
 1 tsp cayenne powder
 raita (p. 164)
 fresh cilantro"""
-Put a skillet on medium heat and add the ghee or butter. (Ghee, which is traditional in
-Indian cooking, is just butter with the milk solids removed, and it can withstand higher temperatures than butter without burning.)
+text = """Put a skillet on medium heat and add the ghee or butter. (Ghee, which is traditional in Indian cooking, is just butter with the milk solids removed, and it can withstand higher temperatures than butter without burning.)
 Once the butter is hot, add the cumin seeds and let them sizzle for 5 seconds before adding the diced onion. Let the onion cook for 2 minutes, stirring occasionally.
-In a small bowl, mix the garlic, ginger, turmeric, coriander, cayenne powder, salt, and
-1 tablespoon of water.
+In a small bowl, mix the garlic, ginger, turmeric, coriander, cayenne powder, salt, and 1 tablespoon of water.
 Add the spices to the onion mixture and mix, cooking for another 2 minutes. It will smell strongly aromatic. This step is important because the spices become toasted and release their flavor.
 Next, add the potatoes. Stir to coat them with the onions and spices. Add about a cup of water and cover the pan with a lid. Let it cook for about 10 minutes, checking occasionally to stir and make sure nothing is burning. Add more water as needed. You want the final mixture to be only a bit moist, but the water helps everything cook evenly.
 Test the potatoes with a fork: if you can easily pierce them, they're ready. Once they are, add the kale and stir until the kale is wilted. Taste and add more salt if needed.
-To assemble the rolls, scoop 1 / 8 of the mixture into the center of a roti, distributing it in an even line. Roll it up.
-Serve two roti per person with cilantro and a generous dollop of raita, either over the top or on the side. handheld handheld
-84
+To assemble the rolls, scoop 1/8 of the mixture into the center of a roti, distributing it in an even line. Roll it up.
+Serve two roti per person with cilantro and a generous dollop of raita, either over the top or on the side."""
 
 [[recipes]]
 name = "Creamy Zucchini Fettuccine"
@@ -864,14 +840,14 @@ Dinner
 My favorite meal of the day. For me, eating dinner indicates that the hard work is done: it's time for family, relaxing, and the more optional endeavors. A great dinner is an opportunity to show love to those you are cooking for and to yourself.
 88
 Zucchini and summer squash are so abundant in the summer months. This simple pasta is like a lighter, brighter fettuccine alfredo. It also comes together in no time-the veggies will be ready by the time your pasta is cooked. You'll love it, I promise.
-ingredients = """1⁄2 lb fettuccine
-1⁄4 cup cream
+ingredients = """1/2 lb fettuccine
+1/4 cup cream
 4 tbsp butter
-1⁄2 cup Romano or
+1/2 cup Romano or
 Parmesan, grated
 4 cloves garlic, finely chopped
 salt and pepper
-1⁄2 tsp chili flakes
+1/2 tsp chili flakes
 fresh basil, finely chopped (optional)
 2 small zucchini, finely diced
 1 lemon, zested"""
@@ -887,13 +863,13 @@ Drain the cooked fettuccine and add it to the zucchini pan along with the rest o
 name = "Pasta with Eggplant and Tomato"
  for two
 This is similar to a traditional pasta alla norma, but without anchovies and ricotta salata. I like to use a tubular pasta for this dish, but you can use anything, even spaghetti. The eggplant and tomatoes come together into a sauce that is thick and jammy and savory.
-ingredients = """1⁄2 lb pasta (rigatoni or similar)
+ingredients = """1/2 lb pasta (rigatoni or similar)
 2 tbsp olive oil
 1 large eggplant, cubed
 4 cloves garlic, finely chopped
-1⁄2 tsp chili flakes
+1/2 tsp chili flakes
 2 cups canned tomatoes, finely diced
-1⁄4 cup Romano or Parmesan, freshly grated
+1/4 cup Romano or Parmesan, freshly grated
 salt and pepper
 fresh basil, finely chopped (optional)"""
 Put a pot of water on high heat and add a good shake of salt. Bring it to a boil and cook the pasta according to the package instructions.
@@ -909,21 +885,21 @@ Serve it in bowls sprinkled with more Romano and basil. dinner dinner
 name = "Chana Masala"
  for two
 This Indian chickpea dish is a staple in my home. If you don't have cooked chickpeas around, you can use canned, but it will cost about $1 more.
-ingredients = """1⁄2 tbsp ghee or 1⁄2 tbsp butter plus a splash of olive oil
+ingredients = """1/2 tbsp ghee or 1/2 tbsp butter plus a splash of olive oil
 1 tsp smoked paprika
-1⁄2 tsp salt
+1/2 tsp salt
 1 tsp cumin seeds
 1 cup canned tomatoes, puréed
-1⁄2 cup onion, diced
-2 1⁄2 cups cooked chickpeas,
+1/2 cup onion, diced
+2 1/2 cups cooked chickpeas,
 1 tsp garlic, finely chopped drained
 1 tsp ginger root, grated
-1⁄2 cup water
-1⁄2 jalapeño, finely diced
+1/2 cup water
+1/2 jalapeño, finely diced
 3 tsp coriander powder
 1 tsp turmeric
-1⁄4 tsp cayenne powder
-1⁄2 tsp garam masala powder
+1/4 tsp cayenne powder
+1/2 tsp garam masala powder
 
 garnish:
 fresh cilantro
@@ -974,18 +950,18 @@ ingredients = """2 tbsp vegetable oil
 1 green bell pepper, chopped
 3 stalks celery, chopped
 3 cloves garlic, finely chopped
-1⁄2 small green chili, finely chopped
+1/2 small green chili, finely chopped
 2 large tomatoes, chopped
 2 bay leaves
 1 tsp paprika
 1 tsp garlic powder
 1 tsp cayenne pepper
-1⁄2 tsp dried thyme
-1⁄2 tsp dried oregano
+1/2 tsp dried thyme
+1/2 tsp dried oregano
 1 tsp salt
 1 tsp pepper
 1 tsp Worcestershire sauce or soy sauce
-3⁄4 cup long grain rice
+3/4 cup long grain rice
 3 cups vegetable broth or chicken stock
 
 additions:
@@ -998,14 +974,14 @@ If you're using any of the additions, throw them in at about the 15-minute mark 
 [[recipes]]
 name = "Filipino Chicken Adobo"
  for eight
-ingredients = """3⁄4 cup rice vinegar or white vinegar
-1⁄4 cup soy sauce
+ingredients = """3/4 cup rice vinegar or white vinegar
+1/4 cup soy sauce
 2 cloves garlic, minced
-1⁄2 tsp black pepper
+1/2 tsp black pepper
 2 bay leaves
 8 chicken thighs, fat trimmed
 2 tbsp vegetable oil
-3⁄4 cup water
+3/4 cup water
 2 medium potatoes, chopped
 4 medium carrots, sliced
 2 cups white rice
@@ -1017,7 +993,7 @@ additions:
 ginger root, grated
 
 variations:
-1 1⁄2 lb pork shoulder or butt, cubed, instead of chicken
+1 1/2 lb pork shoulder or butt, cubed, instead of chicken
 1 can coconut milk instead of water
 chicken schmaltz instead of vegetable oil"""
 Filipino adobo-very different from Spanish adobo-is basically anything cooked in vinegar, soy sauce, and garlic. Although this version is chicken, you can use any meat or vegetables you like.
@@ -1051,8 +1027,8 @@ name = "And Mine"
 , or four as a side
 ingredients = """
 3 cups dried pinto, red, or black beans, cooked
-1⁄2 cup canned tomatoes, puréed or chopped, with juice
-1⁄4 onion, finely chopped
+1/2 cup canned tomatoes, puréed or chopped, with juice
+1/4 onion, finely chopped
 2 tbsp mustard
 2 tbsp molasses or brown sugar
 2 tsp chipotle en adobo, or any chili sauce
@@ -1105,11 +1081,11 @@ salt and pepper
 3 cloves garlic, finely chopped
 1 lb mushrooms, chopped
 1 lb egg noodles
-1⁄2 cup sour cream
+1/2 cup sour cream
 3 tbsp mustard
 
 additions:
-1⁄2 cup red wine
+1/2 cup red wine
 potatoes
 fresh dill dinner"""
 Chop the raw beef into bite-sized pieces and season generously with salt and pepper.
@@ -1141,7 +1117,7 @@ for four
 ingredients = """1 tbsp ginger root, finely grated
 4 cloves garlic, finely grated
 8 cups water
-1⁄2 lb mushrooms, chopped
+1/2 lb mushrooms, chopped
 1 tsp chili paste
 2 tbsp soy sauce
 2 tsp toasted sesame oil
@@ -1172,10 +1148,10 @@ ingredients = """1 tbsp butter
 1 fresh sausage, casing removed
 1 onion, chopped
 4 cloves garlic, finely chopped
-1 small or 1⁄2 large cabbage, cored and chopped
+1 small or 1/2 large cabbage, cored and chopped
 3 cups cooked rice (p. 144)
 4 cups cooked lentils
-3 1⁄2 cups canned tomatoes, puréed, or tomato sauce (p. 142)
+3 1/2 cups canned tomatoes, puréed, or tomato sauce (p. 142)
 salt and pepper
 
 additions:
@@ -1210,19 +1186,19 @@ ingredients = """3-4 medium zucchini or summer squash, chopped into bite-sized p
 3 cloves garlic, finely chopped
 4 scallions, finely chopped
 1 lemon, zested
-1⁄4 cup fresh basil (optional)
+1/4 cup fresh basil (optional)
 1 tbsp olive oil
 salt and pepper
 
 topping:
-1 1⁄2 cups all-purpose or whole-wheat flour
-1⁄2 cup cornmeal
+1 1/2 cups all-purpose or whole-wheat flour
+1/2 cup cornmeal
 1 tbsp baking powder
-1⁄2 tsp salt
+1/2 tsp salt
 1 tsp black pepper
 1 tsp smoked paprika
-1⁄2 cup sharp cheddar, grated
-1⁄2 cup butter
+1/2 cup sharp cheddar, grated
+1/2 cup butter
 1 cup milk"""
 Once the butter is frozen, use a box grater to flake the butter into the flour mixture. Gently massage the butter into the flour with your fingers until it's crumbly but still clumpy. Add the milk and quickly bring the dough together. Don't knead the dough: lumpiness is fine and results in flaky topping. Put it in the fridge until the vegetables come out of the oven.
 Once the vegetable mixture has cooked for 25 minutes, quickly top it with small clumps of biscuit dough. The vegetables should still be visible in some areas.
@@ -1238,10 +1214,10 @@ ingredients = """1 head cauliflower, cut into bite-sized florets
 2 tsp salt
 1 tbsp butter
 3 cloves garlic, finely chopped
-1⁄2 tsp chili flakes
+1/2 tsp chili flakes
 1 bay leaf
 1 tbsp all-purpose flour
-1 1⁄2 cups milk
+1 1/2 cups milk
 6 oz sharp cheddar, grated
 salt and pepper
 
@@ -1251,7 +1227,7 @@ breadcrumbs (p. 146)
 4 scallions, finely chopped
 1 lemon, zested
 1 tsp smoked paprika
-1⁄2 tsp thyme"""
+1/2 tsp thyme"""
 Set the oven to 400 °F.
 Bring a large pot of water to boil over high heat. Add the salt and the cauliflower, then leave it for 4 minutes.
 Meanwhile, butter a baking dish large enough to comfortably accommodate all the cauliflower. I usually use a pie dish. Drain the water from the cauliflower and pour it into the baking dish.
@@ -1275,7 +1251,7 @@ ingredients = """1 tbsp butter
 1 cup milk
 1 cup cheddar or other cheese, grated
 1 tsp salt
-1⁄2 tsp black pepper"""
+1/2 tsp black pepper"""
 Set the oven to 400 °F.
 There are two ways to make this quiche. If you have a cast-iron or other oven-proof skillet, you can make the quiche right in the skillet. This cuts down on dishes.
 Otherwise, start with a regular skillet and later transfer everything to a pie plate to bake.
@@ -1293,8 +1269,8 @@ name = "Shrimp and Grits"
 The cost of shrimp has jumped sharply since I wrote this recipe, so save this one until you can find a deal-under about $8 per pound. This is far from an authentic Southern version of this dish, but it is absolutely delicious.
 Southerners will demand you use white stone-ground corn for this, and I won't quibble, but feel free to use yellow if it doesn't offend you. grits
 ingredients = """1 cup grits
-41⁄2 cups vegetable or chicken stock
-1⁄2 cup sharp cheddar, grated
+41/2 cups vegetable or chicken stock
+1/2 cup sharp cheddar, grated
 3 scallions, finely chopped
 
 topping:
@@ -1317,15 +1293,15 @@ Once the grits are ready, take them off the heat and add the cheese and most of 
 name = "Spicy, Crunchy, Creamy Polenta"
 Bring the water and salt to a boil in a medium-sized pot, then turn the heat down to low and slowly pour in the polenta while stirring briskly with a wooden spoon.
 Stirring while pouring is crucial to keep the polenta creamy and smooth-no lumps! Once the cornmeal becomes smooth and thick, place a lid on the pot with the spoon still in it so that steam can escape. for two Let the polenta cook while you prepare the rest of the meal, checking in occasionally to give it a stir. The total cooking time should be about 25 to 30 minutes, but if you're in a rush, you can eat it after 15.
-Polenta plus vegetable plus egg equals satisfying and delicious. You can also add a can of corn to the polenta for deep, rich, corny flavor. Or go a little different by adding frozen peas, scallions, olives, or (my favorite) green chilies to the polenta. Or skip the Romano and add 1⁄4 cup of grated cheddar to the polenta. Meanwhile, chop the spinach, garlic, and anchovy if you're using it. Set them aside. Add a bit of olive oil or butter to a pan on medium heat. Let the pan heat up until it sizzles when you flick it with water. Add the garlic, anchovy, and chili flakes. Let them cook until you can smell them, about 1 minute. Add the spinach and toss it around with a spoon or tongs, or just swirl the pan to coat the spinach with the garlic mixture. Let everything cook for 3 to 5 minutes, until the spinach is wilted. Remove the pan from the heat and move its contents to a bowl to wait for the polenta and eggs.
-ingredients = """1⁄2 cup polenta or cornmeal
+Polenta plus vegetable plus egg equals satisfying and delicious. You can also add a can of corn to the polenta for deep, rich, corny flavor. Or go a little different by adding frozen peas, scallions, olives, or (my favorite) green chilies to the polenta. Or skip the Romano and add 1/4 cup of grated cheddar to the polenta. Meanwhile, chop the spinach, garlic, and anchovy if you're using it. Set them aside. Add a bit of olive oil or butter to a pan on medium heat. Let the pan heat up until it sizzles when you flick it with water. Add the garlic, anchovy, and chili flakes. Let them cook until you can smell them, about 1 minute. Add the spinach and toss it around with a spoon or tongs, or just swirl the pan to coat the spinach with the garlic mixture. Let everything cook for 3 to 5 minutes, until the spinach is wilted. Remove the pan from the heat and move its contents to a bowl to wait for the polenta and eggs.
+ingredients = """1/2 cup polenta or cornmeal
 2 cups water
-1⁄2 tsp salt
+1/2 tsp salt
 1 tbsp olive oil
 4 cups fresh spinach or 1 cup frozen spinach, roughly chopped
 3 cloves garlic, finely chopped
 1 anchovy, finely chopped (optional)
-1⁄2 tsp chili flakes (or fresh chili)
+1/2 tsp chili flakes (or fresh chili)
 2 eggs
 Romano or Parmesan, freshly grated
 salt and pepper"""
@@ -1425,12 +1401,12 @@ This meal comes together so quickly it's astonishing.
 Broiled fish is crispy on the outside and flaky and moist on the inside. If you quickly sauté some vegetables while the fish cooks, dinner will be on the table in minutes.
 ingredients = """2 fillets tilapia or other white fish
 1 tsp salt
-1⁄2 tsp pepper
+1/2 tsp pepper
 1 tsp cayenne pepper
 1 tsp cumin powder
-1⁄2 tsp garlic powder
-1⁄2 tsp oregano
-1⁄2 lime, juiced"""
+1/2 tsp garlic powder
+1/2 tsp oregano
+1/2 lime, juiced"""
 Turn your oven's broiler to high.
 Mix the spices together in a small bowl. Sprinkle them over both sides of the fish and massage gently with your fingers to cover thoroughly in the spices.
 Lay the fish on a baking pan lined with aluminum foil.
@@ -1533,7 +1509,7 @@ salt and pepper
 2 scallions, finely chopped (optional)
 paprika (optional)
 2 tbsp mayonnaise
-1⁄4 cup fresh or canned tomato, finely chopped, or tomato sauce (p. 142)"""
+1/4 cup fresh or canned tomato, finely chopped, or tomato sauce (p. 142)"""
 Sprinkle the yolks with salt and pepper, then add other ingredients of your choice to the bowl. Mash with a fork and mix until it becomes a relatively smooth paste.
 
 [[recipes]]
@@ -1564,7 +1540,7 @@ This is a huge recipe that will feed you for days. It takes time and effort, but
 Put the chopped potatoes in a pot and cover with water, then add a bit of salt. Cover with a lid and bring to a boil over medium-high heat before removing the lid. Let the potatoes cook until tender, about 20 minutes. Test them with a fork: if it goes through easily, they're done.
 Drain the potatoes and add shredded cheese, salt, pepper, and any additions you might enjoy. I like strong aged cheese because you don't have to use as much. I usually use several additions, and you should play around with some of your favorite things-there aren't many flavors that don't work in potatoes! Next, mash the potatoes with an electric mixer or just two forks. Once the filling is ready, gather some friends because shaping takes some time!
 ingredients = """dough:
-4 1⁄2 cups all-purpose flour
+4 1/2 cups all-purpose flour
 2 tsp salt
 2 cups yogurt or sour cream
 2 eggs
@@ -1572,7 +1548,7 @@ ingredients = """dough:
 
 filling:
 5 Russet potatoes, roughly cubed
-1 1⁄2 cups sharp cheddar, shredded
+1 1/2 cups sharp cheddar, shredded
 salt and pepper
 
 additions:
@@ -1585,7 +1561,7 @@ additions:
 to serve:
 sour cream
 scallions, chopped"""
-Flour your countertop liberally. Split the dough in half. Keep one half covered, but place the other half on the floured surface. Use a rolling pin to flatten the dough, about 1⁄4" thick. Punch out as many 3" to 4" dough circles as possible, using a round cookie cutter or a drinking glass.
+Flour your countertop liberally. Split the dough in half. Keep one half covered, but place the other half on the floured surface. Use a rolling pin to flatten the dough, about 1/4" thick. Punch out as many 3" to 4" dough circles as possible, using a round cookie cutter or a drinking glass.
 Squish the scraps into the remaining covered half of the dough.
 Drop about a tablespoon of filling in the center of one circle of dough.
 Fold the dough over the filling and press the edges to create a dumpling.
@@ -1642,7 +1618,7 @@ garlic"""
 Dumplings makes sixty
 My friend Raffaella comes from a huge family and fondly recalls making dumplings with her sisters growing up. (Her brothers just ate them.) Dumplings are a great way to use up veggies that don't look fresh anymore. Minced inside a dumpling, they come back to life! I've provided a couple of ideas here, but as with so many recipes, the filling is up to you. If you mess up and it comes out bland, just dip the dumpling in soy sauce or chili sauce and you'll still be happy.
 To steam them, spread a small amount of oil around a large pan. Fill the pan with dumplings-as many as you can fit without them sticking to each other.
-Turn the heat to medium and let them sizzle for about a minute. Once the dough has absorbed most of the oil, add about 1⁄2 cup of water to the pan, then quickly cover with a lid. The water will splatter and sizzle loudly. Leave the lid on for about a minute to steam the dumplings, then turn the heat down to low and remove the lid. Let it keep cooking until the water evaporates, then turn off the heat. Your dumplings should be steamed on top with crispy, brown bottoms.
+Turn the heat to medium and let them sizzle for about a minute. Once the dough has absorbed most of the oil, add about 1/2 cup of water to the pan, then quickly cover with a lid. The water will splatter and sizzle loudly. Leave the lid on for about a minute to steam the dumplings, then turn the heat down to low and remove the lid. Let it keep cooking until the water evaporates, then turn off the heat. Your dumplings should be steamed on top with crispy, brown bottoms.
 To pan-fry them instead, start following the technique above, but use more oil.
 Skip the water and the lid entirely. Just keep frying! Once the dumplings are golden on one side, flip them to fry the other side. This method is awkward with parcel-style dumplings but works well for other shapes, so plan accordingly.
 Alternatively, boil the dumplings by dropping them into a pot of boiling water.
@@ -1654,9 +1630,9 @@ name = "Flour Tortillas"
 These are the building blocks of great meals. Freshly made flatbreads are amazingly cheap to produce and taste fabulous. They can take a bit of time to make at first, but you'll get faster with practice and the flavor is absolutely worth it. Large batches of grains and beans can be cooked at the beginning of the week, then used in different meals each day, saving both time and money.
 Staples are where the possibilities begin!
 Homemade tortillas are a bit of work, but they're totally worth it. With practice, you'll get quicker and enjoy the process as much as the results.
-ingredients = """1 1⁄4 cups all-purpose flour
-1 1⁄4 cups whole-wheat flour
-2 1⁄2 tsp baking powder
+ingredients = """1 1/4 cups all-purpose flour
+1 1/4 cups whole-wheat flour
+2 1/2 tsp baking powder
 1 tsp salt
 1/3 cup clarified butter or lard
 1 cup hot water"""
@@ -1690,15 +1666,15 @@ name = "Pizza Dough"
  makes four individual pizzas
 There are two ways to make pizza dough: the fast way and the slow way. They're the same amount of work, just with different waits. The slow method is convenient for a weekday if you make it before bed the night before, pop it in the fridge, then pull it out to rise before dinner.
 ingredients = """3 cups all-purpose or bread flour
-1 1⁄2 tsp salt
-1⁄2 to 1 tsp instant yeast
+1 1/2 tsp salt
+1/2 to 1 tsp instant yeast
 1 tbsp olive oil
-1 1⁄4 cup water"""
+1 1/4 cup water"""
  fa s t m e t h o d slow method
 Measure out the flour, salt and a teaspoon of yeast into a big bowl. Mix the oil into the flour with your hands, crumbling it until the texture is a bit sandy, then add the room-temperature water. Keep mixing with your hands until it comes together. If you're organized enough to make the slow dough, I recommend taking the extra time: it's the best.
 Knead the dough on a lightly floured countertop for 5 to 7 minutes, until it becomes a smooth elastic ball. The dough will be smooth but quite wet.
-Add a small amount of oil to a bowl. Place your dough ball in the bowl and cover with plastic wrap. Let it rise for 11⁄2 to 3 hours, depending on the warmth of your kitchen. It's done rising when it has doubled in size. Then it'll be ready to shape into your favorite pizza!
-Use the same process as at left, but add only 1⁄2 teaspoon of yeast to the flour mixture.
+Add a small amount of oil to a bowl. Place your dough ball in the bowl and cover with plastic wrap. Let it rise for 11/2 to 3 hours, depending on the warmth of your kitchen. It's done rising when it has doubled in size. Then it'll be ready to shape into your favorite pizza!
+Use the same process as at left, but add only 1/2 teaspoon of yeast to the flour mixture.
 Rather than room temperature, the water should be very cold.
 After you place the dough ball in a bowl and cover it, put it into the fridge overnight.
 Letting the yeast work overnight creates a better flavor; it also makes the dough more elastic and easier to work with.
@@ -1707,7 +1683,7 @@ The next day, 2 to 3 hours before you want to bake your pizzas, remove the dough
 [[recipes]]
 name = "Fresh Pasta"
  for one large entree
-ingredients = """3⁄4 cup all-purpose flour or bread flour
+ingredients = """3/4 cup all-purpose flour or bread flour
 1 egg
 olive oil or vegetable oil"""
 When a reader, Jeanne, asked for a good pasta dish, I decided to show her how to create it from scratch. Sure, making pasta by hand requires elbow grease and a good rolling pin, but you'll be surprised at how simple, cheap, and tasty it is. If an Italian grandmother can do it, so can you! Because fresh pasta is so wonderful, the sauce doesn't need to be complicated. I love this with tomato sauce (p. 142) and a little cheese.
@@ -1728,9 +1704,9 @@ You can keep uncooked pasta for up to 2 days in the fridge. s ta p l e s
 name = "Best Tomato Sauce"
 ingredients = """1 tbsp olive oil
 3 cloves garlic, finely chopped
-1⁄2 tsp chili flakes
+1/2 tsp chili flakes
 28 oz can tomatoes, crushed or diced
-1⁄2 lemon, zested (optional)
+1/2 lemon, zested (optional)
 salt and pepper"""
 Add the olive oil to a saucepan on medium heat. Sauté the garlic for 1 minute, until it smells great and becomes translucent. Add the chili flakes and cook for 30 seconds. Add the can of tomatoes, mix, and cook until warmed through. Add a little lemon zest, then salt and pepper to taste. Since canned tomatoes are often already salted, you may not need to add any.
 If you want a thicker sauce that will stick to pasta better, cook for 10 to 20 minutes to evaporate more of the liquid. Use immediately or keep in a jar in the fridge for later use.
@@ -1739,12 +1715,12 @@ $3.50 t o ta l
 [[recipes]]
 name = "Chorizo and White Bean Ragu"
 ingredients = """1 tbsp butter or vegetable oil
-1 1⁄2 cups canned or fresh tomatoes, puréed
+1 1/2 cups canned or fresh tomatoes, puréed
 1 onion, chopped
 3 cloves garlic, finely chopped
-1 1⁄2 cups butter beans, navy beans, or cannelini beans
+1 1/2 cups butter beans, navy beans, or cannelini beans
 1 tbsp jalapeño, finely chopped (optional)
-1⁄2 lb fresh chorizo, casing removed
+1/2 lb fresh chorizo, casing removed
 salt and pepper"""
 Melt the butter in a pan over medium heat and swirl it to coat the pan. Add the chopped onion and cook until it turns translucent. Toss in the garlic, jalapeño, and fresh chorizo (or any other kind of fresh sausage), then sauté for about a minute. Add the tomatoes and beans, then simmer until the sauce is thick and the sausage is cooked, about 5 minutes on medium heat.
 Taste and add salt and pepper as needed.
@@ -1758,8 +1734,8 @@ ingredients = """1 cup rice
 salt
 1 cup canned tomatoes, puréed"""
 To make normal rice, pour 2 cups of water into a pot with 1 cup of uncooked rice and two pinches of salt. That'll be enough for two generous portions, or three or four smaller servings. With the lid off, bring to a low boil over medium heat, then turn the heat down to low and put the lid on slightly askew, so that the steam can escape. Cook for about 20 minutes, until the water is all gone.
-: Stir the tomatoes with 11⁄2 cups of water, then pour it into a pot with
-1 cup of uncooked rice and two pinches of salt. Cook as above. red rice o r a n g e r i c e : Stir the squash, pumpkin, or sweet potato with 11⁄2 cups of water, then pour it into a pot with 1 cup of uncooked rice and two pinches of salt.
+: Stir the tomatoes with 11/2 cups of water, then pour it into a pot with
+1 cup of uncooked rice and two pinches of salt. Cook as above. red rice o r a n g e r i c e : Stir the squash, pumpkin, or sweet potato with 11/2 cups of water, then pour it into a pot with 1 cup of uncooked rice and two pinches of salt.
 (You can also use frozen, boiled, or sautéed squash.) Cook as above.
 : Chop up the spinach as much as you like. The more finely chopped, the more it will disperse into the rice. Cook normal rice, as above, for about
 15 minutes, until most of the water is gone but not quite all. Mix the spinach into the rice. Cook with the lid off for the last 5 minutes. Adding the spinach at the end keeps it lush and bright, rather than the sad color of overcooked spinach. green rice method
@@ -1772,8 +1748,8 @@ ingredients = """1 cup rice
 salt
 1 cup canned winter squash, pumpkin, or sweet potato, puréed"""
 To make normal rice, pour 2 cups of water into a pot with 1 cup of uncooked rice and two pinches of salt. That'll be enough for two generous portions, or three or four smaller servings. With the lid off, bring to a low boil over medium heat, then turn the heat down to low and put the lid on slightly askew, so that the steam can escape. Cook for about 20 minutes, until the water is all gone.
-: Stir the tomatoes with 11⁄2 cups of water, then pour it into a pot with
-1 cup of uncooked rice and two pinches of salt. Cook as above. red rice o r a n g e r i c e : Stir the squash, pumpkin, or sweet potato with 11⁄2 cups of water, then pour it into a pot with 1 cup of uncooked rice and two pinches of salt.
+: Stir the tomatoes with 11/2 cups of water, then pour it into a pot with
+1 cup of uncooked rice and two pinches of salt. Cook as above. red rice o r a n g e r i c e : Stir the squash, pumpkin, or sweet potato with 11/2 cups of water, then pour it into a pot with 1 cup of uncooked rice and two pinches of salt.
 (You can also use frozen, boiled, or sautéed squash.) Cook as above.
 : Chop up the spinach as much as you like. The more finely chopped, the more it will disperse into the rice. Cook normal rice, as above, for about
 15 minutes, until most of the water is gone but not quite all. Mix the spinach into the rice. Cook with the lid off for the last 5 minutes. Adding the spinach at the end keeps it lush and bright, rather than the sad color of overcooked spinach. green rice method
@@ -1786,8 +1762,8 @@ ingredients = """1 cup rice
 salt
 1 cup frozen spinach, beet greens, chard, or fresh parsley"""
 To make normal rice, pour 2 cups of water into a pot with 1 cup of uncooked rice and two pinches of salt. That'll be enough for two generous portions, or three or four smaller servings. With the lid off, bring to a low boil over medium heat, then turn the heat down to low and put the lid on slightly askew, so that the steam can escape. Cook for about 20 minutes, until the water is all gone.
-: Stir the tomatoes with 11⁄2 cups of water, then pour it into a pot with
-1 cup of uncooked rice and two pinches of salt. Cook as above. red rice o r a n g e r i c e : Stir the squash, pumpkin, or sweet potato with 11⁄2 cups of water, then pour it into a pot with 1 cup of uncooked rice and two pinches of salt.
+: Stir the tomatoes with 11/2 cups of water, then pour it into a pot with
+1 cup of uncooked rice and two pinches of salt. Cook as above. red rice o r a n g e r i c e : Stir the squash, pumpkin, or sweet potato with 11/2 cups of water, then pour it into a pot with 1 cup of uncooked rice and two pinches of salt.
 (You can also use frozen, boiled, or sautéed squash.) Cook as above.
 : Chop up the spinach as much as you like. The more finely chopped, the more it will disperse into the rice. Cook normal rice, as above, for about
 15 minutes, until most of the water is gone but not quite all. Mix the spinach into the rice. Cook with the lid off for the last 5 minutes. Adding the spinach at the end keeps it lush and bright, rather than the sad color of overcooked spinach. green rice method
@@ -1868,21 +1844,21 @@ Serve over ice. Try some of the variations I've suggested or whatever fruits you
 [[recipes]]
 name = "Drinkable Yogurt"
 If you like the grocery store's yogurt drinks, try making these at home for less! You don't even need to blend them-just add the juice and yogurt to a jar, then shake.
-ingredients = """1⁄2 cup plain yogurt
-1⁄2 cup fruit juice"""
+ingredients = """1/2 cup plain yogurt
+1/2 cup fruit juice"""
 
 [[recipes]]
 name = "Melon Smoothie"
 When you buy a melon, dice and freeze whatever you don't eat.
 Pull it out and blend it with a bit of water or juice to thin it out. It's like a better slushy!
 ingredients = """1 cup frozen melon
-1⁄2 cup water or juice
+1/2 cup water or juice
 1 tsp vanilla"""
 
 [[recipes]]
 name = "Berry Smoothie"
 Blend until smooth, then adjust with more berries or milk to your taste.
-ingredients = """1⁄2 cup yogurt
+ingredients = """1/2 cup yogurt
 1 cup frozen berries
 milk or juice to thin as needed"""
 
@@ -1918,12 +1894,12 @@ Heat the oven to 350 °F.
 Spread the coconut into a thin, even layer on a cookie sheet. Place it in the oven for 5 to 8 minutes, until it's light brown, toasty, and aromatic.
 Melt the butter in a heavy-bottomed saucepan over low heat. Once it's melted, leave it to cool in the pan for a few minutes.
 ingredients = """2/3 cup shaved, unsweetened coconut, toasted
-1 1⁄2 cups chocolate chips
-1⁄2 lb unsalted butter (2 sticks)
+1 1/2 cups chocolate chips
+1/2 lb unsalted butter (2 sticks)
 2 cups all-purpose flour
 1 tsp salt
 1 tsp baking soda
-1 1⁄2 cups dark brown sugar
+1 1/2 cups dark brown sugar
 2 eggs
 2 tsp vanilla"""
 In a medium-sized bowl, stir together the flour, salt, and baking soda.
@@ -1948,10 +1924,10 @@ This cake doubles in size when it bakes.
 In a large bowl, mix the peach slices, lemon juice, and cinnamon together with your hands, making sure the peaches are well coated in cinnamon.
 ingredients = """6 peaches, pitted and cut into 8 slices each
 1 tsp cinnamon
-1⁄2 lemon, juiced
+1/2 lemon, juiced
 2 cups all-purpose flour
 2 tsp baking powder
-1⁄2 lb unsalted butter (2 sticks), at room temperature
+1/2 lb unsalted butter (2 sticks), at room temperature
 1 1/3 cups brown sugar
 1/8 tsp salt
 2 large eggs
@@ -1981,8 +1957,8 @@ These shakes are even better if you use "coconut milk beverage," almond milk, or
 name = "Fast Melon Sorbet"
  for four
 ingredients = """2 cups frozen melon
-1⁄2 cup plain yogurt
-1⁄4 cup sugar
+1/2 cup plain yogurt
+1/4 cup sugar
 1 tsp vanilla or lime juice (optional)"""
 When you see lovely watermelons, honeydews, and cantaloupes on sale, buy them up. Eat half, then cube and freeze the other half. When you want a quick dessert or smoothie, pull out a bag of frozen melon and whip this up.
 Add all the ingredients to a food processor or blender until just smooth. Don't blend too much, or the sorbet will become oversoft. Serve immediately or stick it into the freezer to enjoy later.
@@ -1994,11 +1970,11 @@ ingredients = """1 jalapeño or other chili, finely chopped (or 2 tbsp chili pas
 1 shallot (or equivalent of any onion)
 cooking oil
 1 tsp turmeric (optional)
-1⁄2 to 1 cup coconut milk
-1⁄2 cup sugarless peanut butter
+1/2 to 1 cup coconut milk
+1/2 cup sugarless peanut butter
 1 tbsp soy sauce
 1 tbsp brown sugar (optional)
-1⁄2 tsp sesame oil"""
+1/2 tsp sesame oil"""
 Finely chop the pepper, garlic, and shallot, or use a food processor to make them into a paste. (If you're using chili paste instead of a fresh pepper, hold off on it for now.)
 Flavor Splash some oil in a saucepan on medium heat. Once it's warm, add the chili, garlic, and shallot and sauté until everything's translucent. Add the turmeric, coconut milk, and chili paste if applicable.
 If you have a great sauce or a few spices in your kitchen, you'll never have to tolerate bland food. Most of these recipes require surprisingly little effort and time, pack a ton of flavor, and can be stored for use in any dish you choose. Let it come to a boil, then turn the heat down. Add the peanut butter and soy sauce and stir to combine. Once it's all combined, taste it and add whatever you think it needs-but think about the salt and spice in particular.
@@ -2011,8 +1987,8 @@ ingredients = """1 clove garlic
 2 tbsp chili flakes or dried red chilies
 1 tsp Sichuan or regular peppercorns
 1 star anise
-1⁄2 tsp cumin seeds
-1⁄4 tsp salt"""
+1/2 tsp cumin seeds
+1/4 tsp salt"""
 Use the side of a knife to crush the garlic clove until it cracks open. Add all of the ingredients to a small pot.
 Warm the mixture over low heat for about 10 minutes, until it starts to bubble gently and you can hear a bit of a sizzle, then turn off the heat. You want to heat it just enough to let the spices infuse into the oil, without getting so hot that the spices start to cook or fry.
 Remove the pot from the stovetop and put it in the fridge with a lid. Let the spices infuse for 4 to 8 hours.
@@ -2023,10 +1999,10 @@ Store in a jar in the fridge for up to a week.
 name = "Salsa"
 Summertime salsas combine a load of fresh tomatoes with smaller amounts of choice vegetables and fruit. In the winter, cook canned tomatoes for a few minutes first.
 ingredients = """2 cups tomatoes, chopped
-1⁄2 medium onion, finely diced
+1/2 medium onion, finely diced
 1 jalapeño pepper, finely diced
 1 lime, juiced
-1⁄4 cup fresh cilantro, finely chopped
+1/4 cup fresh cilantro, finely chopped
 salt and pepper
 
 additions:
@@ -2045,18 +2021,18 @@ Store in an air-tight container in the fridge. Fresh salsa won't last as long as
 [[recipes]]
 name = "Raita"
 ingredients = """1 cup cucumber, chopped
-1⁄2 cup tomato, chopped
-1⁄4 cup red onion, chopped
+1/2 cup tomato, chopped
+1/4 cup red onion, chopped
 1 cup yogurt
 1 tsp cumin powder
-1⁄2 tsp cayenne powder
+1/2 tsp cayenne powder
 2 tbsp fresh cilantro, chopped
 salt and pepper
 
 additions:
 1 tbsp ginger, grated
 2 tbsp mint
-1⁄4 cup chickpeas
+1/4 cup chickpeas
 cooked spinach"""
 This recipe is extremely loose. Basically, just stir some of your favorite chopped vegetables into yogurt and add salt and pepper. Use this as a stepping stone to develop your own.
 After you stir all the ingredients together, store the raita in a covered container in the fridge until you're ready to use it.
