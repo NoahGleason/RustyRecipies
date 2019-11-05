@@ -1626,45 +1626,36 @@ text = """Melt the butter in a pan over medium heat and swirl it to coat the pan
 Because this sauce contains meat, it won't keep especially long in the fridge, but you can freeze it for later use if you don't plan to eat it all within a few days."""
 
 [[recipes]]
-name = "Red Rice"
+name = "Rice"
 ingredients = """1 cup rice
 2 cups water
+salt"""
+text = """Pour 2 cups of water into a pot with 1 cup of uncooked rice and two pinches of salt. That'll be enough for two generous portions, or three or four smaller servings. With the lid off, bring to a low boil over medium heat, then turn the heat down to low and put the lid on slightly askew, so that the steam can escape. Cook for about 20 minutes, until the water is all gone."""
+
+[[recipes]]
+name = "Red Rice"
+ingredients = """1 cup rice
+1 1/2 cups water
 salt
 1 cup canned tomatoes, puréed"""
-text = """To make normal rice, pour 2 cups of water into a pot with 1 cup of uncooked rice and two pinches of salt. That'll be enough for two generous portions, or three or four smaller servings. With the lid off, bring to a low boil over medium heat, then turn the heat down to low and put the lid on slightly askew, so that the steam can escape. Cook for about 20 minutes, until the water is all gone.
-: Stir the tomatoes with 11/2 cups of water, then pour it into a pot with
-1 cup of uncooked rice and two pinches of salt. Cook as above. red rice o r a n g e r i c e : Stir the squash, pumpkin, or sweet potato with 11/2 cups of water, then pour it into a pot with 1 cup of uncooked rice and two pinches of salt.
-(You can also use frozen, boiled, or sautéed squash.) Cook as above.
-: Chop up the spinach as much as you like. The more finely chopped, the more it will disperse into the rice. Cook normal rice, as above, for about
-15 minutes, until most of the water is gone but not quite all. Mix the spinach into the rice. Cook with the lid off for the last 5 minutes. Adding the spinach at the end keeps it lush and bright, rather than the sad color of overcooked spinach. green rice method
+text = """Stir the tomatoes with 1 1/2 cups of water, then pour it into a pot with 1 cup of uncooked rice and two pinches of salt. With the lid off, bring to a low boil over medium heat, then turn the heat down to low and put the lid on slightly askew, so that the steam can escape. Cook for about 20 minutes, until the water is all gone."""
+
 
 [[recipes]]
 name = "Orange Rice"
-Here are three quick ways to make plain rice a little more exciting. An early reader, Charles, said he loves rice with vegetables, but these treatments work for grains other than rice as well-everything from quinoa to barley to farro. Vegetables are a great way to liven up the usual rice and beans.
 ingredients = """1 cup rice
-2 cups water
+1 1/2 cups water
 salt
 1 cup canned winter squash, pumpkin, or sweet potato, puréed"""
-To make normal rice, pour 2 cups of water into a pot with 1 cup of uncooked rice and two pinches of salt. That'll be enough for two generous portions, or three or four smaller servings. With the lid off, bring to a low boil over medium heat, then turn the heat down to low and put the lid on slightly askew, so that the steam can escape. Cook for about 20 minutes, until the water is all gone.
-: Stir the tomatoes with 11/2 cups of water, then pour it into a pot with
-1 cup of uncooked rice and two pinches of salt. Cook as above. red rice o r a n g e r i c e : Stir the squash, pumpkin, or sweet potato with 11/2 cups of water, then pour it into a pot with 1 cup of uncooked rice and two pinches of salt.
-(You can also use frozen, boiled, or sautéed squash.) Cook as above.
-: Chop up the spinach as much as you like. The more finely chopped, the more it will disperse into the rice. Cook normal rice, as above, for about
-15 minutes, until most of the water is gone but not quite all. Mix the spinach into the rice. Cook with the lid off for the last 5 minutes. Adding the spinach at the end keeps it lush and bright, rather than the sad color of overcooked spinach. green rice method
+text = """Stir the squash, pumpkin, or sweet potato with 1 1/2 cups of water, then pour it into a pot with 1 cup of uncooked rice and two pinches of salt. (You can also use frozen, boiled, or sautéed squash.) With the lid off, bring to a low boil over medium heat, then turn the heat down to low and put the lid on slightly askew, so that the steam can escape. Cook for about 20 minutes, until the water is all gone."""
 
 [[recipes]]
 name = "Green Rice"
-Here are three quick ways to make plain rice a little more exciting. An early reader, Charles, said he loves rice with vegetables, but these treatments work for grains other than rice as well-everything from quinoa to barley to farro. Vegetables are a great way to liven up the usual rice and beans.
 ingredients = """1 cup rice
 2 cups water
 salt
 1 cup frozen spinach, beet greens, chard, or fresh parsley"""
-To make normal rice, pour 2 cups of water into a pot with 1 cup of uncooked rice and two pinches of salt. That'll be enough for two generous portions, or three or four smaller servings. With the lid off, bring to a low boil over medium heat, then turn the heat down to low and put the lid on slightly askew, so that the steam can escape. Cook for about 20 minutes, until the water is all gone.
-: Stir the tomatoes with 11/2 cups of water, then pour it into a pot with
-1 cup of uncooked rice and two pinches of salt. Cook as above. red rice o r a n g e r i c e : Stir the squash, pumpkin, or sweet potato with 11/2 cups of water, then pour it into a pot with 1 cup of uncooked rice and two pinches of salt.
-(You can also use frozen, boiled, or sautéed squash.) Cook as above.
-: Chop up the spinach as much as you like. The more finely chopped, the more it will disperse into the rice. Cook normal rice, as above, for about
-15 minutes, until most of the water is gone but not quite all. Mix the spinach into the rice. Cook with the lid off for the last 5 minutes. Adding the spinach at the end keeps it lush and bright, rather than the sad color of overcooked spinach. green rice method
+text="""Chop up the spinach as much as you like. The more finely chopped, the more it will disperse into the rice. Pour 2 cups of water into a pot with 1 cup of uncooked rice and two pinches of salt. With the lid off, bring to a low boil over medium heat, then turn the heat down to low and put the lid on slightly askew, so that the steam can escape. Cook for about 15 minutes, until most of the water is gone but not quite all. Mix the spinach into the rice. Cook with the lid off for the last 5 minutes. Adding the spinach at the end keeps it lush and bright, rather than the sad color of overcooked spinach."""
 
 [[recipes]]
 name = "Dried Beans"
