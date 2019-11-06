@@ -6,8 +6,7 @@ use serde::export::Formatter;
 
 use crate::recipe::Month::*;
 
-const SEASON_TABLE: [(&'static str, [bool; 12]); 90] = [
-    //                   Jan    Feb     Mar     Apr     May     Jun     Jul     Aug     Sep     Oct     Nov     Dec
+const SEASON_TABLE: [(&'static str, [bool; 12]); 91] = [
     ("apple", [false, false, false, false, false, false, false, true, true, true, true, false]),
     ("apricot", [false, false, false, false, true, true, true, false, false, false, false, false]),
     ("artichoke", [false, false, true, true, true, true, false, false, false, true, true, false]),
@@ -18,7 +17,7 @@ const SEASON_TABLE: [(&'static str, [bool; 12]); 90] = [
     ("beet", [true, true, true, false, false, false, false, false, false, false, true, true]),
     ("bell pepper", [false, false, false, false, false, false, false, false, true, true, false, false]),
     ("berry", [false, false, false, true, true, true, true, true, true, true, false, false]),
-    ("black-eyed peas", [false, false, false, false, true, true, true, true, true, true, true, false]),
+    ("black-eyed pea", [false, false, false, false, true, true, true, true, true, true, true, false]),
     ("blackberry", [false, false, false, true, true, true, true, true, true, true, false, false]),
     ("blood orange", [false, true, true, false, false, false, false, false, false, false, false, false]),
     ("blueberry", [false, false, false, true, true, true, true, true, true, true, false, false]),
@@ -32,7 +31,7 @@ const SEASON_TABLE: [(&'static str, [bool; 12]); 90] = [
     ("cherry", [false, false, false, false, true, true, true, false, false, false, false, false]),
     ("chili pepper", [false, false, false, false, false, false, false, true, true, true, true, true]),
     ("cilantro", [false, false, false, false, true, true, true, true, true, true, false, false]),
-    ("collard greens", [false, true, true, true, true, true, true, true, true, true, true, true]),
+    ("collard green", [false, true, true, true, true, true, true, true, true, true, true, true]),
     ("corn", [false, false, false, false, false, true, true, true, true, false, false, false]),
     ("cucumber", [false, false, false, false, true, true, true, true, true, false, false, false]),
     ("cherry tomato", [false, false, false, true, true, true, true, false, false, false, false, false]),
@@ -75,13 +74,14 @@ const SEASON_TABLE: [(&'static str, [bool; 12]); 90] = [
     ("plumcot", [false, false, false, false, true, true, true, true, false, false, false, false]),
     ("pluot", [false, false, false, false, true, true, true, true, false, false, false, false]),
     ("pomegranate", [false, false, false, false, false, false, false, false, true, true, true, true]),
+    ("pumpkin", [false, false, false, false, false, false, false, false, true, true, true, true]),
     ("radish", [true, true, true, true, true, false, false, false, false, false, false, false]),
     ("raspberry", [false, false, false, true, true, true, true, true, true, true, false, false]),
     ("root vegetable", [true, false, false, false, false, false, false, false, false, false, true, true]),
     ("rosemary", [true, true, false, false, false, false, false, false, false, true, true, true]),
     ("rutabaga", [true, false, false, false, false, false, false, false, false, false, true, true]),
     ("sapote", [false, false, false, false, false, false, true, true, true, true, true, false]),
-    ("shelling beans", [false, false, false, false, false, false, false, true, true, false, false, false]),
+    ("shelling bean", [false, false, false, false, false, false, false, true, true, false, false, false]),
     ("snow pea", [false, true, true, true, true, true, false, false, false, false, false, false]),
     ("soft herbs", [false, false, false, false, true, true, true, true, true, true, false, false]),
     ("special lettuce", [false, true, true, true, true, false, false, false, false, false, false, false]),
@@ -140,6 +140,7 @@ enum RecipeType {
     Meal,
     Dessert,
     Side,
+    Snack,
     Bread,
     Component,
     Drink

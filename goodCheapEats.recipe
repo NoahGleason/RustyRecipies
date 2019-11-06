@@ -36,6 +36,15 @@ Place the grapefruit halves under the broiler until they turn bubbly and a littl
 Overbroiling ruins a good meal fast.
 If you have maple syrup on hand, use it instead of sugar for even more flavor."""
 page = 16
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = true
+vegetables = true
+vegan = true
+category = "Meal"
+seasonables = [[{name = "grapefruit"}]]
 
 [[recipes]]
 name = "Omelette"
@@ -50,6 +59,17 @@ Put a big saucepan on medium-high heat. Melt a small blob of butter in the pan. 
 Add the egg to the hot pan and swirl it around to coat the surface evenly. If the center of the omelette cooks more quickly than the edge, use a spatula to pull any raw egg into the middle. Then stop touching it.
 After about 30 seconds, toss the cheese on top along with any other raw or cooked vegetable you feel like adding. Once none of the egg remains translucent, fold the omelette in half with your spatula, then lift it out of the pan. You don't want any brown on your eggs.
 If I'm serving two people, I usually cut one large omelette in half rather than making two omelettes. However, when you feel like being fancy, you can make a pair of two-egg omelettes simply by using half the ingredients for each. For extra fanciness, roll up the omelette instead of folding it-that's how the French do it, traditionally. The result will be quite thin and tender."""
+serves = 2
+page = 17
+meat = false
+seafood = false
+protein = true
+grain = false
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = []
 
 [[recipes]]
 name = "Banana Pancakes"
@@ -69,6 +89,17 @@ In another bowl, add the mashed bananas (or just mash them in the bowl), eggs, m
 Place a non-stick or cast-iron pan on medium heat. Once it's hot, melt a small amount of butter, about 1/2 teaspoon, then ladle some pancake batter into the center of the pan. You can make your pancakes as large or small as you like. A normal amount is about 1 / 4 to 1/3 cup of batter. If it's your first time making pancakes, make them smaller: they'll be easier to flip.
 As soon as the batter is in the pan, place 3 to 4 banana slices atop of the uncooked side of the pancake. Once the edges of the pancake start to dry up and you can see the middle start to bubble, flip the pancake over. Cook until it is browned on both sides. Stack the finished pancake on a plate in a warm oven and repeat the above process until you run out of batter.
 Serve hot, with butter and syrup."""
+serves = 4
+page = 18
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = true
+vegetables = false
+vegan = false
+category = "Meal"
+seasonables = [[{name = "banana"}]]
 
 [[recipes]]
 name = "Chocolate Zucchini Muffins"
@@ -91,6 +122,16 @@ Mix the zucchini, eggs, and yogurt in a larger bowl. Add the dry ingredients, th
 With a spoon, dollop the batter into the muffin tins until each cup is about 3/4 full and bake for 20 minutes.
 Pull the muffins out and poke with a toothpick or knife. If it comes out wet, bake the muffins for 5 more minutes.
 Let the muffins cool in their tins for 20 to 30 minutes, then eat them warm!"""
+page = 21
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = true
+vegan = false
+category = "Dessert"
+seasonables = [[{name = "zucchini"}]]
 
 [[recipes]]
 name = "Whole-Wheat Jalapeño Cheddar Scones"
@@ -101,7 +142,9 @@ ingredients = """1/2 cup butter
 4 oz sharp cheddar, diced
 1 jalapeño, finely diced
 2 eggs, lightly beaten
-1/2 cup milk eg g wa s h
+1/2 cup milk
+
+egg wash:
 1 egg
 salt and pepper"""
 text = """Place the butter in the freezer for 30 minutes.
@@ -112,6 +155,16 @@ Remove the butter from the freezer and grate it directly into the flour mixture.
 Sprinkle flour on a clean countertop and dump the dough onto it. Gently shape the dough into a disc about 1 1/2" thick. Cut the dough into six triangles, like a pizza, and move them to the cookie sheet.
 In a small bowl, gently beat the egg for the egg wash.
 Brush it over the scones, then sprinkle salt and pepper over each one. Bake for 25 minutes or until the scones are golden brown."""
+page = 22
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = true
+vegan = false
+category = "Side"
+seasonables = [[{name = "chili pepper"}]]
 
 [[recipes]]
 name = "Peanut Butter and Jelly Granola Bars"
@@ -122,7 +175,6 @@ Add the peanut butter, half the jelly, the water, and the salt to a small pan. S
 Mix the peanut butter and jelly concoction into the oats until all the oats are coated and you have a sticky mass. Dump the mixture into the oiled pan and press it into an even layer. Spread the remaining jelly over the top.
 Pop the pan into the oven for 25 minutes, until it's toasty and brown around the edges. Mmm. Crunchy.
 Leave the bars in the pan until they cool completely, about an hour, then slice into 12 bars."""
-
 ingredients = """3 cups rolled oats (or 2 cups oats and 1 cup Rice Krispies)
 1/2 cup peanut butter
 1/2 cup jelly or jam
@@ -135,6 +187,16 @@ nuts
 coconut
 dried fruit
 honey"""
+page = 25
+meat = false
+seafood = false
+protein = true
+grain = true
+fruit = false
+vegetables = false
+vegan = true
+category = "Snack"
+seasonables = []
 
 [[recipes]]
 name = "Egg Sandwich with Mushroom Hash"
@@ -163,6 +225,17 @@ Melt the other teaspoon of butter in another pan on medium heat. Crack the eggs 
 If you like your eggs sunny-side up, place a lid over the pan to ensure the whites will cook through without making the yolks hard. Once the whites are no longer translucent, take them off the heat.
 If you like eggs over-easy (my favorite), wait until the yolks are cooked but still look runny, then flip each egg with a spatula and let the other side cook for about 15 seconds. That'll get your whites fully cooked, but keep the yolks runny-the best. If you prefer hard yolks (please no!), then cook for a little longer.
 Toast the bread or bun, then assemble it into a sandwich, using any condiments you like. Way better than what you'll find at the corner deli."""
+serves = 2
+page = 26
+meat = false
+seafood = false
+protein = true
+grain = false
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "mushroom"}]]
 
 [[recipes]]
 name = "Coconut and Lime Oatmeal"
@@ -170,6 +243,17 @@ text = """Add the coconut and sugar to the oatmeal, water, and salt. Cook as nor
 ingredients = """1/4 cup coconut, shredded
 2 tbsp sugar
 1/2 lime, juiced"""
+serves = 2
+page = 29
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = true
+vegan = true
+category = "Meal"
+seasonables = []
 
 [[recipes]]
 name = "Oatmeal"
@@ -177,12 +261,34 @@ ingredients = """1 cup rolled oats
 2 cups water
 1/4 tsp salt"""
 text = """In a small pot, add the oats, water and salt. Place it on medium-high heat, just until the water comes to a boil. Immediately turn the heat to low and place a lid on the pot. Cook for 5 minutes, until the oats are soft and tender and most of the water has cooked off. You can add more water if you like your oatmeal smooth and thin, or use slightly less if you want a thick oatmeal."""
+serves = 2
+page = 28
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = false
+vegan = false
+category = "Meal"
+seasonables = []
 
 [[recipes]]
 name = "Berry Oatmeal"
 text = """Cook the oatmeal as usual, but 2 minutes before it's ready, add some fresh or frozen berries and the sugar, then stir to combine. There's nothing more to the recipe than that, but it's surprising how many variations you can come up with just by trying a new type of berry or combining several varieties."""
 ingredients = """1/2 cup berries, fresh or frozen
 1 tbsp sugar"""
+serves = 2
+page = 29
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = true
+vegetables = false
+vegan = true
+category = "Meal"
+seasonables = [[{name = "berry"}]]
 
 [[recipes]]
 name = "Pumpkin Oatmeal"
@@ -197,6 +303,17 @@ optional:
 1/4 tsp ginger powder
 1/4 tsp clove powder
 maple syrup"""
+serves = 2
+page = 30
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = true
+vegan = true
+category = "Meal"
+seasonables = [[{name = "pumpkin"}]]
 
 [[recipes]]
 name = "Apple Cinnamon Oatmeal"
@@ -204,6 +321,17 @@ text = """Cook the oats in juice and cinnamon instead of water. Top with the app
 ingredients = """2 cups apple juice or cider
 1 tsp cinnamon
 1 apple, cored and chopped"""
+serves = 2
+page = 31
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = true
+vegetables = false
+vegan = true
+category = "Meal"
+seasonables = [[{name = "apple"}]]
 
 [[recipes]]
 name = "Baklava Oatmeal"
@@ -212,6 +340,17 @@ ingredients = """1 tsp cinnamon
 1 tbsp orange zest, finely grated
 4 tbsp honey
 2 tbsp almonds or pistachios, chopped"""
+serves = 2
+page = 30
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = false
+vegan = true
+category = "Meal"
+seasonables = [[{name = "valencia orange"}]]
 
 [[recipes]]
 name = "Savory Oatmeal"
@@ -220,6 +359,17 @@ ingredients = """2-3 scallions, finely chopped
 1/4 cup sharp cheddar, grated
 1 tsp butter
 2 eggs"""
+serves = 2
+page = 31
+meat = false
+seafood = false
+protein = true
+grain = true
+fruit = false
+vegetables = false
+vegan = false
+category = "Meal"
+seasonables = []
 
 [[recipes]]
 name = "Dal"
@@ -237,6 +387,17 @@ text = """You can use any type of lentil you like. If you're using larger lentil
 Melt butter in a saucepan on medium heat. Add the onion and let it cook for 1 minute, then add the cumin and mustard seeds and stir them around with the onions until they sizzle. Toss in the turmeric powder, garlic, and chili and cook for 3 to 4 more minutes. Add the ginger root and stir fry quickly for about 30 seconds.
 Add the lentils along with enough water to cover them, then place a lid on top. Let everything cook for 20 to 45 minutes, or until the lentils are tender. Taste the dal and add salt and pepper. You'll probably need a fair bit of salt to bring out all the flavors-a teaspoon or so.
 If you have them available, top the dish with a splash of cream or some chopped fresh cilantro."""
+serves = 4
+page = 35
+meat = false
+seafood = false
+protein = true
+grain = true
+fruit = false
+vegetables = false
+vegan = false
+category = "Meal"
+seasonables = [[{name = "onion"}], [{name = "chili pepper"}]]
 
 [[recipes]]
 name = "Corn Soup"
@@ -267,6 +428,17 @@ Add the corn and cornmeal or flour to the pot and stir.
 Cover with about 5 cups of broth and bring to a boil, then turn the heat down to low and simmer for about 30 minutes. The broth will thicken and become opaque.
 Add salt and pepper to taste. If you made your own corn broth, you'll probably need at least a teaspoon of salt; if you used store-bought broth, you'll need less.
 Serve with a slice of garlic bread or add a hard-boiled egg for extra protein."""
+serves = 5
+page = 36
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "corn"}], [{name = "onion"}], [{name = "bell pepper"}], [{name = "chili pepper"}]]
 
 [[recipes]]
 name = "French Onion Soup"
@@ -294,6 +466,17 @@ Once the onions are very dark and about a quarter the volume they once were, add
 Ladle the soup into bowls.
 Now it's time to make cheese toast! If you want classic French onion soup- with the toast directly in the soup, which makes it a bit soggy-place a piece of bread on top of each bowl of soup, sprinkle with cheese, then heat the bowls under your oven's broiler until the cheese is bubbly.
 If you don't like soggy toast, just make the cheese toast on its own and serve it on the side to dunk."""
+serves = 6
+page = 39
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "onion"}]]
 
 [[recipes]]
 name = "Lightly Curried Butternut Squash Soup"
@@ -322,6 +505,17 @@ Bring the soup to a boil, then turn down the heat to low and let it cook for abo
 Once the squash is tender, taste the soup and add salt and pepper as needed. Soup usually needs a fair bit of salt, so be generous.
 If you have an immersion blender, you can purée the soup in the pot. If you have a normal blender, wait until the soup has cooled before transferring it to the blender. Purée until smooth, then taste again and add any more salt and pepper it might need.
 You can enjoy the soup as-is or serve it with another drizzle of coconut milk or a dollop of sour cream, plus some chopped scallions or cilantro."""
+serves = 4
+page = 40
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "winter squash"}], [{name = "onion"}], [{name = "bell pepper"}]]
 
 [[recipes]]
 name = "Broiled Eggplant Salad"
@@ -333,6 +527,17 @@ fresh dill, finely chopped (optional)
 salt and pepper"""
 text = """Turn on your oven's broiler. Arrange the slices of eggplant on a baking sheet, then place them under the broiler for about 3 minutes. Watch them carefully. Once they begin to blacken, remove them from the oven and flip the slices over. Repeat the process on the other side. Once your eggplant is nicely charred, chop it into bite-sized pieces.
 In a bowl, mix the tahini, lemon juice, and chili flakes (if using), plus plenty of salt and pepper. Add the eggplant and stir it around. Add more salt or lemon juice according to your taste, then top it with dill if available, and serve!"""
+serves = 2
+page = 43
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = false
+vegetables = true
+vegan = true
+category = "Meal"
+seasonables = [[{name = "eggplant"}], [{name = "meyer lemon"}]]
 
 [[recipes]]
 name = "Kale Salad"
@@ -356,6 +561,17 @@ To make the dressing, drop the egg yolk into a large mixing bowl. Add the lemon 
 Cut the kale leaves to remove the large stem from the center. (Lacinato kale, sometimes called Tuscan kale, has the easiest stems to remove.) Slice the leaves in half lengthwise, then cut into thin ribbons. Chopping the kale into small pieces disguises its tough texture.
 Toss the kale in the bowl to coat it with dressing. Set aside for 10 minutes or leave in the fridge for a few hours. The kale will become tender as it marinates.
 Before serving, toss in the croutons and top with Romano cheese."""
+serves = 2
+page = 44
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "kale"}], [{name = "meyer lemon"}]]
 
 [[recipes]]
 name = "Ever-Popular Potato Salad"
@@ -381,6 +597,17 @@ fresh parsley, chopped
 paprika
 fresh chillies, finely chopped
 pickles, finely chopped"""
+serves = 4
+page = 46
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = false
+vegetables = true
+vegan = true
+category = "Meal"
+seasonables = []
 
 [[recipes]]
 name = "Spicy Panzanella"
@@ -411,6 +638,17 @@ red onion, finely chopped
 zucchini or summer squash
 olives
 grapes"""
+serves = 4
+page = 49
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = true
+vegan = true
+category = "Meal"
+seasonables = [[{name = "cucumber"}], [{name = "tomato"}], [{name = "chili pepper"}]]
 
 [[recipes]]
 name = "Cold (and Spicy?) Asian Noodles"
@@ -432,6 +670,17 @@ text = """Prepare the noodles according to the package instructions. Rinse them 
 Put the noodles in a bowl and add the soy sauce, spice oil if you have it, scallions, and cucumber (and any other additions). Mix it all together with a fork or a tongs. Taste it and add salt and pepper or more spice oil as needed.
 Let the noodles sit in the fridge for about an hour if you can. The flavors will mingle and become more intense.
 Think of this as a recipe that you can really make your own. Use whatever sauce or dressing you like and whatever vegetables you have around, or just a few scallions. If you have some spice oil on hand, be sure to add it. It's amazing in this."""
+serves = 4
+page = 50
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = true
+vegan = true
+category = "Meal"
+seasonables = [[{name = "cucumber"}]]
 
 [[recipes]]
 name = "Taco Salad"
@@ -456,6 +705,17 @@ grated carrots
 salsa (p. 163)"""
 text = """Mix up the dressing and taste it. Adjust the salt, pepper, and lime to your liking.
 Mix the other ingredients in a large bowl. Pour the dressing over just before serving and toss to coat the salad evenly. Eat immediately, maybe with a few extra tortilla chips on the side."""
+serves = 2
+page = 52
+meat = false
+seafood = false
+protein = true
+grain = true
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "tomato"}], [{name = "corn"}]]
 
 [[recipes]]
 name = "Beet and Chickpea Salad"
@@ -471,6 +731,17 @@ salt and pepper"""
 text = """Peel the raw beets, removing the stems if necessary, then shred the beets with a box grater. Place the beets in a bowl along with the chickpeas and nuts.
 Mix up the dressing ingredients in another small bowl and stir to combine. Taste and adjust the salt and pepper to your liking.
 Add the dressing to the other bowl and mix up all the ingredients. Let it sit for about 5 minutes so that the flavors can soak into the vegetables and the beet juices can mingle with the dressing."""
+serves = 2
+page = 53
+meat = false
+seafood = false
+protein = true
+grain = false
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "beet"}]]
 
 [[recipes]]
 name = "Charred Summer Salad"
@@ -491,6 +762,17 @@ text = """Chop off both ends of the zucchini, then slice each into four long sti
 Broil (or barbecue) for 2 to 5 minutes, depending on how powerful your broiler is. Turn the corn over to make sure it cooks evenly. The zucchini should start to blacken in some spots. This is good! Broil for another 2 to 5 minutes, until the vegetables are lightly charred.
 Mix the dressing in a large bowl. Taste it and adjust.
 Chop the zucchini into bite-sized pieces and slice the corn kernels from the cob. Transfer the vegetables into the bowl with the dressing. Add the crumbled cotija or feta and mix. Sprinkle popcorn (p. 74) over top, then dust with a little extra chili powder, salt, and pepper."""
+serves = 2
+page = 55
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "zucchini"}], [{name = "corn"}]]
 
 [[recipes]]
 name = "Broccoli Apple Salad"
@@ -513,6 +795,17 @@ Halve and core the apples, then place the apples flat side down on your cutting 
 Choose either of the dressing options and prepare it by simply mixing the ingredients together in a small bowl. Taste it and season with more salt and pepper to match your preferences.
 Pour the dressing over the bowl of vegetables and mix it all together.
 If you put a plate in the fridge for 10 minutes before serving the salad, it'll stay crisp slightly longer. For the best presentation, pile the salad as high and tight as you can manage."""
+serves = 4
+page = 54
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = true
+vegetables = true
+vegan = true
+category = "Meal"
+seasonables = [[{name = "broccoli"}], [{name = "apple"}]]
 
 [[recipes]]
 name = "Jacket Sweet Potatoes"
@@ -525,6 +818,17 @@ Bake for 60 to 75 minutes. Because sweet potatoes vary greatly in size, check th
 Let cool for 15 minutes. Make a long cut along the top of each potato and open them gently, beating with a fork to fluff up the soft, orange middle.
 Sprinkle with salt and pepper. Let each person add sour cream and scallions (or more salt and pepper) to their taste.
 I like to serve these with all kinds of toppings, usually leftovers from other meals. Try filling them with roast chicken, beans and cheese, corn and tomatoes - whatever you have around."""
+serves = 4
+page = 57
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = false
+vegetables = true
+vegan = false
+category = "Side"
+seasonables = [[{name = "sweet potato"}]]
 
 [[recipes]]
 name = "Smoky and Spicy Roasted Cauliflower"
@@ -537,6 +841,17 @@ salt and pepper"""
 text = """Turn the oven to 400 °F.
 In a medium-sized roasting pan, arrange the cauliflower pieces and the unpeeled cloves of garlic. Pour the butter over the cauliflower and then sprinkle the spices over top. Use your hands to thoroughly coat the cauliflower with butter and spices.
 Bake for 45 minutes to 1 hour, depending on how crispy you like the florets. Squeeze the roasted garlic throughout and trash the skins."""
+serves = 4
+page = 58
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = false
+vegetables = true
+vegan = false
+category = "Side"
+seasonables = [[{name = "cauliflower"}]]
 
 [[recipes]]
 name = "Spicy Green Beans"
@@ -553,6 +868,17 @@ text = """Add the vegetable oil to a frying pan on medium heat. Once it's hot, a
 Mix the garlic, soy sauce, and sambal oelek in a bowl (and the ginger and lemon juice, if using).
 The beans should have turned bright green. Add about 1/4 cup of water to the pan. Cook another 2 minutes, until the water is mostly gone. Pour the sauce into the pan and toss gently to coat. Cook another 2 minutes, until everything is fragrant and most of the liquid is gone. Poke the beans with a fork: if it goes through easily, they're done. They should take about 5 minutes.
 Taste and add more chili sauce or soy sauce if you want the beans hotter or saltier."""
+serves = 2
+page = 59
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = false
+vegetables = true
+vegan = false
+category = "Side"
+seasonables = [[{name = "green bean"}]]
 
 [[recipes]]
 name = "Mexican Street Corn"
@@ -567,6 +893,17 @@ Place the cobs on a baking pan under the broiler for 2 to 3 minutes, then rotate
 Working quickly, spread a tablespoon of mayonnaise over each cob, lightly coating every kernel. Next, sprinkle the cheese all over the corn. It should stick fairly easily to the mayonnaise, but you'll probably get a little messy coating them thoroughly.
 Sprinkle chili powder over the corn, but not too heavy or it'll be gritty. Use any chili powder you like; ancho or cayenne are great.
 Lastly, squeeze lime juice all over and serve hot!"""
+serves = 4
+page = 60
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = false
+vegetables = true
+vegan = false
+category = "Side"
+seasonables = [[{name = "corn"}]]
 
 [[recipes]]
 name = "Green Chili and Cheddar Quesadillas"
@@ -576,6 +913,17 @@ ingredients = """4 tortillas (p. 137)
 1 tbsp fresh cilantro, chopped"""
 text = """Spread 1/4 cup of green chilies evenly over one tortilla. Sprinkle 1/4 cup of cheese over the chilies, then top with half the cilantro. Place another tortilla on top of each prepared tortilla to form a quesadilla. Repeat!
 Place a large, non-stick pan on medium heat. Once it's hot, add a quesadilla and toast for about 1 minute. Flip it over and brown the second side, then do the same for the other quesadilla. Slice into triangles and enjoy with some fresh salsa (p. 163) and sour cream."""
+serves = 2
+page = 61
+meat = false
+seafood = false
+protein = true
+grain = true
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "chili pepper"}]]
 
 [[recipes]]
 name = "Cornmeal Crusted Veggies"
@@ -603,6 +951,17 @@ Spread a small amount of oil or butter across a baking sheet.
 A few at a time, take the green beans and dredge them in the flour. Next, transfer the flour-covered beans to the egg mixture. Cover the beans lightly with egg mixture, being careful to shake off any excess egg. Then transfer to the cornmeal mixture and coat them evenly.
 Carefully spread the crusted green beans onto the baking sheet. Repeat until you've done them all. If you run out of any of the three mixtures, just mix up a bit more.
 Bake for 10 to 15 minutes, until golden and crispy. Enjoy hot with your favorite dipping sauce!"""
+serves = 4
+page = 62
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = false
+vegetables = true
+vegan = false
+category = "Side"
+seasonables = [[{name = "green bean"}, {name = "zucchini"}, {name = "bell pepper"}, {name = "winter squash"}, {name = "cauliflower"}, {name = "broccoli"}, {name = "okra"}, {name = "carrot"}]]
 
 [[recipes]]
 name = "Brussels Sprout Hash and Eggs"
@@ -617,13 +976,24 @@ text = """Chop off the ends of the sprouts. Slice them in half, then finely shre
 Melt the butter in a non-stick pan on medium- high heat. Swirl it around to coat the pan. Add the Brussels sprout shreds and garlic, then leave it to cook for about 1 minute. Mix it up and toss it around. Add the olives and mix again.
 Crack the eggs into separate areas of the pan. Sprinkle them with salt and pepper. Pour in 2 tablespoons of water and cover with a lid. Let the eggs steam, undisturbed, for 2 minutes. bites
 Once the whites of the eggs are cooked through, turn off the heat and sprinkle everything with lemon juice."""
+serves = 2
+page = 65
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = false
+vegetables = true
+vegan = false
+category = "Side"
+seasonables = [[{name = "meyer lemon"}, {name = "brussels sprout"}]]
 
 [[recipes]]
 name = "Poutine"
 ingredients = """2-3 medium Russet potatoes, sliced into sticks
 2 tbsp vegetable oil
-		salt and pepper
-		scallions, chopped
+salt and pepper
+scallions, chopped
 6 oz fresh mozzarella, diced
 
 gravy:
@@ -644,6 +1014,17 @@ Let the mixture cook until it turns light brown. Add the vegetable broth, soy sa
 Dice the mozzarella.
 After the fries have baked for 20 minutes, remove them from the oven. Lift them with a spatula and test their tenderness with a fork. If it goes through easily, the fries are ready. If you want them a little more crispy, flip them over and put them back in the over for a few more minutes.
 Once they're done, pile one layer of fries onto a plate. Top with cheese and then the hot gravy. Repeat with a second layer before sprinkling with scallions and more freshly ground black pepper."""
+serves = 4
+page = 66
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = []
 
 [[recipes]]
 name = "Stove Toast"
@@ -655,6 +1036,17 @@ text = """Melt 1/2 tablespoon of butter in a small pan on medium heat.
 Place the two slices of bread in the pan and let them cook for about 2 minutes, then lift them with a spatula to check whether they're golden brown underneath. When they are, flip 'em over.
 Add the rest of the butter to the pan to make sure the second side of the toast becomes just as golden as the first. Sprinkle the top of the bread with salt and pepper. Once the second side is golden, set the bread on a plate to await its topping.
 For the toppings, you can go raw or, as I most often do, sauté veggies or beans with flavors like garlic and chilies, olives and and dill, ginger and turmeric, or any other classic combination (p. 166)."""
+serves = 2
+page = 69
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = false
+vegan = false
+category = "Meal"
+seasonables = []
 
 [[recipes]]
 name = "Peas and Lemon Toast"
@@ -665,6 +1057,17 @@ ingredients = """1 tsp olive oil
 1 tsp lemon juice
 Romano or Parmesan, freshly grated
 salt and pepper"""
+serves = 2
+page = 70
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "meyer lemon"}], [{name = "green pea"}]]
 
 [[recipes]]
 name = "Asian Greens Gra Prow Toast"
@@ -676,6 +1079,17 @@ ingredients = """1 bunch Asian greens, stem separated from leaves
 2 tsp soy sauce
 1 handful Thai basil
 salt and pepper"""
+serves = 2
+page = 70
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "basil"}]]
 
 [[recipes]]
 name = "Carmelized Onions and Cheddar Toast"
@@ -684,6 +1098,17 @@ ingredients = """1 tbsp butter
 1 red onion, thinly sliced
 sharp cheddar, thinly sliced
 salt and pepper"""
+serves = 2
+page = 71
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "onion"}]]
 
 [[recipes]]
 name = "Roasted Vegetable Toast"
@@ -691,6 +1116,17 @@ text = """This is one of my favorite ways to eat leftover roasted vegetables. Si
 ingredients = """roasted vegetables (p. 122)
 Romano or Parmesan, freshly grated
 pepper"""
+serves = 2
+page = 71
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = []
 
 [[recipes]]
 name = "Salty Broccoli Toast"
@@ -702,12 +1138,34 @@ ingredients = """1 tsp olive oil
 1 crown and stem of broccoli, chopped
 Romano or Parmesan, freshly grated
 salt and pepper"""
+serves = 2
+page = 72
+meat = false
+seafood = true
+protein = false
+grain = true
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "broccoli"}]]
 
 [[recipes]]
 name = "Black-Eyed Peas and Collards Toast"
 text = """Oh man, is there anything more comforting than beans on toast? Friends and family will be delighted even if you're secretly using up leftovers. To make the meal a little more fancy, use jalapeño-cheddar scones instead of toast."""
 ingredients = """black-eyed peas and collards (p. 94)
 jalapeño-cheddar scones (p. 22) (optional)"""
+serves = 2
+page = 73
+meat = true
+seafood = false
+protein = true
+grain = true
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "black-eyed pea"}], [{name = "collard green"}]]
 
 [[recipes]]
 name = "Broiled Eggplant Salad Toast"
@@ -715,6 +1173,17 @@ text = """Here's yet another use for leftovers-or just a way to make a great sal
 ingredients = """broiled eggplant salad (p. 43)
 fresh herbs or greens
 any cheese, crumbled or grated"""
+serves = 2
+page = 72
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "eggplant"}]]
 
 [[recipes]]
 name = "Spinach and Chickpea Toast"
@@ -725,6 +1194,17 @@ ingredients = """1 tsp butter
 1 bunch spinach
 salt and pepper
 smoked paprika (optional)"""
+serves = 2
+page = 73
+meat = false
+seafood = false
+protein = true
+grain = true
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "spinach"}]]
 
 [[recipes]]
 name = "Popcorn"
@@ -736,6 +1216,17 @@ text = """Place a large pot with a tight-fitting lid on the stove. Pour in the v
 Using pot holders or oven mitts, occasionally shake the pot from side to side to make sure the kernels are evenly distributed in the oil. Once the popcorn begins to pop, turn the heat down to medium-low and gently shake again.
 Once the popping slows down to 5 to 10 seconds between pops, turn the heat off. Wait until you're sure the corn has stopped popping and remove the lid.
 Move the popcorn to a bowl and pour butter, salt, and other spices or toppings over top. Gently toss to coat it evenly."""
+serves = 4
+page = 74
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = false
+vegetables = true
+vegan = false
+category = "Snack"
+seasonables = [[{name = "corn"}]]
 
 [[recipes]]
 name = "Cauliflower Tacos"
@@ -746,6 +1237,17 @@ ingredients = """roasted cauliflower (p. 58)
 text = """Warm up the tortillas in the microwave for 20 to 30 seconds, or put them in a warm oven covered with a towel while you prepare everything else.
 Place two to three tortillas on each plate and fill with a generous serving of cauliflower.
 Sprinkle the grated cheese over top and drizzle with salsa or sauce of your choice. Enjoy!"""
+serves = 2
+page = 77
+meat = false
+seafood = false
+protein = true
+grain = true
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "cauliflower"}]]
 
 [[recipes]]
 name = "Potato Leek Pizza"
@@ -763,6 +1265,16 @@ ingredients = """pizza dough (p. 139)
 3 leeks, sliced into circles
 salt and pepper
 1 lb fresh mozzarella, shredded"""
+page = 79
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = []
 
 [[recipes]]
 name = "Broccoli Rabe and Mozzarella Calzones"
@@ -780,6 +1292,16 @@ Divide the pizza dough into 4 equal pieces. Sprinkle flour over the countertop a
 Roll the dough out quite thin. Pile 1/4 of your broccoli rabe mixture and 1/2 cup of mozzarella onto one side of the circle, leaving a lip around the edge. Gather up the half of the dough that isn't weighed down with filling and fold it over top.
 Pinch the edges of the dough together to create a half-moon shape. Place it carefully on the prepared baking sheet and repeat until you have four calzones. handheld
 Bake for 6 to 8 minutes or until the calzones are golden-brown on the outside. Be careful when you bite into them-they'll be hot!"""
+page = 80
+meat = false
+seafood = true
+protein = true
+grain = true
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "broccoli"}]]
 
 [[recipes]]
 name = "Broccoli, Egg, and Cheddar Empanadas"
@@ -808,6 +1330,16 @@ Heat the oven to 400 °F. Lightly oil or butter two baking sheets.
 Divide the dough into 12 equal pieces and roll each into a ball. Dust your counter lightly with flour, then use a rolling pin to flatten each ball into a thin circle, a little bigger than a DVD. Place some filling on one side of the circle, then fold over the other side to form a half moon. Pinch the edges and place the empanada on a baking sheet. Repeat!
 If you own a pastry brush, an egg wash will make the empanadas shinier. Since it doesn't affect the taste, only how the empanadas look, this step is very optional. In a small bowl, beat an egg with a fork. Brush the tops of the empanadas with the egg wash.
 Bake for 20 minutes, until they turn golden brown."""
+page = 83
+meat = false
+seafood = false
+protein = true
+grain = true
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "broccoli"}]]
 
 [[recipes]]
 name = "Potato and Kale Rolls with Raita"
@@ -832,6 +1364,17 @@ Next, add the potatoes. Stir to coat them with the onions and spices. Add about 
 Test the potatoes with a fork: if you can easily pierce them, they're ready. Once they are, add the kale and stir until the kale is wilted. Taste and add more salt if needed.
 To assemble the rolls, scoop 1/8 of the mixture into the center of a roti, distributing it in an even line. Roll it up.
 Serve two roti per person with cilantro and a generous dollop of raita, either over the top or on the side."""
+serves = 4
+page = 84
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "kale"}, {name = "spinach"}], [{name = "onion"}], [{name = "cilantro"}], [{name = "cucumber"}], [{name = "tomato"}]]
 
 [[recipes]]
 name = "Creamy Zucchini Fettuccine"
@@ -850,6 +1393,17 @@ text = """Bring a pot of water to boil over high heat. Salt the water liberally.
 Cook the pasta according to the package directions. I prefer my pasta with some bite, so I drain the pasta just before it's finished so it doesn't get mushy when I add it to the vegetable pan to cook slightly more.
 Meanwhile, melt a tablespoon of butter in a pan on medium heat. Add the garlic and chili flakes. Let them sizzle for 30 seconds to a minute, then add the zucchini. Stir the vegetables to coat them. Cook for 5 to 7 minutes, stirring occasionally, until some of the water has cooked off and the veggies are tender when stabbed with a fork. Young summer zucchini doesn't need much cooking. Add the lemon zest. Stir!
 Drain the cooked fettuccine and add it to the zucchini pan along with the rest of the butter, the cream, and most of the Romano cheese. Toss the fettuccine around the pan to get everything mixed. Add salt to taste and lots of freshly ground pepper. Top with a bit more cheese and serve immediately."""
+serves = 3
+page = 89
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "zucchini"}], [{name = "meyer lemon"}]]
 
 [[recipes]]
 name = "Pasta with Eggplant and Tomato"
@@ -867,6 +1421,17 @@ While the water is coming to a boil, splash the olive oil into a wide pan on med
 Once the cubes are a little brown on all sides, add the garlic and chili flakes and stir. Add the tomatoes and cook for about 15 minutes, stirring occasionally. Again, if it looks too dry, add a bit of water. Everything will shrink up and become a sort of loose, thick sauce. Add half the cheese and half the basil, if you have it.
 Once the pasta is cooked, drain it and add it to the saucepan. Toss everything together, then turn off the heat. Add salt and pepper to taste.
 Serve it in bowls sprinkled with more Romano and basil."""
+serves = 2
+page = 90
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "eggplant"}], [{name = "tomato"}]]
 
 [[recipes]]
 name = "Chana Masala"
@@ -892,6 +1457,17 @@ yogurt"""
 text = """Measure out all the spices except the cumin seeds and put them in a small bowl.
 Let the ghee (clarified butter) melt in a small saucepan over medium-low heat. (Ghee is the traditional Indian choice, but you can substitute butter and a splash of olive oil if you can't find ghee.) Once the ghee begins to sizzle, add the cumin seeds and stir for about 5 seconds. Add the onion and sauté for 2 minutes. Add the garlic and cook for 1 minute. Add the ginger and jalapeño and cook for 1 more minute. Add the spices and then the puréed tomatoes. Mix, then put a lid on the pan and let everything cook down for 5 to 10 minutes.
 Once the tomato has reduced and the ghee starts to separate from the sauce, add the chickpeas and water. Mix, then bring it to a boil before reducing to a simmer. Cook for 10 minutes, then squish a few chickpeas with a spoon to thicken the sauce. Garnish with yogurt and cilantro. For a full meal, serve over rice or with roti."""
+serves = 2
+page = 93
+meat = false
+seafood = false
+protein = true
+grain = false
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "onion"}], [{name = "cilantro"}], [{name = "tomato"}], [{name = "chili pepper"}]]
 
 [[recipes]]
 name = "Black-Eyed Peas and Collards"
@@ -906,10 +1482,21 @@ ingredients = """1 cup dried black-eyed peas
 1 tbsp butter
 1 large onion, finely chopped
 3 cloves garlic, finely chopped
-3 strips bacon, cut into small pieces
+3 strips bacon, cut into small pieces, or smoked paprika
 1 bay leaf
 1 large bunch collards
 salt and pepper"""
+serves = 4
+page = 94
+meat = false
+seafood = false
+protein = true
+grain = false
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "onion"}], [{name = "collard green"}], [{name = "black-eyed pea"}]]
 
 [[recipes]]
 name = "Vegetable Jambalaya"
@@ -940,6 +1527,17 @@ additions:
 slices of fried sausage
 shrimp
 leftover meat, tofu, or beans"""
+serves = 6
+page = 97
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = true
+vegan = true
+category = "Meal"
+seasonables = [[{name = "onion"}], [{name = "bell pepper"}], [{name = "chili pepper"}], [{name = "tomato"}]]
 
 [[recipes]]
 name = "Filipino Chicken Adobo"
