@@ -1659,13 +1659,13 @@ text="""Chop up the spinach as much as you like. The more finely chopped, the mo
 
 [[recipes]]
 name = "Dried Beans"
-The best way to prepare dried beans is to soak them overnight. The next day, drain the water and rinse thoroughly before cooking in fresh water.
-If you didn't have the foresight to soak the beans ahead of time, you can make up for it. Cover the beans with water, then bring them to a boil in a large pot. After 10 minutes, take them off the heat and drain them.
-Proceed with the next step.
-Cover the drained beans with fresh water in a large pot. Bring to a boil on medium heat, then turn down the heat so that the beans boil gently.
-Put a lid on the pot, but leave it askew so the water doesn't boil over.
+text="""The best way to prepare dried beans is to soak them overnight. The next day, drain the water and rinse thoroughly before cooking in fresh water.
+If you didn't have the foresight to soak the beans ahead of time, you can make up for it. Cover the beans with water, then bring them to a boil in a large pot. After 10 minutes, take them off the heat and drain them. Proceed with the next step.
+Cover the drained beans with fresh water in a large pot. Bring to a boil on medium heat, then turn down the heat so that the beans boil gently. Put a lid on the pot, but leave it askew so the water doesn't boil over.
 Check on the beans every half hour or so, making sure to keep them covered with water if it boils away.
 Beans take vastly different lengths of time to become tender. The older and bigger they are, the longer they take to cook. Very old, very large beans can take as long as four hours.
+If you are making refried beans or beans for a soup or stew, don't worry about overcooking them; it's fine if they're mushy. If you want to maintain their shape and integrity, however, monitor them closely once they're getting close to done.
+Once the beans are tender, you can drain them or leave them wet, depending on what you're using them for. Add salt to taste-they will need a fair bit!"""
 ingredients = """dried beans
 
 additions:
@@ -1676,29 +1676,20 @@ onion
 garlic
 chilies
 ginger root"""
-If you are making refried beans or beans for a soup or stew, don't worry about overcooking them; it's fine if they're mushy. If you want to maintain their shape and integrity, however, monitor them closely once they're getting close to done.
-Once the beans are tender, you can drain them or leave them wet, depending on what you're using them for. Add salt to taste-they will need a fair bit! s ta p l e s
 
 [[recipes]]
 name = "Croutons or Breadcrumbs"
 ingredients = """bread
 butter or vegetable oil as needed
 salt and pepper"""
-I am constantly haunted by the hard, several-day-old bread that I have neglected. Luckily there are plenty of delicious solutions that avoid the trash can. Croutons and breadcrumbs will keep for ages in a sealed container on the counter, and when you have them around you'll find yourself using them everywhere and finding excuses to make a salad.
-This is a method more than a recipe since you'll have a random amount of bread. If making croutons, start by cutting the bread into cubes. If making breadcrumbs, mince the loaf with a knife, or just tear it apart, or throw small chunks of bread into a food processor. If the bread is too hard to cut, wrap it in a kitchen towel, sprinkle some water on the towel, and microwave for 20 to 30 seconds. This will restore just enough moisture to let you cut the bread easily.
+text="""This is a method more than a recipe since you'll have a random amount of bread. If making croutons, start by cutting the bread into cubes. If making breadcrumbs, mince the loaf with a knife, or just tear it apart, or throw small chunks of bread into a food processor. If the bread is too hard to cut, wrap it in a kitchen towel, sprinkle some water on the towel, and microwave for 20 to 30 seconds. This will restore just enough moisture to let you cut the bread easily.
 Choose a sufficiently large pan for the quantity of bread cubes or crumbs-or work in batches if you have a lot-and place it on the stovetop on medium heat. Add enough butter or vegetable oil to coat the bottom of the pan. I prefer the flavor of butter, but use whatever you have.
-Let the butter melt or the oil get hot.
-Add the bread and toss gently until coated. Let the bread sit for 2 minutes, then flip the pieces over. Keep tossing and turning until the bread is brown all over. Add oil or butter as needed and sprinkle with salt and pepper. It is basically impossible, unless you are very patient (which I am not) to get every side of the cubes browned, so just get them generally looking good and toasty and then take them off the heat.
-For breadcrumbs, if you like, you can go oil-free: just toast whole slices and then crush it into small pieces. s ta p l e s
-14 6
-Use the breadcrumbs or croutons immediately, or place them in a sealed container after letting them cooling off.
-Later, use them in salads or anything you want to add crunch to. s ta p l e s
-147
+Let the butter melt or the oil get hot. Add the bread and toss gently until coated. Let the bread sit for 2 minutes, then flip the pieces over. Keep tossing and turning until the bread is brown all over. Add oil or butter as needed and sprinkle with salt and pepper. It is basically impossible, unless you are very patient (which I am not) to get every side of the cubes browned, so just get them generally looking good and toasty and then take them off the heat.
+For breadcrumbs, if you like, you can go oil-free: just toast whole slices and then crush it into small pieces.
+Use the breadcrumbs or croutons immediately, or place them in a sealed container after letting them cooling off. Later, use them in salads or anything you want to add crunch to."""
 
 [[recipes]]
 name = "Agua Fresca"
- serves four to six
-Refreshing and hydrating, these beautiful drinks are great at a party, and they can help you use up any fruit that you won't be able to eat before it goes off. This is certainly not the master recipe, just a good starting point. va r i at i o n s
 ingredients = """2 cups fruit, chopped
 4 cups water
 
@@ -1720,68 +1711,58 @@ sugar
 peach and vanilla
 pineapple
 strawberry and mint"""
-For a very lightly flavored agua fresca, just mix the water and fruit together. Done! Obviously, if you want more fruit flavor, then use less water; if you want less flavor, then use more water.
+text="""For a very lightly flavored agua fresca, just mix the water and fruit together. Done! Obviously, if you want more fruit flavor, then use less water; if you want less flavor, then use more water.
 I usually run my agua fresca through the blender, however. If you want the drink to be clear, strain the pulpy leftovers of the fruit after blending. If you're using blueberries or oranges or other fruit with a skin, you'll almost certainly want to strain it.
-Drinks
-You don't need a special drink at every meal (unless of course it is the meal!) but when you do, let fruit play a leading role, and make it yourself. It'll be so much better than the overpriced bottles in the supermarket.
-148
 For some fruits, you can also choose to leave the pulp: it's particularly great when making a melon agua fresca since it mostly disappears.
-149
-Serve over ice. Try some of the variations I've suggested or whatever fruits you like! drinks
-149
+Serve over ice. Try some of the variations I've suggested or whatever fruits you like!"""
 
 [[recipes]]
 name = "Drinkable Yogurt"
-If you like the grocery store's yogurt drinks, try making these at home for less! You don't even need to blend them-just add the juice and yogurt to a jar, then shake.
+text="""If you like the grocery store's yogurt drinks, try making these at home for less! You don't even need to blend them-just add the juice and yogurt to a jar, then shake."""
 ingredients = """1/2 cup plain yogurt
 1/2 cup fruit juice"""
 
 [[recipes]]
 name = "Melon Smoothie"
-When you buy a melon, dice and freeze whatever you don't eat.
-Pull it out and blend it with a bit of water or juice to thin it out. It's like a better slushy!
+text="""When you buy a melon, dice and freeze whatever you don't eat. Pull it out and blend it with a bit of water or juice to thin it out. It's like a better slushy!"""
 ingredients = """1 cup frozen melon
 1/2 cup water or juice
 1 tsp vanilla"""
 
 [[recipes]]
 name = "Berry Smoothie"
-Blend until smooth, then adjust with more berries or milk to your taste.
+text="""Blend until smooth, then adjust with more berries or milk to your taste."""
 ingredients = """1/2 cup yogurt
 1 cup frozen berries
 milk or juice to thin as needed"""
 
 [[recipes]]
 name = "Mango Lassi"
-Blend the mango and yogurt together. If it's too thick to drink with a straw, add some milk to thin it out. A ripe and juicy mango combined with thin yogurt is often all you need. Be warned: if you make this for children, they will request it over and over.
+text="""Blend the mango and yogurt together. If it's too thick to drink with a straw, add some milk to thin it out. A ripe and juicy mango combined with thin yogurt is often all you need. Be warned: if you make this for children, they will request it over and over."""
 ingredients = """1 mango, diced
 1 cup yogurt
 milk to thin as needed"""
 
 [[recipes]]
 name = "Caramelized Bananas"
-for two
-These bananas-cooked in just a bit of caramel-are crispy and gooey on the outside and almost like a soft pudding inside. Sweet, messy, and irresistible.
 ingredients = """2 bananas, peeled and split in half
 1 tbsp butter
 2 tbsp brown sugar"""
-Melt the butter in a non-stick or cast- iron pan on medium-high heat. Add the sugar and let it melt into the butter for about 2 minutes. Place the bananas face down in the butter-sugar mixture, then cook for 2 minutes or until they become brown and sticky. Carefully flip them over and do the same to the other side.
-Serve them whole or split them into quarters. Drizzle any caramel left in the pan over the bananas. Serve with ice cream or on their own.
-Desserts
-Whether it's been a rough day, it's time to celebrate, or just because it's
-Wednesday, these sweets are totally worth it.
-152 desserts
-153
+text="""Melt the butter in a non-stick or cast- iron pan on medium-high heat. Add the sugar and let it melt into the butter for about 2 minutes. Place the bananas face down in the butter-sugar mixture, then cook for 2 minutes or until they become brown and sticky. Carefully flip them over and do the same to the other side.
+Serve them whole or split them into quarters. Drizzle any caramel left in the pan over the bananas. Serve with ice cream or on their own."""
 
 [[recipes]]
 name = "Coconut Chocolate Cookies"
-makes forty
-$10 t o t a l
-$ 0 .2 5 / c o o k i e
-A just-chewy-enough, just-crispy-enough, just-gooey-enough cookie that's perfect for a special treat.
-Heat the oven to 350 °F.
+text="""Heat the oven to 350 °F.
 Spread the coconut into a thin, even layer on a cookie sheet. Place it in the oven for 5 to 8 minutes, until it's light brown, toasty, and aromatic.
 Melt the butter in a heavy-bottomed saucepan over low heat. Once it's melted, leave it to cool in the pan for a few minutes.
+In a medium-sized bowl, stir together the flour, salt, and baking soda.
+In another bowl, beat the brown sugar and melted butter together for about 2 minutes, until they're smooth. Add the eggs and vanilla and beat for about 5 minutes, until the mixture lightens in color. Mix the flour mixture with the brown sugar mixture, a third at a time, until it forms a dark brown, homogeneous mass. Add the chocolate chips and coconut and stir until just combined.
+Place the dough in the fridge for 20 minutes.
+Afterwards, scoop tablespoons of dough onto a lightly buttered cookie sheet, leaving large spaces between each cookie so they have space to spread out. I usually do about 6 cookies per sheet. Just before putting the cookies into the oven, sprinkle them with salt.
+Let the cookies bake for 8 to 10 minutes. After you take them out of the oven, leave them on the sheet to set for 2 minutes, then move them to plates to cool further. Don't stack the cookies until they've cooled fully.
+Continue the process until the dough is gone.
+Store the finished cookies in an airtight container."""
 ingredients = """2/3 cup shaved, unsweetened coconut, toasted
 1 1/2 cups chocolate chips
 1/2 lb unsalted butter (2 sticks)
@@ -1791,26 +1772,17 @@ ingredients = """2/3 cup shaved, unsweetened coconut, toasted
 1 1/2 cups dark brown sugar
 2 eggs
 2 tsp vanilla"""
-In a medium-sized bowl, stir together the flour, salt, and baking soda.
-In another bowl, beat the brown sugar and melted butter together for about 2 minutes, until they're smooth. Add the eggs and vanilla and beat for about 5 minutes, until the mixture lightens in color. Mix the flour mixture with the brown sugar mixture, a third at a time, until it forms a dark brown, homogeneous mass. Add the chocolate chips and coconut and stir until just combined.
-Place the dough in the fridge for 20 minutes.
-Afterwards, scoop tablespoons of dough onto a lightly buttered cookie sheet, leaving large spaces between each cookie so they have space to spread out. I usually do about 6 cookies per sheet. Just before putting the cookies into the oven, sprinkle them with salt.
-Let the cookies bake for 8 to 10 minutes. After you take them out of the oven, leave them on the sheet to set for 2 minutes, then move them to plates to cool further. Don't stack the cookies until they've cooled fully.
-Continue the process until the dough is gone.
-Store the finished cookies in an airtight container. desserts desserts
-154 155
 
 [[recipes]]
 name = "Peach Coffee Cake"
-f o r t w e lv e
-$9 t o ta l
-$ 0 . 75 / s e r v i n g
-This is adapted from the apple cake often served during Rosh Hashanah.
-It's simple and wonderful for dessert, with tea, or as a sweet breakfast. The juicy peaches add a ton of flavor to this simple cake. If you buy peaches in season, the cost can be quite reasonable.
-Turn your oven to 350 °F.
-Using the paper wrapping from the butter, lightly butter an 8" x 11" glass baking dish or 9" springform pan. Any shape will do so long as it is large enough.
-This cake doubles in size when it bakes.
+text="""Turn your oven to 350 °F.
+Using the paper wrapping from the butter, lightly butter an 8" x 11" glass baking dish or 9" springform pan. Any shape will do so long as it is large enough. This cake doubles in size when it bakes.
 In a large bowl, mix the peach slices, lemon juice, and cinnamon together with your hands, making sure the peaches are well coated in cinnamon.
+In a medium bowl, stir the flour with the baking powder, getting rid of any lumps.
+In another large bowl, beat the butter, brown sugar, and salt, either with a wooden spoon or an electric mixer. Stop when the mixture is fluffy and has slightly lightened in color. Add the vanilla, then the eggs one at a time, fully mixing in the first before adding the second.
+If using an electric mixer, switch to a wooden spoon and add the flour mixture into the butter mixture, gently incorporating it until it's smooth. The batter will be quite thick.
+Spread half the batter over the bottom of the buttered pan. Evenly distribute 24 of the peach slices over top. (There should be 48 in total.) Spread the other half of the batter over the peaches, then top with the remaining peaches. Sprinkle with a tablespoon or so of sugar and place the cake in the oven.
+Bake for 1 hour or until a knife inserted into the center comes out clean."""
 ingredients = """6 peaches, pitted and cut into 8 slices each
 1 tsp cinnamon
 1/2 lemon, juiced
@@ -1821,36 +1793,26 @@ ingredients = """6 peaches, pitted and cut into 8 slices each
 1/8 tsp salt
 2 large eggs
 1 tsp vanilla"""
-In a medium bowl, stir the flour with the baking powder, getting rid of any lumps.
-In another large bowl, beat the butter, brown sugar, and salt, either with a wooden spoon or an electric mixer. Stop when the mixture is fluffy and has slightly lightened in color. Add the vanilla, then the eggs one at a time, fully mixing in the first before adding the second.
-If using an electric mixer, switch to a wooden spoon and add the flour mixture into the butter mixture, gently incorporating it until it's smooth. The batter will be quite thick.
-Spread half the batter over the bottom of the buttered pan. Evenly distribute 24 of the peach slices over top.
-(There should be 48 in total.) Spread the other half of the batter over the peaches, then top with the remaining peaches. Sprinkle with a tablespoon or so of sugar and place the cake in the oven.
-Bake for 1 hour or until a knife inserted into the center comes out clean. desserts desserts
-156 157
+
+[[recipes]]
+name = "Fast Melon Sorbet"
+ingredients = """2 cups frozen melon
+1/2 cup plain yogurt
+1/4 cup sugar
+1 tsp vanilla or lime juice (optional)"""
+text="""When you see lovely watermelons, honeydews, and cantaloupes on sale, buy them up. Eat half, then cube and freeze the other half. When you want a quick dessert or smoothie, pull out a bag of frozen melon and whip this up.
+Add all the ingredients to a food processor or blender until just smooth. Don't blend too much, or the sorbet will become oversoft. Serve immediately or stick it into the freezer to enjoy later."""
 
 [[recipes]]
 name = "Avocado Milkshake"
-John, the reader who introduced me to the silky magic of this milkshake, lives in California, where avocados are often less than a dollar. If you can find a similar deal, whip up a batch of these! If your avocado isn't quite ripe, a bit more lime juice will bring out the flavor. for two
 ingredients = """1 avocado
 2 cups milk
 1 tsp vanilla
 1 tbsp lime juice
 1 pinch salt
 2 tbsp sugar"""
-Toss all the ingredients in a blender and whizz them up! Let it go for a while because the avocados need to break down and blend with the milk. Once the liquid is Kermit the Frog green, it's ready. Taste it and add more sugar or lime juice as needed.
-These shakes are even better if you use "coconut milk beverage," almond milk, or rice milk instead of regular milk. Each adds a little of its own flavor to the drink.
-
-
-[[recipes]]
-name = "Fast Melon Sorbet"
- for four
-ingredients = """2 cups frozen melon
-1/2 cup plain yogurt
-1/4 cup sugar
-1 tsp vanilla or lime juice (optional)"""
-When you see lovely watermelons, honeydews, and cantaloupes on sale, buy them up. Eat half, then cube and freeze the other half. When you want a quick dessert or smoothie, pull out a bag of frozen melon and whip this up.
-Add all the ingredients to a food processor or blender until just smooth. Don't blend too much, or the sorbet will become oversoft. Serve immediately or stick it into the freezer to enjoy later.
+text="""Toss all the ingredients in a blender and whizz them up! Let it go for a while because the avocados need to break down and blend with the milk. Once the liquid is Kermit the Frog green, it's ready. Taste it and add more sugar or lime juice as needed.
+These shakes are even better if you use "coconut milk beverage," almond milk, or rice milk instead of regular milk. Each adds a little of its own flavor to the drink."""
 
 [[recipes]]
 name = "Peanut Sauce"
@@ -1864,13 +1826,12 @@ cooking oil
 1 tbsp soy sauce
 1 tbsp brown sugar (optional)
 1/2 tsp sesame oil"""
-Finely chop the pepper, garlic, and shallot, or use a food processor to make them into a paste. (If you're using chili paste instead of a fresh pepper, hold off on it for now.)
-Flavor Splash some oil in a saucepan on medium heat. Once it's warm, add the chili, garlic, and shallot and sauté until everything's translucent. Add the turmeric, coconut milk, and chili paste if applicable.
-If you have a great sauce or a few spices in your kitchen, you'll never have to tolerate bland food. Most of these recipes require surprisingly little effort and time, pack a ton of flavor, and can be stored for use in any dish you choose. Let it come to a boil, then turn the heat down. Add the peanut butter and soy sauce and stir to combine. Once it's all combined, taste it and add whatever you think it needs-but think about the salt and spice in particular.
+text="""Finely chop the pepper, garlic, and shallot, or use a food processor to make them into a paste. (If you're using chili paste instead of a fresh pepper, hold off on it for now.)
+Splash some oil in a saucepan on medium heat. Once it's warm, add the chili, garlic, and shallot and sauté until everything's translucent. Add the turmeric, coconut milk, and chili paste if applicable.
+If you have a great sauce or a few spices in your kitchen, you'll never have to tolerate bland food. Most of these recipes require surprisingly little effort and time, pack a ton of flavor, and can be stored for use in any dish you choose. Let it come to a boil, then turn the heat down. Add the peanut butter and soy sauce and stir to combine. Once it's all combined, taste it and add whatever you think it needs - but think about the salt and spice in particular."""
 
 [[recipes]]
 name = "Spice Oil"
-Use this spice oil on salads, in cold noodle dishes, or on roasted or sautéed vegetables. If you have trouble finding the spices, you can get all of them at most Asian grocery stores.
 ingredients = """1 clove garlic
 1 cup olive or vegetable oil
 2 tbsp chili flakes or dried red chilies
@@ -1878,15 +1839,14 @@ ingredients = """1 clove garlic
 1 star anise
 1/2 tsp cumin seeds
 1/4 tsp salt"""
-Use the side of a knife to crush the garlic clove until it cracks open. Add all of the ingredients to a small pot.
+text="""Use the side of a knife to crush the garlic clove until it cracks open. Add all of the ingredients to a small pot.
 Warm the mixture over low heat for about 10 minutes, until it starts to bubble gently and you can hear a bit of a sizzle, then turn off the heat. You want to heat it just enough to let the spices infuse into the oil, without getting so hot that the spices start to cook or fry.
 Remove the pot from the stovetop and put it in the fridge with a lid. Let the spices infuse for 4 to 8 hours.
 Taste the oil. If it isn't strongly spicy, let it infuse for a few more hours. Once it's ready, strain through a sieve to remove the spices.
-Store in a jar in the fridge for up to a week.
+Store in a jar in the fridge for up to a week."""
 
 [[recipes]]
 name = "Salsa"
-Summertime salsas combine a load of fresh tomatoes with smaller amounts of choice vegetables and fruit. In the winter, cook canned tomatoes for a few minutes first.
 ingredients = """2 cups tomatoes, chopped
 1/2 medium onion, finely diced
 1 jalapeño pepper, finely diced
@@ -1899,13 +1859,11 @@ mango, peach, plum, or pineapple
 beans
 corn
 garlic"""
-Apart from its usual use on tortilla chips and tacos, this salsa is a wonderful topping for fish or chicken, as a sauce for cold noodles, or as a finishing touch on a savory breakfast.
-If you like raw onion, go right ahead. Otherwise, take the edge off by sautéing the onion with a bit of water in a pan over medium heat. The onion is ready once the water has boiled off.
-If you aren't a fan of cilantro, substitute another herb: mint, savory, or lemon balm work well.
-Mix the onion, tomato, and the rest of the ingredients in a bowl.
-Be sure to add enough salt and pepper!
+text="""Summertime salsas combine a load of fresh tomatoes with smaller amounts of choice vegetables and fruit. In the winter, cook canned tomatoes for a few minutes first.
+If you like raw onion, go right ahead. Otherwise, take the edge off by sautéing the onion with a bit of water in a pan over medium heat. The onion is ready once the water has boiled off. If you aren't a fan of cilantro, substitute another herb: mint, savory, or lemon balm work well.
+Mix the onion, tomato, and the rest of the ingredients in a bowl. Be sure to add enough salt and pepper!
 Taste the salsa. You're looking for a balance of spicy from the peppers, sweet from the tomatoes, and bright and fresh from the herbs and lime juice. If something's out of balance, add the appropriate ingredient to bring it back into balance.
-Store in an air-tight container in the fridge. Fresh salsa won't last as long as store-bought salsa because it doesn't have any preservatives, but it's so tasty that I'm sure you'll finish it fast! f l avo r
+Store in an air-tight container in the fridge. Fresh salsa won't last as long as store-bought salsa because it doesn't have any preservatives, but it's so tasty that I'm sure you'll finish it fast!"""
 
 [[recipes]]
 name = "Raita"
@@ -1923,20 +1881,19 @@ additions:
 2 tbsp mint
 1/4 cup chickpeas
 cooked spinach"""
-This recipe is extremely loose. Basically, just stir some of your favorite chopped vegetables into yogurt and add salt and pepper. Use this as a stepping stone to develop your own.
-After you stir all the ingredients together, store the raita in a covered container in the fridge until you're ready to use it.
+text="""This recipe is extremely loose. Basically, just stir some of your favorite chopped vegetables into yogurt and add salt and pepper. Use this as a stepping stone to develop your own.
+After you stir all the ingredients together, store the raita in a covered container in the fridge until you're ready to use it."""
 
 [[recipes]]
 name = "Tzatziki"
-If you're in a hurry, you don't have to strain this at all: you can just mix the ingredients together. However, removing the water from the cucumber and yogurt intensifies the flavor.
-Your patience will be rewarded by a thick sauce that gives you a new perspective on cucumbers.
 ingredients = """2 cups yogurt
 1 large cucumber, grated
 1 tsp salt
 2 tbsp fresh dill, chopped
 2 scallions, finely chopped
 salt and pepper"""
+text="""If you're in a hurry, you don't have to strain this at all: you can just mix the ingredients together. However, removing the water from the cucumber and yogurt intensifies the flavor.
 Grate the cucumber and place it in a sieve over a large bowl. Salt the cucumber and mix it around. Leave it for 30 minutes to 2 hours, occasionally pressing the cucumber gently into the sieve to get the liquid out. The salt will help leach the water out of the cucumber.
 Line another sieve (or the same one, cleaned) with paper towel or cheesecloth and pour the yogurt into it. You can leave it for as little as 1 hour on the counter or overnight in the fridge. The longer you leave it, the thicker it will get. This is how Greek yogurt is made!
 Mix the strained cucumber with the yogurt and the other ingredients, then taste. Adjust the salt and pepper and add any more dill or onion.
-Enjoy on sandwiches, as a dip, with pita or tortilla chips, or over meatballs, kebabs or anything spicy.
+Enjoy on sandwiches, as a dip, with pita or tortilla chips, or over meatballs, kebabs or anything spicy."""
