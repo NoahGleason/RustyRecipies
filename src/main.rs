@@ -7,7 +7,7 @@ use std::io::Read;
 use crate::recipe::{RecipeBook, Month};
 
 fn main(){
-    let path = Path::new("/media/LinHDD/Documents/RustProjects/first/goodCheapEats.recipe");
+    let path = Path::new("goodCheapEats.recipe");
 
     // Open the path in read-only mode, returns `io::Result<File>`
     let mut file = match File::open(&path) {

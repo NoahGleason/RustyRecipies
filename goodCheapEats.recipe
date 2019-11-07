@@ -2424,7 +2424,7 @@ grain = true
 fruit = false
 vegetables = false
 vegan = true
-category = "component"
+category = "Component"
 seasonables = []
 
 [[recipes]]
