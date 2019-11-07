@@ -1569,6 +1569,17 @@ Pour the oil into a large pot on medium heat. Once the oil is hot, add enough ch
 After all the chicken is browned, put it back in the pot along with the marinade, water, potatoes, and carrots. Turn the heat up until the liquid comes to a boil, then reduce to low heat and simmer for 45 minutes, or until the meat near the bone is no longer pink and the carrots and potatoes are cooked through.
 About 20 minutes before the adobo is ready, pour the rice into a medium pot with 4 cups of water. Add two pinches of salt. Bring to a boil over medium heat with the lid off. Turn the heat down and cover with a lid that is slightly askew to let the steam escape. Cook about 20 minutes, until the water is all gone.
 Remove the bay leaves from the adobo. In a small bowl, mix the cornstarch with a tablespoon of water, then stir it into the sauce. Let the sauce boil and thicken until the chicken and vegetables are well glazed. Serve over the rice."""
+serves = 8
+page = 98
+meat = true
+seafood = false
+protein = true
+grain = false
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "carrot"}]]
 
 [[recipes]]
 name = "My Dad's Baked Beans"
@@ -1579,6 +1590,17 @@ ingredients = """2 cans (27 oz) baked beans
 text = """If you're using the chipotle en adobo, chop it finely to be sure the spice will be evenly distributed.
 Mix all the ingredients into a pot and heat on the stove until the beans are warmed through. Give it a stir and serve. Or do it all in the microwave-works just as well!
 Serve with rice, or just in a bowl. For an English-style breakfast, try spreading the beans over toast. Or throw them into a burrito, or scramble them with eggs, or stir-fry with onions and bell pepper."""
+serves = 2
+page = 101
+meat = false
+seafood = false
+protein = true
+grain = false
+fruit = false
+vegetables = true
+vegan = true
+category = "Meal"
+seasonables = []
 
 [[recipes]]
 name = "And Mine"
@@ -1603,6 +1625,17 @@ tomato
 crumbled bacon
 chunks of ham"""
 text = """Cook everything in a pot on medium heat for approximately 5 minutes, or until the juices thicken. That's it!"""
+serves = 2
+page = 101
+meat = false
+seafood = false
+protein = true
+grain = false
+fruit = false
+vegetables = true
+vegan = true
+category = "Meal"
+seasonables = [[{name = "onion"}], [{name = "tomato"}]]
 
 [[recipes]]
 name = "Half-Veggie Burgers"
@@ -1618,6 +1651,17 @@ Mix the lentils, veggies, and meat with your hands in a large bowl. If you're go
 Grill the patties either on the barbecue or a pan on the stovetop over medium-high heat. Sear until dark brown on one side, then flip 'em and do the same on the other side. If you want cheeseburgers, lay cheese on the patties after flipping them once.
 Serve on toasted buns with your favorite condiments and fresh vegetables. Burgers are a great place to be adventurous!
 If you won't eat all the burgers at once, wrap the raw patties in plastic. Refrigerate for a few days or freeze for up to 2 weeks."""
+serves = 8
+page = 102
+meat = true
+seafood = false
+protein = true
+grain = true
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = []
 
 [[recipes]]
 name = "Beef Stroganoff"
@@ -1647,6 +1691,17 @@ Meanwhile, in another pan on medium heat, melt the rest of the butter. Add the g
 Cook the noodles (or any pasta) according to the package instructions. Try to time it to coincide with finishing the stew.
 Check on the beef. If the water has reduced to approximately a cup of thick, flavorful liquid and the beef is tender, it's done! If not, let it cook a little longer. Once it's ready, stir in the mushrooms, sour cream, and mustard. Turn the heat down to low to keep it warm until the pasta is ready. Once again, taste and add more salt, pepper, and paprika if needed.
 Put the noodles into bowls and top with the stew. Sprinkle a little paprika over top and enjoy!"""
+serves = 6
+page = 105
+meat = true
+seafood = false
+protein = true
+grain = false
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "onion"}], [{name = "carrot"}], [{name = "mushroom"}]]
 
 [[recipes]]
 name = "Tofu Hot Pot"
@@ -1681,6 +1736,17 @@ kimchi
 chili peppers
 fresh cilantro
 daikon radish, sliced"""
+serves = 4
+page = 106
+meat = false
+seafood = false
+protein = true
+grain = false
+fruit = false
+vegetables = true
+vegan = true
+category = "Meal"
+seasonables = [[{name = "mushroom"}], [{name = "carrot"}]]
 
 [[recipes]]
 name = "Deconstructed Cabbage Rolls"
@@ -1710,6 +1776,17 @@ Sauté the onion and garlic in the same pan, with the sausage drippings. Once th
 While the cabbage cooks, mix the rice and lentils into the sausage bowl. Add salt, pepper, and any other spices you'd like. I'd suggest repeating whatever spices are in the sausage: in the case of chorizo, that was paprika, cumin, and dried chilies, but if you were using Italian sausage, you might add some fennel seeds. Make sure you taste the mixture as you season it. If both parts of the casserole are tasty, you'll end up with a delicious meal. If they aren't seasoned well, it'll be bland.
 Lightly oil a large casserole dish. Spread the lentil-rice-sausage mixture into an even layer. Next, spread the cabbage mixture on top. Then, as evenly as possible, pour the puréed tomatoes over top. Sprinkle with salt and pepper.
 Bake until hot and bubbly, approximately 30 minutes."""
+serves = 6
+page = 109
+meat = true
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "onion"}], [{name = "tomato"}]]
 
 [[recipes]]
 name = "Savory Summer Cobbler"
@@ -1739,6 +1816,17 @@ topping:
 1/2 cup sharp cheddar, grated
 1/2 cup butter
 1 cup milk"""
+serves = 4
+page = 110
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "zucchini"}, {name = "summer squash"}], [{name = "tomato"}], [{name = "meyer lemon"}]]
 
 [[recipes]]
 name = "Cauliflower Cheese"
@@ -1769,6 +1857,17 @@ Meanwhile, butter a baking dish large enough to comfortably accommodate all the 
 To make the sauce, melt the butter in a saucepan on medium heat. Add the garlic, chili flakes, and bay leaf, then cook for about 1 minute. Add the flour and stir quickly. The flour-butter mixture is called a roux. You want the roux to get just a little brown; this will probably take another minute. Slowly add the milk to the pot, stirring all the while to incorporate the roux. Bring the sauce to a boil, stirring every now and then to make sure the sauce doesn't get scorched on the bottom. Once it comes to a boil, turn off the heat and stir in the cheese. Drop in any additions at this point. Taste the sauce and add salt and pepper as needed. You should have a creamy, smooth, savory sauce.
 Pour the sauce over the cauliflower. Place the dish in the oven for 40 minutes, or until the top is brown and bubbly. You can also add some breadcrumbs to the top of the dish before baking if you like extra crunch.
 Enjoy with a green salad. I also like mine with salsa."""
+serves = 4
+page = 113
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "cauliflower"}]]
 
 [[recipes]]
 name = "Vegetable Quiche, Hold the Crust"
@@ -1788,6 +1887,17 @@ Spread the vegetables evenly over top of the onions. The dish or pan should look
 In a bowl, use a fork to lightly beat the eggs with the milk, cheese, salt, and pepper, just enough to break up the yolks and whites. This is a savory custard mixture. Pour the custard over the vegetables and onions and enjoy watching it fill in all the free spaces.
 Bake the quiche in the oven for 1 hour. Once the surface is lightly brown all the way across, it's fully cooked.
 Let the quiche cool for about 20 minutes, then slice into wedges and serve with a side salad."""
+serves = 4
+page = 114
+meat = false
+seafood = false
+protein = true
+grain = false
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "onion"}]]
 
 [[recipes]]
 name = "Shrimp and Grits"
@@ -1809,6 +1919,17 @@ text = """Bring the stock to a boil in a medium-sized pot, then turn the heat do
 Let the grits cook while you prepare the rest of the meal, checking in occasionally to give them a stir. The total cooking time should be about 25 to 30 minutes.
 Meanwhile, prepare the shrimp and vegetables. Add the butter or oil to a large pan on medium heat and let it get hot. Add the onion, pepper, and celery. Sauté until the onion is just translucent, about 2 minutes. Add the garlic, as well as the green chili if you like things spicy. Let everything cook for another minute. Add the tomato and cook for 3 or 4 minutes, until the tomato releases its juice and the vegetables resemble a thick and chunky sauce. Add a dribble of water to keep everything loose and saucy, then toss in the shrimp. Cook, stirring occasionally, until the shrimp are pink all over. Add salt and pepper to taste.
 Once the grits are ready, take them off the heat and add the cheese and most of the scallions, then stir. Ladle the grits into bowls and top with the shrimp, vegetables, and a few more scallions."""
+serves = 4
+page = 117
+meat = false
+seafood = true
+protein = true
+grain = false
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "onion"}], [{name = "bell pepper"}], [{name = "tomato"}]]
 
 [[recipes]]
 name = "Spicy, Crunchy, Creamy Polenta"
@@ -1829,6 +1950,17 @@ ingredients = """1/2 cup polenta or cornmeal
 2 eggs
 Romano or Parmesan, freshly grated
 salt and pepper"""
+serves = 2
+page = 118
+meat = false
+seafood = false
+protein = true
+grain = true
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "spinach"}]]
 
 [[recipes]]
 name = "Roast Chicken"
@@ -1843,6 +1975,17 @@ Smash the garlic cloves with the side of your knife and slice the lemon in half.
 Place the chicken in a roasting pan or an oven-proof skillet. Let it cook for 1 hour. If you have a meat thermometer, check to make sure the chicken is at 165 °F, the temperature when chicken is completely safe to eat. But 1 hour should be long enough to fully cook it.
 Let the chicken rest for at least 10 minutes before you carve it to make sure you don't lose any of the tasty juices.
 After you've carved away all the meat, make chicken stock from the carcass. Simmer it for several hours in a pot full of water along with scrap vegetables like the ends of onions and carrots, plus a generous helping of salt."""
+serves = 6
+page = 121
+meat = true
+seafood = false
+protein = true
+grain = false
+fruit = false
+vegetables = false
+vegan = false
+category = "Meal"
+seasonables = [[{name = "meyer lemon"}]]
 
 [[recipes]]
 name = "Roasted Vegetables"
@@ -1885,6 +2028,16 @@ Dump your vegetables into a roasting pan. Drizzle everything with olive oil or m
 Pop the pan in the oven for 1 hour or longer, but check on the vegetables after 45 minutes. Test them by poking them with a knife. If it meets no resistance, they're finished; if not, let them cook longer. Don't worry: it's not much of a problem if you overcook them. Unlike vegetables overcooked through boiling or steaming, overcooked roasted vegetables may dry out a bit, but still retain their shape and flavor.
 After you pull the vegetables out of the oven, push them around with a spatula to free them from the pan. Remove any garlic cloves and smash them into a fine paste (removing the skins at this point), then put the garlic back in the pan and mix together.
 Squeeze the juice out of any lemons and discard the woody bits of any cooked herbs. Add a little more butter, a bit of favorite sauce, a little soft cheese or mayonnaise, and serve."""
+page = 122
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = false
+vegetables = true
+vegan = true
+category = "Component"
+seasonables = []
 
 [[recipes]]
 name = "Roasted Potatoes with Chilies"
@@ -1898,6 +2051,17 @@ Pour the butter over top and sprinkle liberally with salt and pepper. Potatoes n
 Roast for 1 hour, or until you can spear the potatoes easily with a fork and everything is a little crispy. Squish the garlic cloves, discard their skins, and spread the roasted garlic throughout.
 In addition to being a great side dish, this makes a delicious taco filling. At left, it's pictured on a tortilla topped with chopped tomato and queso blanco.
 Alternatively, try it alongside some black beans and rice or piled high on a plate with an egg on top."""
+serves = 4
+page = 125
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "chili pepper"}]]
 
 [[recipes]]
 name = "Spicy Broiled Tilapia with Lime"
@@ -1914,6 +2078,17 @@ Mix the spices together in a small bowl. Sprinkle them over both sides of the fi
 Lay the fish on a baking pan lined with aluminum foil.
 Broil for 4 to 7 minutes. The fish will cook very quickly, so after 4 minutes, check to see if they're done by gently inserting a butter knife into the thickest part. If it goes through easily and the fish flakes apart, you're done. If the knife meets resistance and the fish stays together, put the fillets back under the broiler for another few minutes. Once you've done this once or twice, you'll be able to tell when your fish is done at a glance.
 When the fish is done, squeeze a lime over it. Serve with rice or a favorite side dish like spicy green beans (p. 59)."""
+serves = 2
+page = 126
+meat = false
+seafood = true
+protein = true
+grain = false
+fruit = false
+vegetables = false
+vegan = false
+category = "Meal"
+seasonables = []
 
 [[recipes]]
 name = "Spicy Pulled Pork"
@@ -1940,6 +2115,17 @@ Optionally, if you want to make a sauce from the pot full of drippings, bring it
 Feel free to add a little barbecue sauce to the pork if it isn't flavorful enough for you, but try it first-I think you'll be surprised!
 There are a million ways to eat pulled pork, but I like it over squishy hamburger buns or in tacos with crunchy vegetables. Traditionally, pulled pork sandwiches have cabbage slaw on them, but anything crunchy will do. (A diner near my apartment does a great slaw with apple and celery root.)
 Don't forget some veggies on the side to round out the meal-a simple green salad, corn on the cob, steamed green beans, or any other summery vegetable."""
+serves = 10
+page = 129
+meat = true
+seafood = false
+protein = true
+grain = false
+fruit = false
+vegetables = false
+vegan = false
+category = "Meal"
+seasonables = [[{name = "onion"}]]
 
 [[recipes]]
 name = "Classic Deviled Eggs"
@@ -1968,6 +2154,16 @@ Slice each egg in half lengthwise. Pop the yolks out and put them in a medium bo
 Sprinkle the yolks with salt and pepper, then add other ingredients of your choice to the bowl. Mash with a fork and mix until it becomes a relatively smooth paste.
 Arrange the whites on a plate and spoon the yolk mixture back into each hole. Pile the filling high! Alternatively, scoop the filling into a plastic sandwich bag. Cut off the corner of the sandwich bag and squeeze the yolk mixture into the whites.
 Sprinkle with the scallions and some paprika for color. Have a great party!"""
+page = 130
+meat = false
+seafood = false
+protein = true
+grain = false
+fruit = false
+vegetables = false
+vegan = false
+category = "Snack"
+seasonables = []
 
 [[recipes]]
 name = "Chili and Lime Deviled Eggs"
@@ -1987,6 +2183,16 @@ Slice each egg in half lengthwise. Pop the yolks out and put them in a medium bo
 Sprinkle the yolks with salt and pepper, then add other ingredients of your choice to the bowl. Mash with a fork and mix until it becomes a relatively smooth paste.
 Arrange the whites on a plate and spoon the yolk mixture back into each hole. Pile the filling high! Alternatively, scoop the filling into a plastic sandwich bag. Cut off the corner of the sandwich bag and squeeze the yolk mixture into the whites.
 Sprinkle with the scallions and some paprika for color. Have a great party!"""
+page = 130
+meat = false
+seafood = false
+protein = true
+grain = false
+fruit = false
+vegetables = false
+vegan = false
+category = "Snack"
+seasonables = [[{name = "chili pepper"}]]
 
 [[recipes]]
 name = "Curried Deviled Eggs"
@@ -2006,6 +2212,16 @@ Slice each egg in half lengthwise. Pop the yolks out and put them in a medium bo
 Sprinkle the yolks with salt and pepper, then add other ingredients of your choice to the bowl. Mash with a fork and mix until it becomes a relatively smooth paste.
 Arrange the whites on a plate and spoon the yolk mixture back into each hole. Pile the filling high! Alternatively, scoop the filling into a plastic sandwich bag. Cut off the corner of the sandwich bag and squeeze the yolk mixture into the whites.
 Sprinkle with the scallions and some paprika for color. Have a great party!"""
+page = 130
+meat = false
+seafood = false
+protein = true
+grain = false
+fruit = false
+vegetables = false
+vegan = false
+category = "Snack"
+seasonables = []
 
 [[recipes]]
 name = "Ramen-Inspired Deviled Eggs"
@@ -2026,6 +2242,16 @@ Slice each egg in half lengthwise. Pop the yolks out and put them in a medium bo
 Sprinkle the yolks with salt and pepper, then add other ingredients of your choice to the bowl. Mash with a fork and mix until it becomes a relatively smooth paste.
 Arrange the whites on a plate and spoon the yolk mixture back into each hole. Pile the filling high! Alternatively, scoop the filling into a plastic sandwich bag. Cut off the corner of the sandwich bag and squeeze the yolk mixture into the whites.
 Sprinkle with the scallions and some paprika for color. Have a great party!"""
+page = 130
+meat = false
+seafood = false
+protein = true
+grain = false
+fruit = false
+vegetables = false
+vegan = false
+category = "Snack"
+seasonables = []
 
 [[recipes]]
 name = "Tomato Deviled Eggs"
@@ -2044,6 +2270,16 @@ Slice each egg in half lengthwise. Pop the yolks out and put them in a medium bo
 Sprinkle the yolks with salt and pepper, then add other ingredients of your choice to the bowl. Mash with a fork and mix until it becomes a relatively smooth paste.
 Arrange the whites on a plate and spoon the yolk mixture back into each hole. Pile the filling high! Alternatively, scoop the filling into a plastic sandwich bag. Cut off the corner of the sandwich bag and squeeze the yolk mixture into the whites.
 Sprinkle with the scallions and some paprika for color. Have a great party!"""
+page = 130
+meat = false
+seafood = false
+protein = true
+grain = false
+fruit = false
+vegetables = false
+vegan = false
+category = "Snack"
+seasonables = [[{name = "tomato"}]]
 
 [[recipes]]
 name = "Chorizo Deviled Eggs"
@@ -2063,6 +2299,16 @@ Slice each egg in half lengthwise. Pop the yolks out and put them in a medium bo
 Sprinkle the yolks with salt and pepper, then add other ingredients of your choice to the bowl. Mash with a fork and mix until it becomes a relatively smooth paste.
 Arrange the whites on a plate and spoon the yolk mixture back into each hole. Pile the filling high! Alternatively, scoop the filling into a plastic sandwich bag. Cut off the corner of the sandwich bag and squeeze the yolk mixture into the whites.
 Sprinkle with the scallions and some paprika for color. Have a great party!"""
+page = 130
+meat = true
+seafood = false
+protein = true
+grain = false
+fruit = false
+vegetables = false
+vegan = false
+category = "Snack"
+seasonables = []
 
 [[recipes]]
 name = "Perogies"
@@ -2096,6 +2342,16 @@ additions:
 to serve:
 sour cream
 scallions, chopped"""
+page = 132
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = []
 
 [[recipes]]
 name = "Dumplings"
@@ -2136,6 +2392,16 @@ veggie filling:
 additions:
 ginger root, grated
 garlic"""
+page = 134
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = []
 
 [[recipes]]
 name = "Flour Tortillas"
@@ -2150,6 +2416,16 @@ Roll the dough into 24 small balls. Keep them covered with the towel.
 Lightly flour your countertop. Gently flatten one dough ball with your palm, then roll it out with a rolling pin. Flip it over to make sure it doesn't stick to the counter; add more flour if it does stick. Once you have the ball rolled out nice and thin, set it aside under a moist towel.
 Once you've rolled out one or two tortillas, put a non-stick or cast- iron pan on medium-high heat. Let it get nice and hot. Place a tortilla in the pan. Once it starts to dry up around the edges, flip it over with a spatula, then gently press it down to give it some color underneath. Once the tortilla has brown spots on both sides, remove it from the pan and continue with the next. Work quickly! As you wait for each tortilla to cook, roll out more. You'll get better at this part with practice.
 If you're serving the tortillas soon, place them in a warm oven to keep them pliable. If they're for later in the day, pile them under a cloth while you finish making them. Once you're done, wrap them in aluminum foil and put them in the fridge. Heat in the oven before serving."""
+page = 137
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = false
+vegan = true
+category = "component"
+seasonables = []
 
 [[recipes]]
 name = "Roti"
@@ -2162,6 +2438,16 @@ Sprinkle a countertop with flour and place one piece of dough in the middle. Cov
 Place a non-stick skillet on medium heat. Once the pan is hot, add the roti and cook until the dough lifts away from the pan around the edges and small bubbles form. Flip the bread over and cook the other side. Usually it goes very quickly. You want to see light-brown bubbles all over the dough. Don't let it get too dark, though, as this will make the roti too crunchy to use for rolls. Repeat this process until you're finished with the dough.
 Once you have practiced, you can roll out one roti while another cooks in the pan to make the process quicker.
 Keep them under a towel on the counter or in a warm oven until ready to serve."""
+page = 138
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = false
+vegan = true
+category = "Component"
+seasonables = []
 
 [[recipes]]
 name = "Pizza Dough"
@@ -2183,6 +2469,16 @@ Use the same process as at the fast method, but add only 1/2 teaspoon of yeast t
 After you place the dough ball in a bowl and cover it, put it into the fridge overnight.
 Letting the yeast work overnight creates a better flavor; it also makes the dough more elastic and easier to work with.
 The next day, 2 to 3 hours before you want to bake your pizzas, remove the dough from the fridge to return to room temperature."""
+page = 139
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = false
+vegan = true
+category = "Component"
+seasonables = []
 
 [[recipes]]
 name = "Fresh Pasta"
@@ -2198,6 +2494,17 @@ By the time the pasta is rolled out, it should be dry enough to avoid sticking t
 Slice into whatever size of noodles you like. It's easy to make the noodles a consistent size if you fold the dough over itself a few times first. Shake the cut noodles on a tray with a bit of flour to keep them from sticking.
 Boil in heavily salted water. Fresh pasta cooks in as little as 30 seconds if the noodles are thin. It's ready when it changes color and starts to float.
 You can keep uncooked pasta for up to 2 days in the fridge."""
+serves = 1
+page = 141
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = false
+vegan = false
+category = "Meal"
+seasonables = []
 
 [[recipes]]
 name = "Best Tomato Sauce"
@@ -2209,6 +2516,16 @@ ingredients = """1 tbsp olive oil
 salt and pepper"""
 text = """Add the olive oil to a saucepan on medium heat. Sauté the garlic for 1 minute, until it smells great and becomes translucent. Add the chili flakes and cook for 30 seconds. Add the can of tomatoes, mix, and cook until warmed through. Add a little lemon zest, then salt and pepper to taste. Since canned tomatoes are often already salted, you may not need to add any.
 If you want a thicker sauce that will stick to pasta better, cook for 10 to 20 minutes to evaporate more of the liquid. Use immediately or keep in a jar in the fridge for later use."""
+page = 142
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = false
+vegetables = true
+vegan = true
+category = "Component"
+seasonables = [[{name = "tomato"}]]
 
 [[recipes]]
 name = "Chorizo and White Bean Ragu"
@@ -2222,6 +2539,17 @@ ingredients = """1 tbsp butter or vegetable oil
 salt and pepper"""
 text = """Melt the butter in a pan over medium heat and swirl it to coat the pan. Add the chopped onion and cook until it turns translucent. Toss in the garlic, jalapeño, and fresh chorizo (or any other kind of fresh sausage), then sauté for about a minute. Add the tomatoes and beans, then simmer until the sauce is thick and the sausage is cooked, about 5 minutes on medium heat. Taste and add salt and pepper as needed.
 Because this sauce contains meat, it won't keep especially long in the fridge, but you can freeze it for later use if you don't plan to eat it all within a few days."""
+serves = 4
+page = 143
+meat = true
+seafood = false
+protein = true
+grain = false
+fruit = false
+vegetables = true
+vegan = false
+category = "Component"
+seasonables = [[{name = "onion"}], [{name = "tomato"}]]
 
 [[recipes]]
 name = "Rice"
@@ -2229,6 +2557,16 @@ ingredients = """1 cup rice
 2 cups water
 salt"""
 text = """Pour 2 cups of water into a pot with 1 cup of uncooked rice and two pinches of salt. That'll be enough for two generous portions, or three or four smaller servings. With the lid off, bring to a low boil over medium heat, then turn the heat down to low and put the lid on slightly askew, so that the steam can escape. Cook for about 20 minutes, until the water is all gone."""
+page = 144
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = false
+vegan = true
+category = "Meal"
+seasonables = []
 
 [[recipes]]
 name = "Red Rice"
@@ -2237,7 +2575,16 @@ ingredients = """1 cup rice
 salt
 1 cup canned tomatoes, puréed"""
 text = """Stir the tomatoes with 1 1/2 cups of water, then pour it into a pot with 1 cup of uncooked rice and two pinches of salt. With the lid off, bring to a low boil over medium heat, then turn the heat down to low and put the lid on slightly askew, so that the steam can escape. Cook for about 20 minutes, until the water is all gone."""
-
+page = 144
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = true
+vegan = true
+category = "Meal"
+seasonables = [[{name = "tomato"}]]
 
 [[recipes]]
 name = "Orange Rice"
@@ -2246,6 +2593,16 @@ ingredients = """1 cup rice
 salt
 1 cup canned winter squash, pumpkin, or sweet potato, puréed"""
 text = """Stir the squash, pumpkin, or sweet potato with 1 1/2 cups of water, then pour it into a pot with 1 cup of uncooked rice and two pinches of salt. (You can also use frozen, boiled, or sautéed squash.) With the lid off, bring to a low boil over medium heat, then turn the heat down to low and put the lid on slightly askew, so that the steam can escape. Cook for about 20 minutes, until the water is all gone."""
+page = 144
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = true
+vegan = true
+category = "Meal"
+seasonables = [[{name = "winter squash"}, {name = "pumpkin"}, {name = "sweet potato"}]]
 
 [[recipes]]
 name = "Green Rice"
@@ -2254,6 +2611,16 @@ ingredients = """1 cup rice
 salt
 1 cup frozen spinach, beet greens, chard, or fresh parsley"""
 text="""Chop up the spinach as much as you like. The more finely chopped, the more it will disperse into the rice. Pour 2 cups of water into a pot with 1 cup of uncooked rice and two pinches of salt. With the lid off, bring to a low boil over medium heat, then turn the heat down to low and put the lid on slightly askew, so that the steam can escape. Cook for about 15 minutes, until most of the water is gone but not quite all. Mix the spinach into the rice. Cook with the lid off for the last 5 minutes. Adding the spinach at the end keeps it lush and bright, rather than the sad color of overcooked spinach."""
+page = 144
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = true
+vegan = true
+category = "Meal"
+seasonables = [[{name = "spinach"}, {name = "beet"}, {name = "chard"}, {name = "parsley"}]]
 
 [[recipes]]
 name = "Dried Beans"
@@ -2274,6 +2641,16 @@ onion
 garlic
 chilies
 ginger root"""
+page = 145
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = false
+vegetables = true
+vegan = true
+category = "Component"
+seasonables = []
 
 [[recipes]]
 name = "Croutons or Breadcrumbs"
@@ -2285,6 +2662,16 @@ Choose a sufficiently large pan for the quantity of bread cubes or crumbs-or wor
 Let the butter melt or the oil get hot. Add the bread and toss gently until coated. Let the bread sit for 2 minutes, then flip the pieces over. Keep tossing and turning until the bread is brown all over. Add oil or butter as needed and sprinkle with salt and pepper. It is basically impossible, unless you are very patient (which I am not) to get every side of the cubes browned, so just get them generally looking good and toasty and then take them off the heat.
 For breadcrumbs, if you like, you can go oil-free: just toast whole slices and then crush it into small pieces.
 Use the breadcrumbs or croutons immediately, or place them in a sealed container after letting them cooling off. Later, use them in salads or anything you want to add crunch to."""
+page = 147
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = false
+vegan = true
+category = "Component"
+seasonables = []
 
 [[recipes]]
 name = "Agua Fresca"
@@ -2313,12 +2700,34 @@ text="""For a very lightly flavored agua fresca, just mix the water and fruit to
 I usually run my agua fresca through the blender, however. If you want the drink to be clear, strain the pulpy leftovers of the fruit after blending. If you're using blueberries or oranges or other fruit with a skin, you'll almost certainly want to strain it.
 For some fruits, you can also choose to leave the pulp: it's particularly great when making a melon agua fresca since it mostly disappears.
 Serve over ice. Try some of the variations I've suggested or whatever fruits you like!"""
+serves = 5
+page = 149
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = true
+vegetables = false
+vegan = true
+category = "Drink"
+seasonables = []
 
 [[recipes]]
 name = "Drinkable Yogurt"
 text="""If you like the grocery store's yogurt drinks, try making these at home for less! You don't even need to blend them-just add the juice and yogurt to a jar, then shake."""
 ingredients = """1/2 cup plain yogurt
 1/2 cup fruit juice"""
+serves = 2
+page = 150
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = true
+vegetables = false
+vegan = false
+category = "Drink"
+seasonables = []
 
 [[recipes]]
 name = "Melon Smoothie"
@@ -2326,6 +2735,17 @@ text="""When you buy a melon, dice and freeze whatever you don't eat. Pull it ou
 ingredients = """1 cup frozen melon
 1/2 cup water or juice
 1 tsp vanilla"""
+serves = 2
+page = 150
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = true
+vegetables = false
+vegan = true
+category = "Drink"
+seasonables = [[{name = "melon"}]]
 
 [[recipes]]
 name = "Berry Smoothie"
@@ -2333,6 +2753,17 @@ text="""Blend until smooth, then adjust with more berries or milk to your taste.
 ingredients = """1/2 cup yogurt
 1 cup frozen berries
 milk or juice to thin as needed"""
+serves = 2
+page = 150
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = true
+vegetables = false
+vegan = false
+category = "Drink"
+seasonables = [[{name = "berry"}]]
 
 [[recipes]]
 name = "Mango Lassi"
@@ -2340,6 +2771,17 @@ text="""Blend the mango and yogurt together. If it's too thick to drink with a s
 ingredients = """1 mango, diced
 1 cup yogurt
 milk to thin as needed"""
+serves = 2
+page = 150
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = false
+vegetables = false
+vegan = false
+category = "Drink"
+seasonables = [[{name = "mango"}]]
 
 [[recipes]]
 name = "Caramelized Bananas"
@@ -2348,6 +2790,17 @@ ingredients = """2 bananas, peeled and split in half
 2 tbsp brown sugar"""
 text="""Melt the butter in a non-stick or cast- iron pan on medium-high heat. Add the sugar and let it melt into the butter for about 2 minutes. Place the bananas face down in the butter-sugar mixture, then cook for 2 minutes or until they become brown and sticky. Carefully flip them over and do the same to the other side.
 Serve them whole or split them into quarters. Drizzle any caramel left in the pan over the bananas. Serve with ice cream or on their own."""
+serves = 2
+page = 153
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = true
+vegetables = false
+vegan = false
+category = "Dessert"
+seasonables = [[{name = "banana"}]]
 
 [[recipes]]
 name = "Coconut Chocolate Cookies"
@@ -2370,6 +2823,16 @@ ingredients = """2/3 cup shaved, unsweetened coconut, toasted
 1 1/2 cups dark brown sugar
 2 eggs
 2 tsp vanilla"""
+page = 155
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = false
+vegetables = false
+vegan = false
+category = "Dessert"
+seasonables = []
 
 [[recipes]]
 name = "Peach Coffee Cake"
@@ -2391,6 +2854,17 @@ ingredients = """6 peaches, pitted and cut into 8 slices each
 1/8 tsp salt
 2 large eggs
 1 tsp vanilla"""
+serves = 12
+page = 156
+meat = false
+seafood = false
+protein = false
+grain = true
+fruit = true
+vegetables = false
+vegan = false
+category = "Meal"
+seasonables = [[{name = "peach"}], [{name = "meyer lemon"}]]
 
 [[recipes]]
 name = "Fast Melon Sorbet"
@@ -2400,6 +2874,17 @@ ingredients = """2 cups frozen melon
 1 tsp vanilla or lime juice (optional)"""
 text="""When you see lovely watermelons, honeydews, and cantaloupes on sale, buy them up. Eat half, then cube and freeze the other half. When you want a quick dessert or smoothie, pull out a bag of frozen melon and whip this up.
 Add all the ingredients to a food processor or blender until just smooth. Don't blend too much, or the sorbet will become oversoft. Serve immediately or stick it into the freezer to enjoy later."""
+serves = 4
+page = 158
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = true
+vegetables = false
+vegan = false
+category = "Dessert"
+seasonables = [[{name = "melon"}]]
 
 [[recipes]]
 name = "Avocado Milkshake"
@@ -2411,6 +2896,17 @@ ingredients = """1 avocado
 2 tbsp sugar"""
 text="""Toss all the ingredients in a blender and whizz them up! Let it go for a while because the avocados need to break down and blend with the milk. Once the liquid is Kermit the Frog green, it's ready. Taste it and add more sugar or lime juice as needed.
 These shakes are even better if you use "coconut milk beverage," almond milk, or rice milk instead of regular milk. Each adds a little of its own flavor to the drink."""
+serves = 2
+page = 159
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = false
+vegetables = true
+vegan = false
+category = "Meal"
+seasonables = [[{name = "avocado"}]]
 
 [[recipes]]
 name = "Peanut Sauce"
@@ -2427,6 +2923,16 @@ cooking oil
 text="""Finely chop the pepper, garlic, and shallot, or use a food processor to make them into a paste. (If you're using chili paste instead of a fresh pepper, hold off on it for now.)
 Splash some oil in a saucepan on medium heat. Once it's warm, add the chili, garlic, and shallot and sauté until everything's translucent. Add the turmeric, coconut milk, and chili paste if applicable.
 If you have a great sauce or a few spices in your kitchen, you'll never have to tolerate bland food. Most of these recipes require surprisingly little effort and time, pack a ton of flavor, and can be stored for use in any dish you choose. Let it come to a boil, then turn the heat down. Add the peanut butter and soy sauce and stir to combine. Once it's all combined, taste it and add whatever you think it needs - but think about the salt and spice in particular."""
+page = 161
+meat = false
+seafood = false
+protein = true
+grain = false
+fruit = false
+vegetables = true
+vegan = true
+category = "Component"
+seasonables = [[{name = "chili pepper"}]]
 
 [[recipes]]
 name = "Spice Oil"
@@ -2442,6 +2948,16 @@ Warm the mixture over low heat for about 10 minutes, until it starts to bubble g
 Remove the pot from the stovetop and put it in the fridge with a lid. Let the spices infuse for 4 to 8 hours.
 Taste the oil. If it isn't strongly spicy, let it infuse for a few more hours. Once it's ready, strain through a sieve to remove the spices.
 Store in a jar in the fridge for up to a week."""
+page = 162
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = false
+vegetables = true
+vegan = true
+category = "Component"
+seasonables = []
 
 [[recipes]]
 name = "Salsa"
@@ -2462,6 +2978,16 @@ If you like raw onion, go right ahead. Otherwise, take the edge off by sautéing
 Mix the onion, tomato, and the rest of the ingredients in a bowl. Be sure to add enough salt and pepper!
 Taste the salsa. You're looking for a balance of spicy from the peppers, sweet from the tomatoes, and bright and fresh from the herbs and lime juice. If something's out of balance, add the appropriate ingredient to bring it back into balance.
 Store in an air-tight container in the fridge. Fresh salsa won't last as long as store-bought salsa because it doesn't have any preservatives, but it's so tasty that I'm sure you'll finish it fast!"""
+page = 163
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = false
+vegetables = true
+vegan = true
+category = "Component"
+seasonables = [[{name = "onion"}], [{name = "tomato"}], [{name = "chili pepper"}], [{name = "cilantro"}]]
 
 [[recipes]]
 name = "Raita"
@@ -2481,6 +3007,16 @@ additions:
 cooked spinach"""
 text="""This recipe is extremely loose. Basically, just stir some of your favorite chopped vegetables into yogurt and add salt and pepper. Use this as a stepping stone to develop your own.
 After you stir all the ingredients together, store the raita in a covered container in the fridge until you're ready to use it."""
+page = 164
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = false
+vegetables = true
+vegan = false
+category = "Component"
+seasonables = [[{name = "onion"}], [{name = "tomato"}], [{name = "cucumber"}], [{name = "cilantro"}]]
 
 [[recipes]]
 name = "Tzatziki"
@@ -2495,3 +3031,13 @@ Grate the cucumber and place it in a sieve over a large bowl. Salt the cucumber 
 Line another sieve (or the same one, cleaned) with paper towel or cheesecloth and pour the yogurt into it. You can leave it for as little as 1 hour on the counter or overnight in the fridge. The longer you leave it, the thicker it will get. This is how Greek yogurt is made!
 Mix the strained cucumber with the yogurt and the other ingredients, then taste. Adjust the salt and pepper and add any more dill or onion.
 Enjoy on sandwiches, as a dip, with pita or tortilla chips, or over meatballs, kebabs or anything spicy."""
+page = 165
+meat = false
+seafood = false
+protein = false
+grain = false
+fruit = false
+vegetables = true
+vegan = false
+category = "Component"
+seasonables = [[{name = "cucumber"}]]

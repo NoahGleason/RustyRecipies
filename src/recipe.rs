@@ -6,7 +6,7 @@ use serde::export::Formatter;
 
 use crate::recipe::Month::*;
 
-const SEASON_TABLE: [(&'static str, [bool; 12]); 91] = [
+const SEASON_TABLE: [(&'static str, [bool; 12]); 92] = [
     ("apple", [false, false, false, false, false, false, false, true, true, true, true, false]),
     ("apricot", [false, false, false, false, true, true, true, false, false, false, false, false]),
     ("artichoke", [false, false, true, true, true, true, false, false, false, true, true, false]),
@@ -53,6 +53,7 @@ const SEASON_TABLE: [(&'static str, [bool; 12]); 91] = [
     ("kumquat", [true, true, true, true, true, true, false, false, false, false, false, false]),
     ("lima bean", [false, false, false, false, false, false, false, false, false, true, true, false]),
     ("mandarin", [true, true, true, false, false, false, false, false, false, false, true, true]),
+    ("mango", [false,false,false,false,false,false,false,true,true,false,false,false]),
     ("melon", [false, false, false, false, false, false, true, true, true, false, false, false]),
     ("meyer lemon", [true, true, true, true, false, false, false, false, false, false, false, false]),
     ("mint", [false, false, false, false, true, true, true, true, true, true, false, false]),
