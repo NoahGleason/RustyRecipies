@@ -99,7 +99,7 @@ fruit = true
 vegetables = false
 vegan = false
 category = "Meal"
-seasonables = [[{name = "banana"}]]
+seasonables = []
 
 [[recipes]]
 name = "Chocolate Zucchini Muffins"
@@ -537,7 +537,7 @@ fruit = false
 vegetables = true
 vegan = true
 category = "Meal"
-seasonables = [[{name = "eggplant"}], [{name = "meyer lemon"}]]
+seasonables = [[{name = "eggplant"}]]
 
 [[recipes]]
 name = "Kale Salad"
@@ -571,7 +571,7 @@ fruit = false
 vegetables = true
 vegan = false
 category = "Meal"
-seasonables = [[{name = "kale"}], [{name = "meyer lemon"}]]
+seasonables = [[{name = "kale"}]]
 
 [[recipes]]
 name = "Ever-Popular Potato Salad"
@@ -986,7 +986,7 @@ fruit = false
 vegetables = true
 vegan = false
 category = "Side"
-seasonables = [[{name = "meyer lemon"}, {name = "brussels sprout"}]]
+seasonables = [[{name = "brussels sprout"}]]
 
 [[recipes]]
 name = "Poutine"
@@ -1067,7 +1067,7 @@ fruit = false
 vegetables = true
 vegan = false
 category = "Meal"
-seasonables = [[{name = "meyer lemon"}], [{name = "green pea"}]]
+seasonables = [[{name = "green pea"}]]
 
 [[recipes]]
 name = "Asian Greens Gra Prow Toast"
@@ -1403,7 +1403,7 @@ fruit = false
 vegetables = true
 vegan = false
 category = "Meal"
-seasonables = [[{name = "zucchini"}], [{name = "meyer lemon"}]]
+seasonables = [[{name = "zucchini"}]]
 
 [[recipes]]
 name = "Pasta with Eggplant and Tomato"
@@ -1826,7 +1826,7 @@ fruit = false
 vegetables = true
 vegan = false
 category = "Meal"
-seasonables = [[{name = "zucchini"}, {name = "summer squash"}], [{name = "tomato"}], [{name = "meyer lemon"}]]
+seasonables = [[{name = "zucchini"}, {name = "summer squash"}], [{name = "tomato"}]]
 
 [[recipes]]
 name = "Cauliflower Cheese"
@@ -1985,7 +1985,7 @@ fruit = false
 vegetables = false
 vegan = false
 category = "Meal"
-seasonables = [[{name = "meyer lemon"}]]
+seasonables = []
 
 [[recipes]]
 name = "Roasted Vegetables"
@@ -2800,7 +2800,7 @@ fruit = true
 vegetables = false
 vegan = false
 category = "Dessert"
-seasonables = [[{name = "banana"}]]
+seasonables = []
 
 [[recipes]]
 name = "Coconut Chocolate Cookies"
@@ -2864,7 +2864,7 @@ fruit = true
 vegetables = false
 vegan = false
 category = "Meal"
-seasonables = [[{name = "peach"}], [{name = "meyer lemon"}]]
+seasonables = [[{name = "peach"}]]
 
 [[recipes]]
 name = "Fast Melon Sorbet"

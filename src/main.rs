@@ -1,10 +1,10 @@
 mod recipe;
-use recipe::Recipe;
 use std::path::Path;
 use std::fs::File;
 use std::error::Error;
 use std::io::Read;
 use crate::recipe::{RecipeBook, Month};
+use std::cmp;
 
 fn main(){
     let path = Path::new("goodCheapEats.recipe");
@@ -25,6 +25,15 @@ fn main(){
     }
 
     let tsr = RecipeBook::deserialize(s.as_str());
-    println!("{}", tsr.recipes[0]);
-    println!("Seasonable %: {}", tsr.recipes[0].seasonable_percent(&Month::December))
+    for rcp in tsr.recipes {
+        let mut max_seasonable : f64 = 0.0;
+        for i in 0..12 {
+            max_seasonable = max_seasonable.max(rcp.seasonable_percent(i))
+        }
+        if max_seasonable < 1.0 {
+            println!("{} only has {}% of its ingredients in season at a time", rcp.name, max_seasonable*100.0)
+        }
+    }
+//    println!("{}", tsr.recipes[0]);
+//    println!("Seasonable %: {}", tsr.recipes[0].seasonable_percent(&Month::December))
 }

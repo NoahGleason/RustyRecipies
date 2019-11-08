@@ -153,17 +153,16 @@ struct SeasonableIngredient {
 }
 
 trait Seasonable {
-    fn in_season(&self, date: &Month) -> bool;
+    fn in_season(&self, date: usize) -> bool;
 }
 
 impl Seasonable for SeasonableIngredient {
-    fn in_season(&self, date: &Month) -> bool {
+    fn in_season(&self, date: usize) -> bool {
         //TODO replace with binary search
         for i in SEASON_TABLE.iter() {
-            if let (name, table) = i {
-                if name == &self.name.as_str() {
-                    return table[date.value()]
-                }
+            let (name, table) = i;
+            if name == &self.name.as_str() {
+                return table[date]
             }
         }
         panic!("Unknown seasonable ingredient {}", self.name)
@@ -171,7 +170,7 @@ impl Seasonable for SeasonableIngredient {
 }
 
 impl Seasonable for Vec<SeasonableIngredient> {
-    fn in_season(&self, date: &Month) -> bool {
+    fn in_season(&self, date: usize) -> bool {
         self.iter().map(|n| n.in_season(date)).max().unwrap()
     }
 }
@@ -206,7 +205,10 @@ impl Recipe {
         toml::from_str(recipe).unwrap()
     }
 
-    pub fn seasonable_percent(&self, date: &Month) -> f64 {
+    pub fn seasonable_percent(&self, date: usize) -> f64 {
+        if self.seasonables.len() == 0{
+            return 1.0;
+        }
         let num_seasonable : f64 = self.seasonables.iter().map(|n| n.in_season(date)).filter(|n| *n).count() as f64;
         num_seasonable/ self.seasonables.len() as f64
     }
