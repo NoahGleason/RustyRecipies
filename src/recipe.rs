@@ -1,10 +1,6 @@
-use std::collections::HashMap;
-
 use serde::Deserialize;
 use serde::export::fmt::Error;
 use serde::export::Formatter;
-
-use crate::recipe::Month::*;
 
 const SEASON_TABLE: [(&'static str, [bool; 12]); 92] = [
     ("apple", [false, false, false, false, false, false, false, true, true, true, true, false]),
@@ -101,43 +97,8 @@ const SEASON_TABLE: [(&'static str, [bool; 12]); 92] = [
     ("zucchini", [false, false, false, false, false, false, true, true, true, false, false, false]),
 ];
 
-#[derive(Ord, Hash, PartialOrd, Eq, PartialEq)]
-pub enum Month {
-    January,
-    February,
-    March,
-    April,
-    May,
-    June,
-    July,
-    August,
-    September,
-    October,
-    November,
-    December,
-}
-
-impl Month {
-    fn value(&self) -> usize {
-        match self {
-            January => 0,
-            February => 1,
-            March => 2,
-            April => 3,
-            May => 4,
-            June => 5,
-            July => 6,
-            August => 7,
-            September => 8,
-            October => 9,
-            November => 10,
-            December => 11
-        }
-    }
-}
-
-#[derive(Deserialize, Debug)]
-enum RecipeType {
+#[derive(Deserialize, Debug, PartialEq)]
+pub enum RecipeType {
     Meal,
     Dessert,
     Side,
@@ -181,7 +142,7 @@ pub struct Recipe {
     pub text: String,
     pub ingredients: String,
     page: u8,
-    meat: bool,
+    pub meat: bool,
     seafood: bool,
     protein: bool,
     grain: bool,
@@ -189,8 +150,9 @@ pub struct Recipe {
     vegetables: bool,
     vegan: bool,
     serves: Option<u8>,
-    category: RecipeType,
+    pub category: RecipeType,
     seasonables: Vec<Vec<SeasonableIngredient>>,
+    max_seasonable_percent: Option<f64>
 }
 
 #[derive(Deserialize, Debug)]
@@ -201,16 +163,23 @@ pub struct RecipeBook {
 }
 
 impl Recipe {
-    pub fn deserialize(recipe: &str) -> Recipe {
-        toml::from_str(recipe).unwrap()
-    }
-
     pub fn seasonable_percent(&self, date: usize) -> f64 {
         if self.seasonables.len() == 0{
             return 1.0;
         }
         let num_seasonable : f64 = self.seasonables.iter().map(|n| n.in_season(date)).filter(|n| *n).count() as f64;
         num_seasonable/ self.seasonables.len() as f64
+    }
+
+    pub fn max_seasonable_percent(&mut self) -> f64 {
+        if self.max_seasonable_percent.is_none() {
+            let mut max_seasonable : f64 = 0.0;
+            for i in 0..12 {
+                max_seasonable = max_seasonable.max(self.seasonable_percent(i));
+            }
+            self.max_seasonable_percent = Some(max_seasonable);
+        }
+        self.max_seasonable_percent.unwrap()
     }
 }
 
