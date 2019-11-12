@@ -50,23 +50,27 @@ fn main(){
     let _ = std::io::stdin().read_line(&mut num_input);
     let num_meals : i32 = num_input.trim().parse().unwrap();
     let mut recipe_to_weight_map : Vec<(Recipe, f64)> = vec![];
-    for mut recipe in tsr.recipes {
-        if recipe.category == Meal && recipe.seasonable_percent(month) >= recipe.max_seasonable_percent() && recipe.meat == false {
-            let mut months_in_season = 0;
-            for i in 0..12 {
-                if recipe.seasonable_percent(i) >= recipe.max_seasonable_percent() {
-                    months_in_season += 1;
-                }
+    for recipe in tsr.filter(Some(month), Some(false), None, None, None, None, None, None, Some(Meal)) {
+        let mut months_in_season = 0;
+        for i in 0..12 {
+            if recipe.seasonable_percent(i) >= recipe.max_seasonable_percent() {
+                months_in_season += 1;
             }
-            recipe_to_weight_map.push((recipe, 1.0 / (months_in_season as f64)));
         }
+        recipe_to_weight_map.push((recipe, 1.0 / (months_in_season as f64)));
     }
 
     let mut rng = thread_rng();
     let dist = WeightedIndex::new(recipe_to_weight_map.iter().map(|item| item.1).collect()).unwrap();
-    for i in 0..num_meals {
-        // 0% chance to print 'a', 30% chance to print 'b', 70% chance to print 'c'
-        println!("Meal #{}:\n{}\n\n", i + 1, recipe_to_weight_map[dist.sample(&mut rng)].0);
+    let mut already_selected : Vec<&Recipe> = vec![];
+    let mut i = 0;
+    while i < num_meals {
+        let selected = &recipe_to_weight_map[dist.sample(&mut rng)].0;
+        if !already_selected.contains(&selected) || already_selected.len() == recipe_to_weight_map.len(){
+            already_selected.push(selected);
+            i += 1;
+            println!("Meal #{}:\n{}\n\n", i, selected);
+        }
     }
 
 //    for mut rcp in tsr.recipes {

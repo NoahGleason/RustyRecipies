@@ -49,7 +49,7 @@ const SEASON_TABLE: [(&'static str, [bool; 12]); 92] = [
     ("kumquat", [true, true, true, true, true, true, false, false, false, false, false, false]),
     ("lima bean", [false, false, false, false, false, false, false, false, false, true, true, false]),
     ("mandarin", [true, true, true, false, false, false, false, false, false, false, true, true]),
-    ("mango", [false,false,false,false,false,false,false,true,true,false,false,false]),
+    ("mango", [false, false, false, false, false, false, false, true, true, false, false, false]),
     ("melon", [false, false, false, false, false, false, true, true, true, false, false, false]),
     ("meyer lemon", [true, true, true, true, false, false, false, false, false, false, false, false]),
     ("mint", [false, false, false, false, true, true, true, true, true, true, false, false]),
@@ -105,10 +105,10 @@ pub enum RecipeType {
     Snack,
     Bread,
     Component,
-    Drink
+    Drink,
 }
 
-#[derive(Deserialize, Debug)]
+#[derive(Deserialize, Debug, PartialEq)]
 struct SeasonableIngredient {
     name: String
 }
@@ -123,7 +123,7 @@ impl Seasonable for SeasonableIngredient {
         for i in SEASON_TABLE.iter() {
             let (name, table) = i;
             if name == &self.name.as_str() {
-                return table[date]
+                return table[date];
             }
         }
         panic!("Unknown seasonable ingredient {}", self.name)
@@ -136,7 +136,7 @@ impl Seasonable for Vec<SeasonableIngredient> {
     }
 }
 
-#[derive(Deserialize, Debug)]
+#[derive(Deserialize, Debug, PartialEq)]
 pub struct Recipe {
     pub name: String,
     pub text: String,
@@ -152,7 +152,7 @@ pub struct Recipe {
     serves: Option<u8>,
     pub category: RecipeType,
     seasonables: Vec<Vec<SeasonableIngredient>>,
-    max_seasonable_percent: Option<f64>
+    max_seasonable_percent: Option<f64>,
 }
 
 #[derive(Deserialize, Debug)]
@@ -164,28 +164,46 @@ pub struct RecipeBook {
 
 impl Recipe {
     pub fn seasonable_percent(&self, date: usize) -> f64 {
-        if self.seasonables.len() == 0{
+        if self.seasonables.len() == 0 {
             return 1.0;
         }
-        let num_seasonable : f64 = self.seasonables.iter().map(|n| n.in_season(date)).filter(|n| *n).count() as f64;
-        num_seasonable/ self.seasonables.len() as f64
+        let num_seasonable: f64 = self.seasonables.iter().map(|n| n.in_season(date)).filter(|n| *n).count() as f64;
+        num_seasonable / self.seasonables.len() as f64
     }
 
-    pub fn max_seasonable_percent(&mut self) -> f64 {
-        if self.max_seasonable_percent.is_none() {
-            let mut max_seasonable : f64 = 0.0;
-            for i in 0..12 {
-                max_seasonable = max_seasonable.max(self.seasonable_percent(i));
-            }
-            self.max_seasonable_percent = Some(max_seasonable);
+    pub fn max_seasonable_percent(&self) -> f64 {
+//        if self.max_seasonable_percent.is_none() {
+        let mut max_seasonable: f64 = 0.0;
+        for i in 0..12 {
+            max_seasonable = max_seasonable.max(self.seasonable_percent(i));
         }
-        self.max_seasonable_percent.unwrap()
+        max_seasonable
+//            self.max_seasonable_percent = Some(max_seasonable);
+//        }
+//        self.max_seasonable_percent.unwrap()
+    }
+
+    pub fn filter(&self, month: Option<usize>, meat: Option<bool>, seafood: Option<bool>,
+                  protein: Option<bool>, grain: Option<bool>, fruit: Option<bool>,
+                  vegetables: Option<bool>, vegan: Option<bool>, category: Option<&RecipeType>)
+                  -> bool {
+        (!(month.is_some() && self.seasonable_percent(month.unwrap()) != self.max_seasonable_percent()) &&
+            !(meat.is_some() && meat.unwrap() != self.meat) && !(seafood.is_some() && seafood.unwrap() != self.seafood)
+            && !(protein.is_some() && protein.unwrap() != self.protein) && !(grain.is_some() && grain.unwrap() != self.grain)
+            && !(fruit.is_some() && fruit.unwrap() != self.fruit) && !(vegetables.is_some() && vegetables.unwrap() != self.vegetables)
+            && !(vegan.is_some() && vegan.unwrap() != self.vegan) && !(category.is_some() && category.unwrap() != &self.category))
     }
 }
 
 impl RecipeBook {
     pub fn deserialize(recipe_book: &str) -> RecipeBook {
         toml::from_str(recipe_book).unwrap()
+    }
+
+    pub fn filter(self, month: Option<usize>, meat: Option<bool>, seafood: Option<bool>,
+                  protein: Option<bool>, grain: Option<bool>, fruit: Option<bool>,
+                  vegetables: Option<bool>, vegan: Option<bool>, category: Option<RecipeType>) -> Vec<Recipe> {
+        self.recipes.into_iter().filter(|r| r.filter(month, meat, seafood, protein, grain, fruit, vegetables, vegan, category.as_ref())).collect()
     }
 }
 
